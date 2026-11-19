@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+research/__pycache__/
+research/fuentes_pdf/
+research/*.png
+research/secop_crudo.json
+research/secop_crudo.csv
+research/secop_resumen.json
+research/validar_sintaxis.js
+research/bases-lif-2026-es.pdf*
+.playwright-mcp/

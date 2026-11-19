@@ -1,0 +1,17 @@
+{
+  "fecha": "2026-11-19",
+  "navegador": "Chromium mediante Playwright",
+  "resultado": "APROBADO",
+  "pruebas": [
+    {"caso": "Carga inicial", "resultado": "66 tarjetas; 5 abiertas; 27 SECOP; sin recursos externos ni errores de consola"},
+    {"caso": "Preset abiertas", "resultado": "5 registros; URL ?status=abierta"},
+    {"caso": "Preset Bogotá–Cundinamarca", "resultado": "21 registros; 10 candidatos SECOP"},
+    {"caso": "Preset SECOP", "resultado": "27 registros; orden por presupuesto"},
+    {"caso": "Persistencia", "resultado": "Filtros SECOP conservados al recargar"},
+    {"caso": "Búsqueda", "resultado": "Sogamoso devuelve 1 proceso y ficha expandible"},
+    {"caso": "Internacional abierta", "resultado": "4 registros al combinar capítulo 3 y abiertas"},
+    {"caso": "Exportación", "resultado": "Descarga economia_plateada_vista.csv"},
+    {"caso": "Tema", "resultado": "Oscuro/claro funcional"},
+    {"caso": "Móvil 390×844", "resultado": "Sin desbordamiento horizontal; 66 tarjetas"}
+  ]
+}

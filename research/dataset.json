@@ -1,0 +1,3037 @@
+{
+  "corte": "19 de noviembre de 2026",
+  "corte_secop": "2026-11-19 09:32:12 (hora Colombia)",
+  "total": 66,
+  "base": 39,
+  "secop": 27,
+  "items": [
+    {
+      "id": "c1-ccb-programa",
+      "cap": 1,
+      "nombre": "Programa de Economía Plateada para los Negocios",
+      "entidad": "Cámara de Comercio de Bogotá (CCB)",
+      "territorio": "Bogotá–Región",
+      "tipo": "Asistencia técnica y desarrollo empresarial",
+      "estado": "abierta",
+      "objetivo": "Promover productos y servicios para personas mayores y mejorar su bienestar, con servicios para empresas, personas mayores, familias y cuidadores.",
+      "encaje": "Puerta de entrada local para validar modelos, recibir asistencia y acceder a vitrinas, retos de innovación y relacionamiento. No anuncia capital ni desembolsos.",
+      "postulantes": [
+        "Empresas y emprendimientos",
+        "Personas mayores que crean empresa o actúan como mentoras",
+        "Cuidadores y familias"
+      ],
+      "requisitos": [
+        "Diligenciar el formulario",
+        "Definir la solución o necesidad relacionada con personas mayores",
+        "Confirmar ruta y agenda; la página no muestra matrícula mercantil como condición obligatoria"
+      ],
+      "presencia": "Inscripción en línea. No establece presencia física obligatoria; eventos y retos pueden definir lugar y horario.",
+      "canal": "Formulario en línea; Diana Torres, diana.torres@ccb.org.co, (601) 3830300 ext. 2759.",
+      "fuentes": [
+        {
+          "titulo": "Página oficial del programa",
+          "url": "https://www.ccb.org.co/es/servicios/haz-crecer-tu-empresa/mejora-la-estrategia-de-tu-empresa/programa-de-economia-plateada"
+        },
+        {
+          "titulo": "Formulario de inscripción",
+          "url": "https://forms.office.com/r/0L3aSR0aCE"
+        }
+      ],
+      "monto": "Gratuito; sin subsidio anunciado",
+      "cierre": "Registro abierto; sin cierre visible",
+      "prioridad": "Alta",
+      "temas": [
+        "Emprendimiento",
+        "Innovación",
+        "Cuidado"
+      ],
+      "accion": "Inscribirse y preparar ficha de modelo, cliente mayor, evidencia y necesidad de acompañamiento.",
+      "nota": ""
+    },
+    {
+      "id": "c1-ccb-cluster",
+      "cap": 1,
+      "nombre": "Clúster de Economía Plateada",
+      "entidad": "Cámara de Comercio de Bogotá (CCB)",
+      "territorio": "Bogotá–Región",
+      "tipo": "Articulación sectorial e innovación",
+      "estado": "activa",
+      "objetivo": "Convertir la transición demográfica en competitividad e innovación, conectando empresas, academia, Estado, organizaciones sociales y personas mayores.",
+      "encaje": "Plataforma para alianzas, cocreación, diagnósticos y mercados. En 2026 proyecta beneficiar 1.100 empresas, acompañar 200 modelos y hacer 200 diagnósticos. No es un fondo concursable.",
+      "postulantes": [
+        "Empresas y emprendedores",
+        "Academia",
+        "Sector público",
+        "Organizaciones sociales",
+        "Personas mayores"
+      ],
+      "requisitos": [
+        "Vincularse por los canales del programa/clúster",
+        "Presentar capacidades, oferta o reto",
+        "Acordar participación en diagnósticos, grupos de trabajo y agenda anual"
+      ],
+      "presencia": "El lanzamiento del 11 de marzo de 2026 fue presencial en Teatro Cafam. No se publica una obligación general de presencia para actividades futuras.",
+      "canal": "Formulario del Programa de Economía Plateada y contacto CCB.",
+      "fuentes": [
+        {
+          "titulo": "Comunicado oficial y metas 2026",
+          "url": "https://www.ccb.org.co/es/de-interes/comunicados/la-camara-de-comercio-de-bogota-lanza-el-cluster-de-economia-plateada"
+        }
+      ],
+      "monto": "Sin transferencia directa anunciada",
+      "cierre": "Iniciativa activa en 2026",
+      "prioridad": "Alta",
+      "temas": [
+        "Innovación",
+        "Alianzas",
+        "Tecnología"
+      ],
+      "accion": "Solicitar vinculación y proponer un proyecto intersectorial medible; no presupuestar recursos CCB sin confirmación escrita.",
+      "nota": ""
+    },
+    {
+      "id": "c1-ccb-sena-digital",
+      "cap": 1,
+      "nombre": "Capital semilla CCB–Fondo Emprender SENA para emprendedores digitales",
+      "entidad": "CCB y SENA",
+      "territorio": "Bogotá–Región",
+      "tipo": "Capital semilla y acompañamiento",
+      "estado": "historico",
+      "objetivo": "Financiar iniciativas digitales que responden a retos de economía popular; la selección incluyó economía plateada.",
+      "encaje": "Antecedente de cofinanciación: 97 proyectos y hasta $93 millones cada uno. Convocatoria de 2023, ejecución anunciada en 2024; no está abierta.",
+      "postulantes": [
+        "Emprendimientos digitales seleccionados en la convocatoria histórica"
+      ],
+      "requisitos": [
+        "Esperar nuevas bases",
+        "Acreditar plan de negocio, componente digital y condiciones Fondo Emprender",
+        "La selección histórica no habilita nuevas postulaciones"
+      ],
+      "presencia": "No existe una ruta física vigente; nuevas ediciones definirán modalidad.",
+      "canal": "Fondo Emprender y CCB.",
+      "fuentes": [
+        {
+          "titulo": "Comunicado oficial de seleccionados y montos",
+          "url": "https://www.ccb.org.co/es/de-interes/comunicados/seleccionados-97-emprendedores-digitales-para-fortalecer-la-economia-popular"
+        }
+      ],
+      "monto": "Histórico: $9.000 millones + $3.000 millones de acompañamiento; hasta $93 millones por proyecto",
+      "cierre": "Convocatoria 2023; seleccionados anunciados el 3 de abril de 2024",
+      "prioridad": "Media",
+      "temas": [
+        "Capital semilla",
+        "Tecnología"
+      ],
+      "accion": "Consultar una réplica a CCB/SENA; no tratarla como oferta actual.",
+      "nota": ""
+    },
+    {
+      "id": "c1-sdis-operadores",
+      "cap": 1,
+      "nombre": "Ruta SDIS para operadores ESAL de atención integral",
+      "entidad": "Secretaría Distrital de Integración Social (SDIS)",
+      "territorio": "Bogotá D.C.",
+      "tipo": "Convenios de asociación / contratación de operadores",
+      "estado": "historico",
+      "objetivo": "Seleccionar ESAL para atención integral de personas mayores con dependencia funcional; la oferta incluye centros, cuidado transitorio y comunidades de cuidado.",
+      "encaje": "Es operación social contratada, no subvención libre. La nota del 28 de abril de 2026 documenta una apertura; otros procesos 2026 usaron SECOP II. Cada expediente y plazo debe verificarse.",
+      "postulantes": [
+        "Entidades sin ánimo de lucro (ESAL)",
+        "Organizaciones sociales con capacidad operativa"
+      ],
+      "requisitos": [
+        "Personería jurídica y capacidad administrativa",
+        "Experiencia, equipo e infraestructura según proceso",
+        "Oferta electrónica en SECOP II cuando se indique",
+        "Cumplir protocolos, metas, reportes y supervisión SDIS"
+      ],
+      "presencia": "Postulación electrónica cuando se usa SECOP II; ejecución presencial en los servicios de Bogotá.",
+      "canal": "Portal SDIS y SECOP II; buscar el proceso por referencia y vigencia.",
+      "fuentes": [
+        {
+          "titulo": "Nota oficial SDIS del 28 de abril de 2026",
+          "url": "https://www.integracionsocial.gov.co/index.php/noticias/101-noticias-vejez/7870-integracion-social-abre-convocatoria-para-convenios-de-asociacion-para-la-atencion-de-personas-mayores-en-bogota"
+        },
+        {
+          "titulo": "Portal SECOP II",
+          "url": "https://www.colombiacompra.gov.co/secop/secop-ii"
+        }
+      ],
+      "monto": "No publicado / no aplica",
+      "cierre": "Antecedente 2026; no contado como ventana abierta",
+      "prioridad": "Alta",
+      "temas": [
+        "Cuidado",
+        "Dependencia",
+        "ESAL"
+      ],
+      "accion": "Preparar carpeta de operador ESAL y monitorear SECOP/SDIS; revisar pliegos antes de ofertar.",
+      "nota": "La nota redirigió al inicio durante la consulta; se conserva como antecedente, no como prueba de apertura actual."
+    },
+    {
+      "id": "c1-cundinamarca-estampilla",
+      "cap": 1,
+      "nombre": "Estampilla Departamental para el Bienestar de la Persona Mayor — distribución 2026",
+      "entidad": "Gobernación de Cundinamarca / Secretaría de lo Social y la Familia",
+      "territorio": "116 municipios de Cundinamarca",
+      "tipo": "Asignación pública territorial",
+      "estado": "activa",
+      "objetivo": "Financiar atención a personas mayores vulnerables mediante Centros Día/Vida y Centros de Protección de larga estancia.",
+      "encaje": "El CODEPS aprobó $9.500 millones para 2026: 70% ($6.650 millones) para Centros Día/Vida y 30% ($2.850 millones) para larga estancia; proyección de 49.862 beneficiarios. No es una convocatoria para empresas u ONG.",
+      "postulantes": [
+        "Entidades territoriales y operadores seleccionados por los mecanismos aplicables",
+        "Personas mayores beneficiarias mediante su municipio"
+      ],
+      "requisitos": [
+        "Para proyectos: articular con alcaldía y secretaría social municipal",
+        "Alinear con necesidad territorial, presupuesto y servicio autorizado",
+        "Para operación: participar en el contrato/convenio que publique la entidad",
+        "Para beneficiarios: aplican criterios de vulnerabilidad y registro municipal"
+      ],
+      "presencia": "La gestión del proyecto y la ejecución son territoriales. La Gobernación tiene sede en Calle 26 No. 51-53, Bogotá, pero eso no reemplaza la ruta municipal.",
+      "canal": "Alcaldías, Secretaría de lo Social y la Familia, CODEPS y procesos SECOP de municipios.",
+      "fuentes": [
+        {
+          "titulo": "Nota oficial de distribución, 14 de octubre de 2026",
+          "url": "https://cundinamarca.gov.co/noticias/cundinamarca-destina-9500-millones-para-la-atencion-de-las-personas-mayores"
+        }
+      ],
+      "monto": "$9.500 millones COP, vigencia 2026",
+      "cierre": "Asignación aprobada; no es ventana concursable",
+      "prioridad": "Alta",
+      "temas": [
+        "Centros Día",
+        "Larga estancia",
+        "Alimentación",
+        "Salud"
+      ],
+      "accion": "Elegir municipio, validar distribución local y presentar concepto técnico a la alcaldía; para ejecutar, seguir su contratación.",
+      "nota": ""
+    },
+    {
+      "id": "c1-sistema-cuidado",
+      "cap": 1,
+      "nombre": "Sistema Distrital de Cuidado: Manzanas, Buses y servicios",
+      "entidad": "Alcaldía Mayor de Bogotá y entidades distritales",
+      "territorio": "Bogotá D.C.",
+      "tipo": "Infraestructura y servicios de cuidado",
+      "estado": "activa",
+      "objetivo": "Reconocer, redistribuir y reducir el trabajo de cuidado; ofrecer servicios gratuitos mediante Manzanas y Buses del Cuidado y otras modalidades.",
+      "encaje": "Punto de articulación para proyectos de formación, tecnología, respiro y bienestar de cuidadores, incluidos quienes cuidan personas mayores. No es por sí mismo un fondo de economía plateada.",
+      "postulantes": [
+        "Personas cuidadoras y usuarias según cada servicio",
+        "Entidades del Convenio Interadministrativo Marco 913 de 2021",
+        "Aliados mediante mecanismos institucionales"
+      ],
+      "requisitos": [
+        "Para usuarios: consultar servicio, requisitos y Manzana/Bus",
+        "Para aliados: definir entidad competente y convenio/contrato",
+        "No asumir financiación por aparecer en el directorio"
+      ],
+      "presencia": "Sí para servicios presenciales en Manzanas y puntos de Buses; el directorio y mapa son digitales. Alianzas dependen de la entidad operadora.",
+      "canal": "Mapa y directorio del Sistema Distrital de Cuidado.",
+      "fuentes": [
+        {
+          "titulo": "Portal oficial y mapa",
+          "url": "https://sistemadecuidado.gov.co/"
+        },
+        {
+          "titulo": "Qué es y quiénes lo integran",
+          "url": "https://sistemadecuidado.gov.co/que-son/"
+        }
+      ],
+      "monto": "Servicios gratuitos; sin fondo concursable publicado",
+      "cierre": "Servicio permanente",
+      "prioridad": "Media",
+      "temas": [
+        "Cuidado",
+        "Formación",
+        "Bienestar"
+      ],
+      "accion": "Mapear Manzana/entidad operadora y proponer piloto complementario sin duplicar servicios gratuitos.",
+      "nota": ""
+    },
+    {
+      "id": "c1-idpac-chikana-sfos",
+      "cap": 1,
+      "nombre": "Fondo Chikaná 2026 — Organizaciones Sociales y Medios Comunitarios",
+      "entidad": "IDPAC",
+      "territorio": "Bogotá D.C.",
+      "tipo": "Incentivos en especie / fortalecimiento",
+      "estado": "cerrada",
+      "objetivo": "Fortalecer participación, convivencia y pertenencia mediante iniciativas de cultura de paz, ciudadana y democrática.",
+      "encaje": "Puede servir a organizaciones de personas mayores para tejido social y participación, pero entrega kits estandarizados, no dinero para ejecutar libremente un proyecto. Ya publicó 217 ganadores.",
+      "postulantes": [
+        "Organizaciones sociales",
+        "Medios comunitarios y alternativos elegibles"
+      ],
+      "requisitos": [
+        "Presentar una sola iniciativa en una línea",
+        "Cumplir acreditación territorial y documentos de los términos",
+        "Aceptar kit sin sustituciones",
+        "Revisar bases de una próxima edición"
+      ],
+      "presencia": "Enfoque y acreditación en Bogotá; postulación y documentos según plataforma IDPAC. La entrega/uso de kits es territorial.",
+      "canal": "Micrositio Chikaná / IDPAC.",
+      "fuentes": [
+        {
+          "titulo": "Página oficial, condiciones y resultados",
+          "url": "https://www.participacionbogota.gov.co/chikana/fortalecimiento-de-organizaciones-sociales-y-medios-comunitarios-sfos"
+        }
+      ],
+      "monto": "217 incentivos; kits en especie, no transferencia",
+      "cierre": "Cerrada; ganadores publicados",
+      "prioridad": "Media",
+      "temas": [
+        "Participación",
+        "Tejido social",
+        "Comunidad"
+      ],
+      "accion": "Usar como precedente para organizaciones de mayores; preparar plan de fortalecimiento para una futura edición.",
+      "nota": ""
+    },
+    {
+      "id": "c1-idpac-chikana-ipc",
+      "cap": 1,
+      "nombre": "Fondo Chikaná 2026 — Instancias de Participación Ciudadana",
+      "entidad": "IDPAC",
+      "territorio": "Bogotá D.C.",
+      "tipo": "Incentivos en especie / fortalecimiento",
+      "estado": "cerrada",
+      "objetivo": "Fortalecer capacidades organizativas, operativas y de incidencia de instancias de participación mediante bienes de uso colectivo.",
+      "encaje": "Ruta demostrada para Consejos de Sabios y comités de envejecimiento: la lista incluye estos actores. No entrega dinero, bonos ni reembolsos. Convocatoria con 49 beneficiarias y resultados publicados.",
+      "postulantes": [
+        "Instancias formales o no formales de participación ciudadana",
+        "Consejos de sabios y comités/mesas de envejecimiento"
+      ],
+      "requisitos": [
+        "Vincular iniciativa al Plan y Ruta de Fortalecimiento",
+        "Elegir una modalidad y acreditar necesidad",
+        "Aceptar kit estandarizado",
+        "Cumplir requisitos territoriales y documentos"
+      ],
+      "presencia": "Actuación en Bogotá; postulación digital. No requiere un punto físico para postular, pero sí capacidad de uso colectivo local.",
+      "canal": "Micrositio Chikaná / IDPAC.",
+      "fuentes": [
+        {
+          "titulo": "Página oficial, condiciones y resultados",
+          "url": "https://www.participacionbogota.gov.co/chikana/instancias-de-participacion-ciudadana"
+        }
+      ],
+      "monto": "$119,3 millones COP en 49 kits; no dinero",
+      "cierre": "Cerrada; resultados publicados",
+      "prioridad": "Alta",
+      "temas": [
+        "Participación",
+        "Envejecimiento activo",
+        "Comunidad"
+      ],
+      "accion": "Formalizar/actualizar plan de fortalecimiento de la instancia de mayores para una próxima convocatoria.",
+      "nota": ""
+    },
+    {
+      "id": "c1-idartes-danza-mayor",
+      "cap": 1,
+      "nombre": "Beca de Circulación en Danza Mayor 2026",
+      "entidad": "Idartes — Programa Distrital de Estímulos",
+      "territorio": "Bogotá D.C.",
+      "tipo": "Estímulo económico cultural",
+      "estado": "cerrada",
+      "objetivo": "Fomentar circulación de grupos de danza cuyos bailarines tengan 60 años o más, con categorías por trayectoria y experiencia.",
+      "encaje": "Financiación directa y específica para personas mayores: siete estímulos, cuatro de $8,4 millones (categoría A) y tres de $6,8 millones (B). Estado: adjudicada.",
+      "postulantes": [
+        "Agrupaciones de danza",
+        "Personas jurídicas culturales",
+        "Bailarines de 60 años o más"
+      ],
+      "requisitos": [
+        "Categoría A: trayectoria de seis o más años y experiencia/premios según bases",
+        "Categoría B: más de un año y experiencia local limitada",
+        "Identidades, certificados de residencia en Bogotá y Registro Único Nacional de Agentes Culturales",
+        "Personería jurídica cuando aplique, formato técnico y audición obligatoria"
+      ],
+      "presencia": "Postulación por CultuRed; audición presencial obligatoria en lugar programado por Idartes, con documento original y mismos integrantes inscritos.",
+      "canal": "Plataforma CultuRed; convocatoria@idartes.gov.co; (601) 3795750 ext. 3701–3704.",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial CultuRed 3514",
+          "url": "https://cultured.gov.co/detalle/convocatorias/3514"
+        },
+        {
+          "titulo": "Portafolio PDE 2026",
+          "url": "https://www.idartes.gov.co/es/convocatorias/estimulos/portafolio-2026"
+        }
+      ],
+      "monto": "$54 millones COP; 7 estímulos",
+      "cierre": "Cerró 12 de mayo de 2026, 17:00; adjudicada",
+      "prioridad": "Alta",
+      "temas": [
+        "Cultura",
+        "Danza",
+        "Envejecimiento activo"
+      ],
+      "accion": "Preparar evidencias anuales, registro RUNAC y disponibilidad de audición para una réplica; no postular a la edición adjudicada.",
+      "nota": ""
+    },
+    {
+      "id": "c1-idartes-pdac",
+      "cap": 1,
+      "nombre": "Programa Distrital de Apoyos Concertados (PDAC)",
+      "entidad": "SCRD / Idartes",
+      "territorio": "Bogotá D.C.",
+      "tipo": "Apoyo técnico y financiero a ESAL culturales",
+      "estado": "historico",
+      "objetivo": "Apoyar proyectos privados de interés público, artístico, cultural, patrimonial y creativo que se ejecuten en Bogotá, con acompañamiento institucional.",
+      "encaje": "Puede financiar un proyecto cultural de envejecimiento activo si la entidad y el proyecto cumplen la convocatoria anual. La página general no publica una ventana ni monto vigente al corte.",
+      "postulantes": [
+        "Personas jurídicas sin ánimo de lucro del sector cultural"
+      ],
+      "requisitos": [
+        "ESAL legalmente constituida",
+        "Domicilio principal o una sede en Bogotá",
+        "Ejecución en Bogotá",
+        "Acreditar experiencia/idoneidad y presentar documentos técnicos/administrativos de la convocatoria específica"
+      ],
+      "presencia": "Domicilio o sede en Bogotá y ejecución en la ciudad; inscripción digital por CultuRed.",
+      "canal": "CultuRed y Área de Fomento Idartes.",
+      "fuentes": [
+        {
+          "titulo": "Descripción oficial PDAC",
+          "url": "https://www.idartes.gov.co/es/convocatorias/apoyos"
+        },
+        {
+          "titulo": "Reglas generales de convocatorias",
+          "url": "https://www.idartes.gov.co/es/convocatorias"
+        }
+      ],
+      "monto": "No publicado / no aplica",
+      "cierre": "Sin ventana específica verificada al 19 de noviembre de 2026",
+      "prioridad": "Media",
+      "temas": [
+        "Cultura",
+        "ESAL",
+        "Envejecimiento activo"
+      ],
+      "accion": "Vigilar CultuRed y preparar certificado ESAL, sede, experiencia, presupuesto y resultados culturales.",
+      "nota": ""
+    },
+    {
+      "id": "c1-mas-cultura-local",
+      "cap": 1,
+      "nombre": "Más Cultura Local",
+      "entidad": "SCRD, Idartes, FUGA, Secretaría de Gobierno y Fondos de Desarrollo Local",
+      "territorio": "20 localidades de Bogotá",
+      "tipo": "Estímulos y concertación cultural territorial",
+      "estado": "historico",
+      "objetivo": "Materializar derechos culturales y dinamizar economía y gobernanza local mediante iniciativas priorizadas, convocatorias y conexiones culturales.",
+      "encaje": "Admite proyectos comunitarios con personas mayores dentro de líneas culturales; los montos y requisitos varían por localidad y convocatoria. No hay una ventana específica verificada al corte.",
+      "postulantes": [
+        "Agentes artísticos y culturales",
+        "Agrupaciones y organizaciones según convocatoria",
+        "Iniciativas priorizadas localmente"
+      ],
+      "requisitos": [
+        "Definir localidad y componente",
+        "Cumplir residencia/domicilio y documentos de cada llamado",
+        "Postular por CultuRed cuando sea convocatoria pública",
+        "Para componentes concertados, participar en instancias y presupuestos participativos"
+      ],
+      "presencia": "Fuerte presencia territorial en las 20 localidades; inscripción digital y jornadas/asesorías presenciales o virtuales según agenda.",
+      "canal": "CultuRed, Idartes y Fondos de Desarrollo Local.",
+      "fuentes": [
+        {
+          "titulo": "Descripción y cobertura oficial",
+          "url": "https://www.idartes.gov.co/es/mas-cultura-local/quienes-somos"
+        },
+        {
+          "titulo": "Reglas generales de participación",
+          "url": "https://www.idartes.gov.co/es/convocatorias"
+        }
+      ],
+      "monto": "No publicado / no aplica",
+      "cierre": "Calendario por localidad; sin ventana específica verificada",
+      "prioridad": "Media",
+      "temas": [
+        "Cultura",
+        "Comunidad",
+        "Economía local"
+      ],
+      "accion": "Seleccionar localidad y revisar el llamado específico; involucrar al Fondo de Desarrollo Local para concertación.",
+      "nota": ""
+    },
+    {
+      "id": "c2-sgr-general",
+      "cap": 2,
+      "nombre": "Sistema General de Regalías — inversión pública territorial",
+      "entidad": "DNP / Comisión Rectora y OCAD",
+      "territorio": "Colombia; cobertura según fuente y OCAD",
+      "tipo": "Inversión pública SGR",
+      "estado": "activa",
+      "objetivo": "Financiar proyectos de inversión que contribuyan al desarrollo social, económico y ambiental de entidades territoriales.",
+      "encaje": "Ruta estructural para Centros Día, protección, salud, accesibilidad o infraestructura de cuidado. No es una cuenta abierta a privados: requiere entidad habilitada, fuente pertinente y aprobación OCAD.",
+      "postulantes": [
+        "Entidades territoriales",
+        "Entidades nacionales y actores habilitados por la fuente",
+        "Comunidades étnicas en casos previstos",
+        "ONG/empresas como aliadas o contratistas, no solicitantes libres"
+      ],
+      "requisitos": [
+        "Identificar fuente, finalidad, beneficiario y OCAD",
+        "Formular MGA y registrar en SUIFP/PIIP",
+        "Acreditar necesidad, indicadores, presupuesto, sostenibilidad y requisitos sectoriales",
+        "Superar viabilidad, priorización, aprobación y posterior contratación"
+      ],
+      "presencia": "Trámite digital; ejecución física en el territorio. La asistencia DNP no reemplaza la radicación por la entidad habilitada.",
+      "canal": "SUIFP-SGR / PIIP, entidad territorial y OCAD; infosgr@dnp.gov.co.",
+      "fuentes": [
+        {
+          "titulo": "Fuentes de financiación",
+          "url": "https://2025.sgr.gov.co/Inversi%C3%B3n/FuentesdeFinanciaci%C3%B3n.aspx"
+        },
+        {
+          "titulo": "Ciclo de proyecto",
+          "url": "https://2025.sgr.gov.co/Inversi%C3%B3n/Ciclodelproyecto.aspx"
+        },
+        {
+          "titulo": "SUIFP-SGR",
+          "url": "https://2025.sgr.gov.co/Proyectos/BancodeProgramasyProyectosSUIFP.aspx"
+        },
+        {
+          "titulo": "Estructuración",
+          "url": "https://2025.sgr.gov.co/Proyectos/Estructuraci%C3%B3nSGR.aspx"
+        }
+      ],
+      "monto": "Variable por fuente, territorio y aprobación",
+      "cierre": "Ciclo permanente y convocatorias específicas",
+      "prioridad": "Alta",
+      "temas": [
+        "Regalías",
+        "Salud",
+        "Infraestructura"
+      ],
+      "accion": "Conseguir patrocinio de entidad habilitada y elaborar MGA antes de buscar OCAD.",
+      "nota": ""
+    },
+    {
+      "id": "c2-sgr-anexo15",
+      "cap": 2,
+      "nombre": "Anexo 15 de Salud y Protección Social — Acuerdo 18 de 2026",
+      "entidad": "Comisión Rectora del SGR / DNP",
+      "territorio": "Colombia, según fuente SGR",
+      "tipo": "Lineamiento sectorial SGR",
+      "estado": "activa",
+      "objetivo": "Incorporar reglas sectoriales para evaluar proyectos de salud y protección social con regalías.",
+      "encaje": "Referencia obligatoria para proyectos plateados de salud/protección social. Aplica desde el 6 de septiembre de 2026; no anuncia bolsa independiente ni postulación privada.",
+      "postulantes": [
+        "Entidades habilitadas para presentar proyectos SGR",
+        "Formuladores de salud y protección social"
+      ],
+      "requisitos": [
+        "Aplicar Anexo 15 y Acuerdo Único",
+        "Cumplir MGA, PIIP, requisitos generales/específicos y OCAD",
+        "Justificar población, productos, indicadores, costos y operación"
+      ],
+      "presencia": "Formulación digital y ejecución territorial. El PDF es escaneado y sin capa de texto útil; verificar visualmente el documento completo antes de radicar.",
+      "canal": "Portal SGR / PIIP / entidad habilitada.",
+      "fuentes": [
+        {
+          "titulo": "Acuerdo 18 y Anexo 15 — PDF oficial",
+          "url": "https://colaboracion.dnp.gov.co/CDT/Sistema%20General%20de%20las%20Regalas%20SGR/Normativa/actas-acuerdos/acuerdo-18-comision-rectora-2026-07-31.pdf"
+        },
+        {
+          "titulo": "Aviso oficial SGR",
+          "url": "https://www.sgr.gov.co/"
+        }
+      ],
+      "monto": "No crea bolsa propia",
+      "cierre": "Aplicable desde 6 de septiembre de 2026",
+      "prioridad": "Alta",
+      "temas": [
+        "Regalías",
+        "Salud"
+      ],
+      "accion": "Hacer lista de chequeo sectorial con la entidad antes de formular.",
+      "nota": "El informe no atribuye requisitos no legibles del PDF escaneado."
+    },
+    {
+      "id": "c2-ocad-paz-3",
+      "cap": 2,
+      "nombre": "Tercera Convocatoria OCAD Paz, bienio 2025–2026",
+      "entidad": "DNP y Agencia de Renovación del Territorio (ART)",
+      "territorio": "170 municipios PDET y 19 departamentos",
+      "tipo": "Convocatoria SGR — Asignación para la Paz",
+      "estado": "cerrada",
+      "objetivo": "Conformar proyectos que contribuyan a PDET/PATR, cierre de brechas, reparación y desarrollo territorial.",
+      "encaje": "Un proyecto plateado puede encajar si atiende brechas PDET y se asocia a PATR; debe postularlo una entidad habilitada. Hay postulados y aprobados publicados: no está abierta.",
+      "postulantes": [
+        "170 municipios PDET y 19 departamentos",
+        "Pueblos/comunidades indígenas y comunidades negras, afrocolombianas, raizales y palenqueras asentadas en PDET",
+        "Entidades del Gobierno nacional"
+      ],
+      "requisitos": [
+        "Usuario SUIFP-SGR/SIIAT del representante legal",
+        "MGA, BPIN y datos del proyecto",
+        "Concordancia ART/PATR y acta de socialización según caso",
+        "Formatos de víctimas/grupos étnicos cuando apliquen",
+        "Superar habilitación, evaluación y puntaje mínimo"
+      ],
+      "presencia": "Postulación digital por SIIAT; inversión en PDET. Socialización y ejecución pueden exigir actividades territoriales.",
+      "canal": "SIIAT; stecnicaocadpaz@dnp.gov.co; certificacionesocadpaz@renovacionterritorio.gov.co.",
+      "fuentes": [
+        {
+          "titulo": "Convocatorias y resultados",
+          "url": "https://2025.sgr.gov.co/Inversi%C3%B3n/OCADPAZ/Convocatoria20252026.aspx"
+        },
+        {
+          "titulo": "Términos 2, 3 y 4",
+          "url": "https://colaboracion.dnp.gov.co/CDT/Sistema%20General%20de%20las%20Regalas%20SGR/Convocatorias/terminos-de-referencia-convocatoria-2-3-4-ocad-paz-bienio-2025-2026-02-23.pdf"
+        },
+        {
+          "titulo": "Guía de postulación 3",
+          "url": "https://colaboracion.dnp.gov.co/CDT/Sistema%20General%20de%20las%20Regalas%20SGR/Convocatorias/guia-postulacion-proyectos-convocatoria-3-ocad-paz-bienio-2025-2026.pdf"
+        }
+      ],
+      "monto": "Según bolsas subregionales; sin monto único por proyecto",
+      "cierre": "Cerrada; aprobados publicados",
+      "prioridad": "Alta",
+      "temas": [
+        "Regalías",
+        "PDET"
+      ],
+      "accion": "Para futura ventana: trabajar con municipio/comunidad habilitada, PATR y ART antes de abrir SIIAT.",
+      "nota": ""
+    },
+    {
+      "id": "c2-minciencias-54",
+      "cap": 2,
+      "nombre": "Convocatoria 54 — capacidades científico-tecnológicas regionales",
+      "entidad": "MinCiencias / SGR Asignación CTeI",
+      "territorio": "Al menos dos departamentos de una misma región SGR",
+      "tipo": "Convocatoria CTeI / regalías",
+      "estado": "cerrada",
+      "objetivo": "Conformar proyectos regionales para demandas territoriales y fortalecer capacidades científico-tecnológicas; incluye salud territorial, innovación empresarial, territorios inteligentes y desarrollo social.",
+      "encaje": "Alta afinidad para solución plateada multidepartamental de salud, tecnología o servicios, si prueba componente CTeI y demanda territorial. No es financiación de operación asistencial ordinaria. Cerró antes del corte.",
+      "postulantes": [
+        "Alianzas con entidades proponentes e integrantes elegibles",
+        "Actores CTeI, territoriales, usuarios/adoptantes, empresas, cámaras y OSC según reglas"
+      ],
+      "requisitos": [
+        "Ejecutar en al menos dos departamentos de una región SGR",
+        "Conformar alianza y aportar actor usuario/adoptante",
+        "Documento técnico, presupuesto, avales, experiencia, MGA-WEB en borrador y usuario formulador PIIP",
+        "Demostrar punto de partida, productos CTeI, apropiación social y cumplimiento de anexos"
+      ],
+      "presencia": "Postulación digital PIIP; intervención directa en al menos dos departamentos. La evidencia territorial es sustantiva, no solo una dirección de oficina.",
+      "canal": "Página MinCiencias, PIIP y canal de contacto de la convocatoria.",
+      "fuentes": [
+        {
+          "titulo": "Página oficial Convocatoria 54",
+          "url": "https://minciencias.gov.co/node/9582"
+        },
+        {
+          "titulo": "Plan ACTeI 2025–2026",
+          "url": "https://minciencias.gov.co/plan-convocatorias-actei-2025-2026-0"
+        }
+      ],
+      "monto": "$927.591.817.322 COP; hasta $17.177.626.246 por proyecto",
+      "cierre": "Cerró 13 de noviembre de 2026, 16:00",
+      "prioridad": "Alta",
+      "temas": [
+        "Regalías",
+        "I+D+i",
+        "Salud"
+      ],
+      "accion": "Preparar consorcio y expediente para próxima ventana; resultados preliminares previstos 3 de diciembre de 2026.",
+      "nota": ""
+    },
+    {
+      "id": "c2-minciencias-55",
+      "cap": 2,
+      "nombre": "Convocatoria 55 — macroproyectos nacionales CTeI",
+      "entidad": "MinCiencias / SGR Asignación CTeI",
+      "territorio": "Al menos dos regiones SGR",
+      "tipo": "Convocatoria de macroproyectos / regalías",
+      "estado": "cerrada",
+      "objetivo": "Financiar capacidades compartidas y desarrollo, validación, demostración, transferencia o adopción multirregional de soluciones CTeI.",
+      "encaje": "Permite una solución plateada de escala nacional si hay capacidad CTeI verificable, varias regiones y alianza robusta. No cubre una idea conceptual ni simple prestación de servicios. Está cerrada.",
+      "postulantes": [
+        "Alianzas de mínimo tres personas jurídicas nacionales distintas"
+      ],
+      "requisitos": [
+        "Proponente con reconocimiento MinCiencias o idoneidad/trayectoria CTeI",
+        "Al menos dos integrantes; uno debe ser entidad territorial, empresa u organización social/étnico-territorial",
+        "Intervención en mínimo dos regiones y un departamento por región",
+        "Aval/gobernanza, documento técnico, presupuesto, experiencia, TRL, apropiación social, MGA-WEB y PIIP"
+      ],
+      "presencia": "Postulación digital; ejecución directa multirregional. No basta registrar una sede en cada región: deben acreditarse intervenciones y responsables.",
+      "canal": "MinCiencias / PIIP.",
+      "fuentes": [
+        {
+          "titulo": "Página oficial Convocatoria 55",
+          "url": "https://minciencias.gov.co/node/9581"
+        },
+        {
+          "titulo": "Plan ACTeI 2025–2026",
+          "url": "https://minciencias.gov.co/plan-convocatorias-actei-2025-2026-0"
+        }
+      ],
+      "monto": "$500.000 millones COP; 10 macroproyectos esperados; hasta $50.000 millones cada uno",
+      "cierre": "Cerró 13 de noviembre de 2026, 16:00",
+      "prioridad": "Alta",
+      "temas": [
+        "Regalías",
+        "I+D+i",
+        "Escalamiento"
+      ],
+      "accion": "Usar anexos como estándar de preparación; resultados preliminares previstos 3 de diciembre de 2026.",
+      "nota": ""
+    },
+    {
+      "id": "c2-minciencias-56",
+      "cap": 2,
+      "nombre": "Convocatoria 56 — recuperación y capacidades transformadoras",
+      "entidad": "MinCiencias / SGR Asignación CTeI",
+      "territorio": "16 departamentos afectados, incluido Cundinamarca; no Bogotá como territorio de la lista",
+      "tipo": "Convocatoria CTeI de emergencia / regalías",
+      "estado": "cerrada",
+      "objetivo": "Adaptar, validar, transferir, apropiar o escalar tecnologías e innovaciones para atención, recuperación y reconstrucción tras la emergencia declarada en 2026.",
+      "encaje": "La fuente posterior confirma cinco propuestas centradas en personas mayores por cerca de $67.000 millones: modelos de cuidado, salud mental, deterioro cognitivo y telesalud. La convocatoria cerró el 3 de noviembre.",
+      "postulantes": [
+        "Entidades y alianzas elegibles según TdR",
+        "Proyectos en Antioquia, Bolívar, Caldas, Caquetá, Cauca, Chocó, Cundinamarca, Huila, Nariño, Norte de Santander, Quindío, Risaralda, Santander, Sucre, Tolima y Valle"
+      ],
+      "requisitos": [
+        "Vincular el proyecto a la emergencia y territorios",
+        "Documento técnico, presupuesto, gobernanza, experiencia, TRL, apropiación social y anexos",
+        "MGA-WEB en borrador y rol formulador PIIP",
+        "Acreditar requisitos e inhabilidades del Anexo 14"
+      ],
+      "presencia": "Postulación digital; intervención directa en territorios afectados. Cundinamarca sí está incluida; no inferir cobertura de Bogotá.",
+      "canal": "MinCiencias / PIIP.",
+      "fuentes": [
+        {
+          "titulo": "Página oficial Convocatoria 56",
+          "url": "https://minciencias.gov.co/node/9577"
+        },
+        {
+          "titulo": "Nota oficial sobre propuestas para personas mayores",
+          "url": "https://minciencias.gov.co/sala_de_prensa/minciencias-propone-una-agenda-nacional-investigacion-e-innovacion-para-que-colombia"
+        }
+      ],
+      "monto": "$700.000 millones COP; cinco propuestas plateadas reportadas por cerca de $67.000 millones",
+      "cierre": "Cerró 3 de noviembre de 2026, 16:00",
+      "prioridad": "Alta",
+      "temas": [
+        "Regalías",
+        "Emergencia",
+        "Cuidado"
+      ],
+      "accion": "Hacer seguimiento al banco y usar las líneas como antecedente; resultados preliminares previstos 1 de diciembre.",
+      "nota": ""
+    },
+    {
+      "id": "c2-minciencias-agenda",
+      "cap": 2,
+      "nombre": "Agenda nacional emergente de investigación e innovación para la longevidad",
+      "entidad": "MinCiencias",
+      "territorio": "Colombia",
+      "tipo": "Agenda / articulación de ciencia e innovación",
+      "estado": "activa",
+      "objetivo": "Definir prioridades comunes de investigación e innovación en prevención, tecnologías de asistencia, cuidado, ruralidad y baja conectividad, con participación de personas mayores.",
+      "encaje": "Es una señal estratégica para preparar retos y alianzas, no una convocatoria con recursos propios. La invitación a empresas plateadas a Hecho con Ciencia puede dar visibilidad, pero no equivale a financiación.",
+      "postulantes": [
+        "Academia",
+        "Sector salud",
+        "Empresas de economía plateada",
+        "Organizaciones de cuidado",
+        "Personas mayores"
+      ],
+      "requisitos": [
+        "Proponer retos concretos a MinCiencias",
+        "Documentar evidencia, territorio y capacidades",
+        "Participar en espacios de articulación; revisar futuras bases y plan de convocatorias"
+      ],
+      "presencia": "El anuncio se realizó en evento en CCB Salitre; la participación futura depende de cada actividad. No se exige presencia para consultar la agenda.",
+      "canal": "MinCiencias y canales de contacto institucional.",
+      "fuentes": [
+        {
+          "titulo": "Nota oficial del 13 de noviembre de 2026",
+          "url": "https://minciencias.gov.co/sala_de_prensa/minciencias-propone-una-agenda-nacional-investigacion-e-innovacion-para-que-colombia"
+        }
+      ],
+      "monto": "Sin bolsa propia anunciada",
+      "cierre": "Agenda activa; sin cierre",
+      "prioridad": "Alta",
+      "temas": [
+        "I+D+i",
+        "Longevidad",
+        "Alianzas"
+      ],
+      "accion": "Presentar un reto priorizado y formar alianza academia–empresa–territorio antes de una próxima convocatoria.",
+      "nota": ""
+    },
+    {
+      "id": "c2-minciencias-salud-001",
+      "cap": 2,
+      "nombre": "Convocatoria 001-2026 — desafíos en salud derivados de desastre",
+      "entidad": "MinCiencias",
+      "territorio": "Colombia; soluciones para territorios afectados",
+      "tipo": "Convocatoria I+D+i en salud",
+      "estado": "cerrada",
+      "objetivo": "Fortalecer capacidades en salud mental y rehabilitación, enfermedades transmisibles, no transmisibles/cáncer y salud ambiental frente a desastres.",
+      "encaje": "Puede incluir envejecimiento dentro de salud mental, rehabilitación o enfermedad no transmisible si responde al desastre. No es una convocatoria general de economía plateada; está en evaluación.",
+      "postulantes": [
+        "Entidades ejecutoras domiciliadas en Colombia",
+        "IES, empresas y otras personas jurídicas idóneas",
+        "Centros/institutos/actores con reconocimiento cuando la figura lo exige",
+        "Co-ejecutoras y cooperantes opcionales"
+      ],
+      "requisitos": [
+        "Personería e idoneidad; reconocimiento vigente cuando aplique",
+        "Aval y compromiso; aval específico para OSC/étnicas",
+        "Documento técnico, presupuesto, experiencia y productos por línea/TRL",
+        "Postulación dentro del plazo y reglas de subsanación"
+      ],
+      "presencia": "Entidad ejecutora domiciliada en Colombia; postulación digital y trabajo territorial según proyecto.",
+      "canal": "Página MinCiencias y sistema indicado en los documentos.",
+      "fuentes": [
+        {
+          "titulo": "Página oficial y anexos",
+          "url": "https://minciencias.gov.co/convocatorias/convocatoria-ctei-para-la-atencion-desafios-en-salud-derivados-la-situacion-desastre"
+        }
+      ],
+      "monto": "$109.000 millones COP",
+      "cierre": "Cerró 16 de octubre de 2026, 17:00",
+      "prioridad": "Media",
+      "temas": [
+        "I+D+i",
+        "Salud",
+        "Rehabilitación"
+      ],
+      "accion": "Revisar banco preliminar publicado el 18 de noviembre; resultados definitivos previstos 30 de noviembre.",
+      "nota": ""
+    },
+    {
+      "id": "c2-fondo-emprender-152",
+      "cap": 2,
+      "nombre": "Fondo Emprender — Convocatoria Nacional 152 Economía Campesina",
+      "entidad": "SENA",
+      "territorio": "Colombia",
+      "tipo": "Capital semilla condonable",
+      "estado": "cerrada",
+      "objetivo": "Financiar ideas y unidades productivas campesinas mediante la ruta Fondo Emprender.",
+      "encaje": "Aplicable a emprendimiento senior rural solo si el grupo poblacional y el proyecto cumplen la línea campesina; la edad por sí sola no otorga elegibilidad. La vigencia publicada terminó.",
+      "postulantes": [
+        "Campesinos y campesinas con idea o unidad productiva",
+        "Emprendedores que cumplan reglas SENA"
+      ],
+      "requisitos": [
+        "Registro en plataforma Fondo Emprender",
+        "Formulación/acreditación y evaluación del plan",
+        "Acreditar condición campesina y documentos de la convocatoria",
+        "Cumplir puesta en marcha, aportes y obligaciones de las bases"
+      ],
+      "presencia": "Postulación en línea; acompañamiento y ejecución en la regional SENA/territorio. La página no anuncia una prórroga vigente.",
+      "canal": "Plataforma Fondo Emprender; soporteFE@sena.edu.co; (601) 7366060 / 018000910270.",
+      "fuentes": [
+        {
+          "titulo": "Portal oficial Fondo Emprender",
+          "url": "https://www.fondoemprender.com/"
+        }
+      ],
+      "monto": "$112.000 millones COP asignados a la convocatoria",
+      "cierre": "Hasta 30 de abril de 2026",
+      "prioridad": "Media",
+      "temas": [
+        "Capital semilla",
+        "Ruralidad"
+      ],
+      "accion": "Preparar plan para próxima ventana solo si el núcleo campesino se acredita; revisar portal, no usar la fecha vencida.",
+      "nota": ""
+    },
+    {
+      "id": "c2-fondo-emprender-161",
+      "cap": 2,
+      "nombre": "Fondo Emprender — Convocatoria Nacional 161 Personas con Discapacidad",
+      "entidad": "SENA",
+      "territorio": "Colombia",
+      "tipo": "Capital semilla condonable",
+      "estado": "cerrada",
+      "objetivo": "Impulsar creación y fortalecimiento de iniciativas productivas de personas con discapacidad en distintos sectores.",
+      "encaje": "Puede aplicar a una persona mayor con discapacidad o solución inclusive si cumple las bases; no es una línea general para toda persona mayor. La vigencia publicada terminó.",
+      "postulantes": [
+        "Personas con discapacidad emprendedoras",
+        "Equipos/iniciativas que cumplan condiciones específicas"
+      ],
+      "requisitos": [
+        "Registro y formulario en Fondo Emprender",
+        "Acreditar condición de discapacidad y demás soportes exigidos",
+        "Plan de negocio, evaluación, puesta en marcha y obligaciones"
+      ],
+      "presencia": "Postulación digital; ejecución y acompañamiento territorial SENA. No hay prórroga publicada en la página consultada.",
+      "canal": "Plataforma Fondo Emprender y mesa de ayuda SENA.",
+      "fuentes": [
+        {
+          "titulo": "Portal oficial Fondo Emprender",
+          "url": "https://www.fondoemprender.com/"
+        }
+      ],
+      "monto": "$5.500 millones COP asignados",
+      "cierre": "Hasta 30 de abril de 2026",
+      "prioridad": "Media",
+      "temas": [
+        "Capital semilla",
+        "Discapacidad"
+      ],
+      "accion": "Vigilar nueva ventana y acreditar primero la elegibilidad poblacional; no confundir discapacidad con vejez.",
+      "nota": ""
+    },
+    {
+      "id": "c2-fondo-emprender-162",
+      "cap": 2,
+      "nombre": "Fondo Emprender — Convocatoria Nacional 162 Indígenas",
+      "entidad": "SENA",
+      "territorio": "Colombia",
+      "tipo": "Capital semilla condonable",
+      "estado": "cerrada",
+      "objetivo": "Financiar iniciativas productivas, unidades económicas y planes de negocio de comunidades indígenas.",
+      "encaje": "Puede financiar emprendimiento de personas mayores indígenas cuando el proyecto y postulante cumplen el enfoque étnico; no aplica solo por edad. La edición publicada está cerrada.",
+      "postulantes": [
+        "Comunidades y emprendedores indígenas elegibles"
+      ],
+      "requisitos": [
+        "Registro en Fondo Emprender",
+        "Acreditar pertenencia/aval y condiciones de la línea",
+        "Formular plan, superar evaluación y cumplir ejecución y aportes"
+      ],
+      "presencia": "Postulación digital; ejecución territorial y acompañamiento SENA. No se anuncia prórroga vigente.",
+      "canal": "Plataforma Fondo Emprender y mesa de ayuda SENA.",
+      "fuentes": [
+        {
+          "titulo": "Portal oficial Fondo Emprender",
+          "url": "https://www.fondoemprender.com/"
+        }
+      ],
+      "monto": "$8.000 millones COP asignados",
+      "cierre": "Hasta 30 de abril de 2026",
+      "prioridad": "Media",
+      "temas": [
+        "Capital semilla",
+        "Pueblos indígenas"
+      ],
+      "accion": "Explorar próxima edición con organización/territorio indígena y validar avales antes de formular.",
+      "nota": ""
+    },
+    {
+      "id": "c2-mincultura-sinac",
+      "cap": 2,
+      "nombre": "Sistema de Convocatorias Culturales y Concertación Cultural 2027",
+      "entidad": "Ministerio de Cultura",
+      "territorio": "Colombia",
+      "tipo": "Estímulos e incentivos a proyectos culturales",
+      "estado": "proxima",
+      "objetivo": "Apoyar proyectos departamentales y de interés nacional, además de becas, estímulos, residencias y reconocimientos culturales.",
+      "encaje": "Los proyectos de creación, memoria, participación o formación con personas mayores pueden encajar si la línea futura los admite. Todos los portafolios 2026 aparecen cerrados; la nueva Concertación se proyecta para enero–febrero de 2027, sin montos/requisitos finales.",
+      "postulantes": [
+        "Personas naturales",
+        "Colectivos/agrupaciones",
+        "Personas jurídicas públicas/privadas",
+        "Organizaciones étnicas/campesinas según línea"
+      ],
+      "requisitos": [
+        "Registro en el Sistema de Convocatorias",
+        "Leer manual general y condiciones específicas cuando se publiquen",
+        "No presentar el mismo proyecto simultáneamente en portafolios incompatibles",
+        "Respetar límites de postulaciones/estímulos y documentos técnicos"
+      ],
+      "presencia": "Postulación digital. La ejecución territorial/cultural dependerá del proyecto; no se exige un punto físico para consultar.",
+      "canal": "Sistema de Convocatorias MinCultura.",
+      "fuentes": [
+        {
+          "titulo": "Portal oficial, estados y aviso de 2027",
+          "url": "https://www.mincultura.gov.co/convocatorias/Paginas/default.aspx"
+        }
+      ],
+      "monto": "Recursos 2027 por publicar",
+      "cierre": "Apertura proyectada enero–febrero de 2027; no abierta",
+      "prioridad": "Alta",
+      "temas": [
+        "Cultura",
+        "Participación"
+      ],
+      "accion": "Preparar propuesta y presupuesto, pero esperar manual específico y apropiación de recursos 2027 antes de comprometer gastos.",
+      "nota": ""
+    },
+    {
+      "id": "c2-colombia-mayor",
+      "cap": 2,
+      "nombre": "Colombia Mayor — ciclo de entregas iniciado el 28 de octubre de 2026",
+      "entidad": "Prosperidad Social",
+      "territorio": "Todo Colombia",
+      "tipo": "Transferencia monetaria a personas",
+      "estado": "activa",
+      "objetivo": "Contribuir al bienestar de personas mayores en vulnerabilidad mediante transferencias no destinadas a financiar proyectos institucionales.",
+      "encaje": "Relevante para diseñar servicios de inclusión financiera y acceso, pero no es una fuente para una ONG/empresa. El ciclo reporta 2.850.685 personas, hasta $230.000 por persona e inversión de $669.581 millones.",
+      "postulantes": [
+        "Personas mayores que cumplan requisitos del programa",
+        "Municipios para gestión de registro; operadores de pago seleccionados"
+      ],
+      "requisitos": [
+        "Para personas: consultar inscripción, residencia, edad, vulnerabilidad y listas en la alcaldía/oficina municipal",
+        "Para aliados tecnológicos: una relación comercial requiere contratación o alianza; no hay postulación de proyectos al subsidio"
+      ],
+      "presencia": "Registro y soporte mediante municipio; pagos por SuperGiros y SuRed con cobertura nacional. La postulación individual no se hace por SECOP.",
+      "canal": "Prosperidad Social, alcaldías y operadores de pago.",
+      "fuentes": [
+        {
+          "titulo": "Nota oficial del ciclo, 23 de octubre de 2026",
+          "url": "https://prosperidadsocial.gov.co/Noticias/el-28-de-octubre-prosperidad-social-inicia-un-nuevo-ciclo-de-entregas-de-colombia-mayor/"
+        },
+        {
+          "titulo": "Portal Colombia Mayor",
+          "url": "https://prosperidadsocial.gov.co/colombia-mayor/iniciocm/"
+        }
+      ],
+      "monto": "Ciclo: $669.581 millones COP; hasta $230.000 por persona",
+      "cierre": "Ciclo iniciado 28 de octubre de 2026",
+      "prioridad": "Media",
+      "temas": [
+        "Inclusión financiera",
+        "Transferencias"
+      ],
+      "accion": "Usar como contexto de necesidad, nunca como ingreso del proyecto; explorar contratación tecnológica separada si existe.",
+      "nota": ""
+    },
+    {
+      "id": "c2-saldarriaga",
+      "cap": 2,
+      "nombre": "Fundación Saldarriaga Concha — Territorios Inclusivos y recursos para personas mayores",
+      "entidad": "Fundación Saldarriaga Concha",
+      "territorio": "Colombia / Bogotá",
+      "tipo": "Cooperación técnica, comunidades y conocimiento",
+      "estado": "activa",
+      "objetivo": "Acompañar territorios y organizaciones en políticas, programas e iniciativas de inclusión; ofrecer comunidades y recursos sobre salud, cuidado, accesibilidad digital y gestión inclusiva.",
+      "encaje": "Aliado técnico de alto valor para formulación, evidencia y redes. La página consultada no publica convocatoria de subvención ni bolsa para proyectos plateados.",
+      "postulantes": [
+        "Entidades territoriales",
+        "Organizaciones y profesionales de inclusión",
+        "Personas mayores y cuidadores"
+      ],
+      "requisitos": [
+        "Definir necesidad técnica y contactar a la Fundación",
+        "Usar guías y participar en comunidades según condiciones",
+        "Para financiación: solicitar confirmación expresa; no inferirla de la cooperación técnica"
+      ],
+      "presencia": "Recursos digitales y oficina en Calle 72 No. 7-64, oficina 202, Bogotá. La asistencia territorial se acuerda según proyecto; no hay punto obligatorio publicado para postular.",
+      "canal": "Formulario de contacto; (601) 5141582.",
+      "fuentes": [
+        {
+          "titulo": "Portal de personas mayores y recursos",
+          "url": "https://www.saldarriagaconcha.org/personas-mayores/"
+        },
+        {
+          "titulo": "Página institucional",
+          "url": "https://www.saldarriagaconcha.org/"
+        }
+      ],
+      "monto": "Sin subvención abierta publicada",
+      "cierre": "Cooperación/recursos permanentes",
+      "prioridad": "Media",
+      "temas": [
+        "Asistencia técnica",
+        "Cuidado",
+        "Accesibilidad"
+      ],
+      "accion": "Contactar para alianza técnica y validación de diseño; separar el presupuesto de cooperación de cualquier expectativa de donación.",
+      "nota": ""
+    },
+    {
+      "id": "c2-ley-2055",
+      "cap": 2,
+      "nombre": "Ley 2055 de 2020 — Convención Interamericana sobre derechos de personas mayores",
+      "entidad": "Congreso de Colombia / Estado colombiano",
+      "territorio": "Colombia",
+      "tipo": "Marco normativo y de diseño",
+      "estado": "activa",
+      "objetivo": "Aprobar la Convención Interamericana y proteger derechos, autonomía, participación, salud, cuidado, vivienda, cultura, recreación e inclusión económica de las personas mayores.",
+      "encaje": "Debe orientar el diseño, indicadores, accesibilidad, participación y no discriminación de cualquier proyecto plateado. No crea por sí sola una convocatoria ni asignación presupuestal.",
+      "postulantes": [
+        "Entidades públicas responsables",
+        "Organizaciones, empresas y formuladores como marco de referencia"
+      ],
+      "requisitos": [
+        "Incorporar enfoque de derechos y participación de personas mayores",
+        "Diseñar accesibilidad, consentimiento, protección de datos y prevención de violencia/discriminación",
+        "Relacionar resultados con derechos específicos; para financiación, usar una fuente separada"
+      ],
+      "presencia": "No aplica un punto de postulación porque no es una convocatoria.",
+      "canal": "Texto oficial en Secretaría del Senado.",
+      "fuentes": [
+        {
+          "titulo": "Texto oficial Ley 2055 de 2020",
+          "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_2055_2020.html"
+        }
+      ],
+      "monto": "No crea financiación directa",
+      "cierre": "Marco vigente",
+      "prioridad": "Media",
+      "temas": [
+        "Derechos",
+        "Accesibilidad",
+        "Participación"
+      ],
+      "accion": "Usar una matriz de derechos y riesgos como anexo transversal de toda propuesta.",
+      "nota": ""
+    },
+    {
+      "id": "c3-caf-lif",
+      "cap": 3,
+      "nombre": "LIF 2026 — Soluciones digitales para la Economía Plateada",
+      "entidad": "CAF — Banco de Desarrollo de América Latina y el Caribe",
+      "territorio": "Países miembros CAF, incluido Colombia",
+      "tipo": "Aceleración, preparación para inversión y conexiones",
+      "estado": "cerrada",
+      "objetivo": "Identificar y fortalecer soluciones digitales de inclusión/educación/bienestar financiero para personas de 50 años o más, hogares, MiPymes senior y gobiernos.",
+      "encaje": "La convocatoria regional más específica encontrada. Admite capacidades financieras/digitales, productos financieros, MiPymes senior y GovTech. Cerró nuevas postulaciones; hasta 20 finalistas y 8 ganadores. No ofrece premio en efectivo ni inversión garantizada.",
+      "postulantes": [
+        "Personas jurídicas legalmente constituidas",
+        "Startups principalmente Seed, Post-Seed y Pre-Series A",
+        "Operaciones en al menos un país miembro CAF"
+      ],
+      "requisitos": [
+        "Solución tecnológica activa en mercado",
+        "Evidencia verificable de usuarios, clientes, pilotos, ingresos, contratos o alianzas",
+        "Enfoque explícito plateado y financiero",
+        "Disponibilidad para aceleración",
+        "No se admiten ideas, prototipos sin validación o investigación sin solución operativa"
+      ],
+      "presencia": "Aplicación en línea; Pitch Day virtual el 9 de diciembre. No se exige presencia física para postular; la operación en país miembro sí es obligatoria.",
+      "canal": "Portal/formulario CAF; cronograma: evaluación hasta 18 noviembre, finalistas 23 noviembre, aceleración enero–mayo 2027.",
+      "fuentes": [
+        {
+          "titulo": "Bases oficiales LIF 2026 — PDF",
+          "url": "https://www.caf.com/media/4687951/bases-lif-2026-es.pdf"
+        },
+        {
+          "titulo": "Ficha oficial Bogotá Internacional",
+          "url": "https://bogota.gov.co/boletin-oferta-internacional/caf-impulsa-startups-con-soluciones-para-la-economia-plateada"
+        }
+      ],
+      "monto": "Aceleración y conexiones; sin premio monetario listado",
+      "cierre": "Cerró 18 de octubre de 2026",
+      "prioridad": "Alta",
+      "temas": [
+        "Inclusión financiera",
+        "Tecnología",
+        "MiPymes"
+      ],
+      "accion": "Monitorear finalistas y próxima edición; preparar tracción e indicadores. No presentar solicitud fuera de plazo.",
+      "nota": ""
+    },
+    {
+      "id": "c3-bid-silver-ventures",
+      "cap": 3,
+      "nombre": "Silver Ventures: Catalyzing the Ecosystem of the Silver Economy in LAC",
+      "entidad": "BID / BID Lab — RG-T4838",
+      "territorio": "Regional América Latina y Caribe",
+      "tipo": "Cooperación técnica no reembolsable en implementación",
+      "estado": "activa",
+      "objetivo": "Fortalecer startups que ofrecen soluciones innovadoras para y por personas mayores y desarrollar el ecosistema plateado regional.",
+      "encaje": "Proyecto aprobado el 19 de noviembre de 2025 y en implementación: USD 2 millones no reembolsables, costo total USD 9,55 millones y contrapartida USD 7,55 millones. La ficha no anuncia convocatoria ni postulación directa.",
+      "postulantes": [
+        "Ejecutores del proyecto; startups solo si se abre un mecanismo específico"
+      ],
+      "requisitos": [
+        "No hay bases abiertas en la ficha",
+        "Contactar BID Lab para conocer ejecutores, futuras ventanas o pilotos",
+        "No solicitar como si el monto total fuera una bolsa disponible"
+      ],
+      "presencia": "Proyecto regional; no se publica un punto físico de aplicación. Cualquier actividad depende del ejecutor.",
+      "canal": "Ficha de proyecto BID y página de Calls for Proposals.",
+      "fuentes": [
+        {
+          "titulo": "Ficha oficial RG-T4838",
+          "url": "https://www.iadb.org/en/project/RG-T4838"
+        },
+        {
+          "titulo": "Convocatorias BID",
+          "url": "https://www.iadb.org/en/how-we-can-work-together/calls-proposals"
+        }
+      ],
+      "monto": "USD 2 millones no reembolsables; costo total USD 9.549.950",
+      "cierre": "En implementación; sin convocatoria abierta en la ficha",
+      "prioridad": "Alta",
+      "temas": [
+        "Startups",
+        "Ecosistema",
+        "Innovación"
+      ],
+      "accion": "Seguir ejecutores y futuras convocatorias; proponer piloto solo cuando exista canal confirmado.",
+      "nota": ""
+    },
+    {
+      "id": "c3-bid-reto-2021",
+      "cap": 3,
+      "nombre": "Silver Economy Innovation for Inclusion Challenge",
+      "entidad": "BID y BID Lab",
+      "territorio": "Países miembros BID, incluido Colombia en el reto histórico",
+      "tipo": "Reto de innovación",
+      "estado": "historico",
+      "objetivo": "Identificar modelos listos para implementación en salud y cuidado de larga duración, finanzas, empleo/formación, vivienda, movilidad y tecnología plateada.",
+      "encaje": "Antecedente útil para entender sectores BID, pero cerró el 31 de julio de 2021. No confundir con Silver Ventures ni presentarlo como oportunidad actual.",
+      "postulantes": [
+        "Organizaciones legalmente registradas en países miembros según el reto histórico"
+      ],
+      "requisitos": [
+        "Edición cerrada; para futuras oportunidades revisar convocatorias BID Lab",
+        "Solución innovadora, implementación, registro legal y documentos de la nueva convocatoria"
+      ],
+      "presencia": "El reto histórico fue digital; no hay punto físico vigente.",
+      "canal": "Portal histórico de convocatorias BID.",
+      "fuentes": [
+        {
+          "titulo": "Página oficial del reto y cierre",
+          "url": "https://convocatorias.iadb.org/en/bid-lab/silver-economy"
+        },
+        {
+          "titulo": "Resultados oficiales",
+          "url": "https://www.iadb.org/en/news/idb-lab-and-idb-announce-results-silver-economy-challenge"
+        }
+      ],
+      "monto": "No publicado / no aplica",
+      "cierre": "Cerró 31 de julio de 2021",
+      "prioridad": "Media",
+      "temas": [
+        "Cuidado",
+        "Finanzas",
+        "Vivienda"
+      ],
+      "accion": "Conservar solo como antecedente temático; priorizar Silver Ventures y el portal de convocatorias.",
+      "nota": ""
+    },
+    {
+      "id": "c3-dprize",
+      "cap": 3,
+      "nombre": "D-Prize Global Competition 2026",
+      "entidad": "D-Prize",
+      "territorio": "Global; Colombia no está excluida",
+      "tipo": "Capital semilla para nueva organización",
+      "estado": "abierta",
+      "objetivo": "Crear organizaciones que distribuyan soluciones probadas contra la pobreza a población de última milla, con piloto y posterior escala.",
+      "encaje": "Ventana abierta y concreta: hasta USD 20.000. El reto de gafas de lectura puede beneficiar directamente a personas mayores; 'Propose your own' admite otra intervención con evidencia creíble. No basta una idea general de bienestar: debe existir intervención probada y plan de distribución.",
+      "postulantes": [
+        "Nuevas organizaciones y emprendedores primerizos",
+        "Organizaciones existentes solo si su foco central es distribuir una intervención probada"
+      ],
+      "requisitos": [
+        "Organización nueva; normalmente menos de 18 meses de operación a tiempo completo",
+        "Normalmente no más de USD 30.000 recaudados",
+        "Nota conceptual de dos páginas y hojas de vida",
+        "Elegir reto/paquete y demostrar evidencia, última milla, piloto y escala",
+        "Ronda 2 escrita y entrevistas finales por teléfono/correo"
+      ],
+      "presencia": "Aplicación digital; entrevistas remotas. El piloto sí requiere ejecución y distribución en el territorio elegido, no una oficina en Colombia exigida por la convocatoria.",
+      "canal": "Portal D-Prize. Fechas Pacific Time: cierre regular 15 noviembre; prórroga registrada hasta 6 diciembre de 2026, medianoche PT.",
+      "fuentes": [
+        {
+          "titulo": "Página oficial, retos, elegibilidad y cronograma",
+          "url": "https://d-prize.org/"
+        }
+      ],
+      "monto": "Hasta USD 20.000 para lanzamiento",
+      "cierre": "Prórroga: 6 de diciembre de 2026, 23:59 PT",
+      "prioridad": "Alta",
+      "temas": [
+        "Capital semilla",
+        "Gafas de lectura",
+        "Pobreza"
+      ],
+      "accion": "Registrar prórroga y postular una nueva organización con piloto de gafas u otra intervención probada; cuantificar beneficiarios y distribución.",
+      "nota": ""
+    },
+    {
+      "id": "c3-drk",
+      "cap": 3,
+      "nombre": "Draper Richards Kaplan Foundation — financiación de empresas sociales",
+      "entidad": "DRK Foundation",
+      "territorio": "Global; evaluar elegibilidad en screener",
+      "tipo": "Donación o inversión no restringida",
+      "estado": "abierta",
+      "objetivo": "Apoyar organizaciones sociales tempranas, escalables y de alto impacto lideradas por emprendedores excepcionales que atienden poblaciones vulnerables.",
+      "encaje": "Aplicable a una empresa social plateada con piloto, resultados y plan de escala. Ofrece hasta USD 300.000 en tres años, en donación o inversión y por tramos, más acompañamiento intensivo. No financia idea/pre-piloto, investigación sin intervención o proyectos solo locales sin escala.",
+      "postulantes": [
+        "Organizaciones nonprofit y for-profit elegibles",
+        "Empresas sociales tempranas, típicamente de 3–5 años, evaluadas caso a caso"
+      ],
+      "requisitos": [
+        "Completar screener y formulario en línea",
+        "Adjuntar resumen ejecutivo/deck/plan con problema, solución, impacto, escala e ingresos",
+        "Adjuntar CV estándar de líderes; bios de texto no reemplazan CV",
+        "Evidencia de pilotos/resultados, población vulnerable, medición y escalabilidad",
+        "Disponibilidad para relación de tres años y participación de DRK en gobierno"
+      ],
+      "presencia": "Solicitud en línea y sin presencia física para aplicar. DRK combina conexiones digitales/presenciales y retiro anual; la operación debe probar impacto en la población.",
+      "canal": "Formulario DRK; aplicaciones todo el año, sin fecha límite. Reaplicación: máximo dos y no antes de un año del rechazo.",
+      "fuentes": [
+        {
+          "titulo": "Aplicación y materiales",
+          "url": "https://drkfoundation.org/apply/"
+        },
+        {
+          "titulo": "Modelo de financiación",
+          "url": "https://drkfoundation.org/our-model/"
+        },
+        {
+          "titulo": "Preguntas frecuentes y montos",
+          "url": "https://drkfoundation.org/faq/"
+        }
+      ],
+      "monto": "Hasta USD 300.000 en 3 años + apoyo en especie",
+      "cierre": "Abierta todo el año",
+      "prioridad": "Alta",
+      "temas": [
+        "Empresa social",
+        "Escala",
+        "Inversión"
+      ],
+      "accion": "Completar screener solo si existe piloto y escala; preparar deck, CV y métricas. No aplicar a una idea o programa no autónomo.",
+      "nota": ""
+    },
+    {
+      "id": "c3-pollination",
+      "cap": 3,
+      "nombre": "The Pollination Project — Daily Grants",
+      "entidad": "The Pollination Project Foundation",
+      "territorio": "Global; solicitudes internacionales admitidas",
+      "tipo": "Micro-subvención semilla",
+      "estado": "abierta",
+      "objetivo": "Apoyar acciones comunitarias tempranas, voluntarias y de propósito caritativo en áreas como salud, dignidad, equidad, empoderamiento, educación y desarrollo comunitario.",
+      "encaje": "Puede financiar un piloto comunitario de inclusión digital, participación, cuidado o bienestar de personas mayores. Debe ser temprano, liderado por voluntarios y sin ánimo de lucro personal. La página actual no muestra el monto del Daily Grant; confirmarlo antes de presupuestar.",
+      "postulantes": [
+        "Individuos",
+        "Grupos informales",
+        "Organizaciones sin fines de lucro tempranas de cualquier país"
+      ],
+      "requisitos": [
+        "Proyecto con presupuesto menor a USD 10.000 y organización menor a USD 50.000",
+        "Liderazgo voluntario, sin personal pago; servicios profesionales ocasionales permitidos",
+        "Trabajo/planificación ya iniciada y primera subvención TPP",
+        "Solicitud solo en inglés y referee para aplicante internacional",
+        "Recibir USD por transferencia o PayPal; reportar resultados, fotos y recibos"
+      ],
+      "presencia": "Aplicación en línea, sin punto físico. La acción comunitaria sí se ejecuta en el territorio. Decisiones en 6–12 semanas según página.",
+      "canal": "Formulario TPP. Cierra el año 30 de noviembre de 2026, 23:59 US Eastern; reabre 1 de enero de 2027.",
+      "fuentes": [
+        {
+          "titulo": "Guía oficial y aplicación",
+          "url": "https://thepollinationproject.org/apply/"
+        }
+      ],
+      "monto": "Micro-subvención; monto no visible en la página actual",
+      "cierre": "30 de noviembre de 2026, 23:59 ET; reabre 1 de enero de 2027",
+      "prioridad": "Alta",
+      "temas": [
+        "Comunidad",
+        "Voluntariado",
+        "Inclusión"
+      ],
+      "accion": "Aplicar en inglés con referee y presupuesto pequeño; confirmar monto. No incluir salarios del solicitante/familia ni investigación sin acción.",
+      "nota": ""
+    },
+    {
+      "id": "c3-globalgiving",
+      "cap": 3,
+      "nombre": "Pathway to GlobalGiving",
+      "entidad": "GlobalGiving",
+      "territorio": "Global, sujeto a evaluación e invitación",
+      "tipo": "Crowdfunding y preparación para recaudación",
+      "estado": "abierta",
+      "objetivo": "Preparar organizaciones sin fines de lucro para recaudar, realizar due diligence y acceder a la comunidad/plataforma GlobalGiving.",
+      "encaje": "Ruta para financiar proyectos plateados con donantes, no subvención garantizada. La encuesta de interés no da acceso automático; GlobalGiving invita cohortes pequeñas cada dos meses.",
+      "postulantes": [
+        "Organizaciones sin fines de lucro que superen selección y debida diligencia"
+      ],
+      "requisitos": [
+        "Completar encuesta de interés",
+        "Si son invitadas: Fundraising-Ready Workbook",
+        "Entregar documentos de debida diligencia",
+        "Diseñar estrategia de recaudación y cumplir reglas, tarifas y reportes de plataforma"
+      ],
+      "presencia": "Proceso digital y auto-guiado; sin presencia física. La organización debe ejecutar y documentar el proyecto en su comunidad.",
+      "canal": "Formulario de interés GlobalGiving; cohorte bimestral por invitación.",
+      "fuentes": [
+        {
+          "titulo": "Página oficial Pathway",
+          "url": "https://www.globalgiving.org/join/"
+        }
+      ],
+      "monto": "Recaudación variable; no grant ni ingreso garantizado",
+      "cierre": "Encuesta disponible; invitación bimestral",
+      "prioridad": "Media",
+      "temas": [
+        "Donaciones",
+        "ESAL",
+        "Recaudación"
+      ],
+      "accion": "Usar como canal de donaciones complementario; preparar documentos legales/financieros y comunidad de donantes antes de esperar ingresos.",
+      "nota": ""
+    },
+    {
+      "id": "c3-fastforward",
+      "cap": 3,
+      "nombre": "Fast Forward Accelerator para organizaciones tecnológicas sin fines de lucro",
+      "entidad": "Fast Forward",
+      "territorio": "Global; revisar apertura de cohorte",
+      "tipo": "Aceleración y financiación no restringida",
+      "estado": "historico",
+      "objetivo": "Acelerar organizaciones tecnológicas nonprofit tempranas mediante formación, mentoría, red, Demo Day y capital.",
+      "encaje": "Una solución digital plateada nonprofit con MVP puede encajar. El programa ofrece USD 25.000 o más no restringidos, pero la página consultada solo ofrece registro para novedades y no publica una fecha de aplicación abierta al corte.",
+      "postulantes": [
+        "Fundadores de tech nonprofits tempranos",
+        "Organizaciones con modelo nonprofit y MVP construido"
+      ],
+      "requisitos": [
+        "Modelo de financiación nonprofit",
+        "Mínimo producto viable construido",
+        "Talento tecnológico en liderazgo o plan para incorporarlo",
+        "Impacto y escala de software",
+        "Esperar apertura y revisar formulario/fechas de cohorte"
+      ],
+      "presencia": "No se verifica una obligación de presencia en la página general; revisar la cohorte. Demo Day y actividades siguen el calendario del programa.",
+      "canal": "Formulario de novedades del Accelerator.",
+      "fuentes": [
+        {
+          "titulo": "Página oficial del Accelerator",
+          "url": "https://www.ffwd.org/accelerator/"
+        }
+      ],
+      "monto": "USD 25.000+ no restringidos cuando se accede al programa",
+      "cierre": "Sin ventana/calendario abierto verificado",
+      "prioridad": "Media",
+      "temas": [
+        "Tecnología",
+        "Nonprofit",
+        "Aceleración"
+      ],
+      "accion": "Registrar interés solo con MVP; no contar el capital como disponible hasta que abra y seleccione.",
+      "nota": ""
+    },
+    {
+      "id": "c3-undef",
+      "cap": 3,
+      "nombre": "United Nations Democracy Fund (UNDEF)",
+      "entidad": "Fondo de las Naciones Unidas para la Democracia",
+      "territorio": "Global; proyectos de sociedad civil",
+      "tipo": "Subvención para democracia y participación",
+      "estado": "historico",
+      "objetivo": "Fortalecer voz de sociedad civil, derechos humanos y participación de grupos en procesos democráticos.",
+      "encaje": "Solo encaja un proyecto plateado centrado en participación cívica/derechos, no en servicios o negocio. Referencia histórica: USD 100.000–200.000 y dos años. La página consultada conserva la ventana 1–28 de febrero de 2025; no publica una ronda 2026 abierta al corte.",
+      "postulantes": [
+        "Organizaciones de sociedad civil que cumplan las guías UNDEF"
+      ],
+      "requisitos": [
+        "Formulario en línea solo durante ventana",
+        "Propuesta en inglés o francés",
+        "Trayectoria, impacto, inclusión, género, sostenibilidad y relación costo/beneficio",
+        "Fase posterior de documento completo y due diligence si preseleccionados"
+      ],
+      "presencia": "Exclusivamente propuesta en línea; no acepta correo, papel, entrega física ni otros canales. Ejecución según proyecto.",
+      "canal": "Sistema de propuestas UNDEF durante la ventana anual.",
+      "fuentes": [
+        {
+          "titulo": "Guía oficial de aplicación",
+          "url": "https://www.un.org/democracyfund/apply-for-funding"
+        }
+      ],
+      "monto": "Referencia: USD 100.000–200.000; dos años",
+      "cierre": "Sin ronda abierta publicada; página muestra 2025",
+      "prioridad": "Media",
+      "temas": [
+        "Participación",
+        "Derechos",
+        "OSC"
+      ],
+      "accion": "Vigilar nueva ventana y solo aplicar con teoría de cambio democrática; no usar para cuidado asistencial.",
+      "nota": ""
+    },
+    {
+      "id": "c3-unwomen",
+      "cap": 3,
+      "nombre": "UN Trust Fund to End Violence against Women — ciclo 2025",
+      "entidad": "ONU Mujeres / UN Trust Fund",
+      "territorio": "Global; OSC de países elegibles según bases",
+      "tipo": "Subvención flexible y core funding",
+      "estado": "cerrada",
+      "objetivo": "Financiar organizaciones de sociedad civil que previenen y atienden violencia contra mujeres y niñas estructuralmente marginadas.",
+      "encaje": "Puede encajar prevención/atención de violencia contra mujeres mayores, no un proyecto plateado general. La convocatoria 2025 cerró; otorga cuatro años y espera asignar hasta USD 20 millones entre cohortes 2026–2027. La próxima se espera a mediados de 2027.",
+      "postulantes": [
+        "Organizaciones de sociedad civil, especialmente organizaciones de derechos de mujeres según bases"
+      ],
+      "requisitos": [
+        "Aplicación competitiva y documentos de la convocatoria",
+        "Especialización en violencia contra mujeres/niñas",
+        "Debida diligencia y propuesta completa si preseleccionada",
+        "Revisar elegibilidad específica de la próxima edición"
+      ],
+      "presencia": "Aplicación digital; ejecución territorial de servicios/prevención. No hay postulación presencial.",
+      "canal": "Portal UN Trust Fund y boletín para nueva convocatoria.",
+      "fuentes": [
+        {
+          "titulo": "Estado oficial, preguntas y próxima ventana",
+          "url": "https://untf.unwomen.org/en/grant-giving/call-for-proposals"
+        }
+      ],
+      "monto": "Hasta USD 20 millones para cohortes; monto individual según bases",
+      "cierre": "Cerró 19 de noviembre de 2025; próxima estimada mediados de 2027",
+      "prioridad": "Media",
+      "temas": [
+        "Mujeres mayores",
+        "Violencia",
+        "OSC"
+      ],
+      "accion": "Preparar solo si la organización tiene trayectoria en violencia de género; suscribirse para 2027.",
+      "nota": ""
+    },
+    {
+      "id": "c3-iaf",
+      "cap": 3,
+      "nombre": "Inter-American Foundation — Community Development Grants",
+      "entidad": "IAF",
+      "territorio": "América Latina y Caribe; Colombia no excluida",
+      "tipo": "Subvención comunitaria",
+      "estado": "pausada",
+      "objetivo": "Financiar desarrollo liderado por comunidades y organizaciones locales con soluciones viables, contrapartida, participación y sostenibilidad.",
+      "encaje": "Un proyecto comunitario plateado podría encajar por mérito, no por sector. Sin embargo, la página advierte que la financiación está pausada por la orden ejecutiva de reevaluación de ayuda exterior de EE. UU., pese al texto que menciona propuestas durante 365 días.",
+      "postulantes": [
+        "Organizaciones locales/grassroots basadas en países independientes de ALC",
+        "No gobiernos, individuos, empresas privadas ni grupos sin contrapartida"
+      ],
+      "requisitos": [
+        "Historial de trabajo colectivo y capacidad de administrar fondos",
+        "Contrapartida financiera o en especie",
+        "Participación comunitaria, resultados y sostenibilidad",
+        "Solicitud GovGrants cuando se reactive",
+        "No financia solo investigación, construcción/equipos o caridad/asistencia sin desarrollo"
+      ],
+      "presencia": "Aplicación digital GovGrants cuando se reactive; organización local y ejecución comunitaria. No postular durante la pausa como si estuviera abierta.",
+      "canal": "Página IAF y GovGrants; inquiries@iaf.gov.",
+      "fuentes": [
+        {
+          "titulo": "Estado, elegibilidad y aplicación oficial",
+          "url": "https://www.iaf.gov/apply-for-grant/"
+        }
+      ],
+      "monto": "Referencia publicada: USD 25.000–400.000",
+      "cierre": "Financiación pausada al 19 de noviembre de 2026",
+      "prioridad": "Media",
+      "temas": [
+        "Comunidad",
+        "Desarrollo local"
+      ],
+      "accion": "Monitorear la reactivación; preparar contrapartida y gobernanza, sin incurrir en costos de aplicación innecesarios.",
+      "nota": ""
+    },
+    {
+      "id": "c3-wellcome",
+      "cap": 3,
+      "nombre": "Wellcome Discovery Awards",
+      "entidad": "Wellcome Trust",
+      "territorio": "Reino Unido y países de ingreso bajo/medio de África, Asia del Sur y Asia Sudoriental",
+      "tipo": "Investigación en salud",
+      "estado": "no_elegible",
+      "objetivo": "Financiar investigación audaz liderada por investigadores establecidos que produzca avances significativos en salud y bienestar.",
+      "encaje": "Aunque acepta solicitudes todo el año y puede investigar envejecimiento, una organización administradora con sede en Colombia no entra en la geografía publicada. Colombia podría explorar colaboración, pero no liderar desde una sede colombiana bajo esta regla.",
+      "postulantes": [
+        "Investigadores establecidos con organización administradora en territorios elegibles"
+      ],
+      "requisitos": [
+        "Programa de investigación y liderazgo en geografía elegible",
+        "Colombia: solo explorar rol de colaborador, sin asumir financiación directa",
+        "Presupuesto justificado y demás condiciones Wellcome"
+      ],
+      "presencia": "No aplica una ruta de postulación desde sede colombiana bajo la regla consultada.",
+      "canal": "Portal Wellcome Funding.",
+      "fuentes": [
+        {
+          "titulo": "Esquema oficial y geografía elegible",
+          "url": "https://wellcome.org/research-funding/schemes/wellcome-discovery-awards"
+        }
+      ],
+      "monto": "Promedio £3,5 millones; hasta 8 años; no aplicable directamente a sede Colombia",
+      "cierre": "Sin cierre, pero Colombia fuera de geografía elegible",
+      "prioridad": "No",
+      "temas": [
+        "Investigación",
+        "Salud"
+      ],
+      "accion": "No invertir en una solicitud como sede colombiana; solo evaluar colaboración internacional elegible.",
+      "nota": ""
+    },
+    {
+      "id": "c3-gif",
+      "cap": 3,
+      "nombre": "Global Innovation Fund",
+      "entidad": "Global Innovation Fund",
+      "territorio": "Prioridad estratégica 2026: África y Asia",
+      "tipo": "Grant, deuda y capital para innovación",
+      "estado": "no_elegible",
+      "objetivo": "Escalar innovaciones para población desatendida con capital flexible y apoyo estratégico.",
+      "encaje": "Aunque los sectores incluyen salud e inclusión, la estrategia actual declara priorización de inversiones en África y Asia. No se encontró una ventana de aplicación para Colombia; no presentarla como fuente disponible.",
+      "postulantes": [
+        "Innovaciones en las geografías y prioridades estratégicas vigentes"
+      ],
+      "requisitos": [
+        "Verificar una convocatoria específica y país antes de aplicar",
+        "No basar elegibilidad en programas históricos que incluían otras regiones"
+      ],
+      "presencia": "Sin ruta de aplicación para Colombia identificada al corte.",
+      "canal": "Portal institucional GIF.",
+      "fuentes": [
+        {
+          "titulo": "Estrategia y geografía oficial",
+          "url": "https://www.globalinnovation.fund/"
+        }
+      ],
+      "monto": "No aplicable a Colombia en la prioridad publicada",
+      "cierre": "Sin ventana Colombia identificada",
+      "prioridad": "No",
+      "temas": [
+        "Innovación",
+        "Inclusión"
+      ],
+      "accion": "Excluir de pipeline Colombia salvo nueva convocatoria que confirme elegibilidad expresa.",
+      "nota": ""
+    },
+    {
+      "id": "secop-11363456",
+      "cap": 2,
+      "nombre": "CONSTRUCCIÓN Y ADECUACIÓN DE LA INFRAESTRUCTURA CON DESTINO AL CENTRO VIDA NORTE EN LA CIUDAD DE SOGAMOSO BOYACÁ (Fase de Selección (Presentación de ofertas))",
+      "entidad": "MUNICIPIO DE SOGAMOSO",
+      "territorio": "Sogamoso / Boyacá",
+      "tipo": "Contratación pública SECOP II",
+      "estado": "secop",
+      "objetivo": "CONSTRUCCIÓN Y ADECUACIÓN DE LA INFRAESTRUCTURA CON DESTINO AL CENTRO VIDA NORTE EN LA CIUDAD DE SOGAMOSO BOYACÁ (Fase de Selección (Presentación de ofertas))",
+      "encaje": "Relación explícita con personas mayores, envejecimiento o cuidado. Es contratación: el oferente cobra por ejecutar el objeto y debe acreditar las condiciones del pliego; no es financiación a una iniciativa propia.",
+      "postulantes": [
+        "Proveedores u operadores que cumplan el aviso, habilitación, experiencia y capacidad exigidos"
+      ],
+      "requisitos": [
+        "Cuenta de proveedor SECOP II y RUP cuando sea exigible",
+        "Revisar pliego, estudios previos, anexos y adendas",
+        "Acreditar experiencia, capacidad técnica/financiera, garantías y documentos específicos",
+        "Presentar oferta electrónica antes del cierre",
+        "Confirmar cierre y lugar de ejecución: el dataset no expone la fecha/hora límite"
+      ],
+      "presencia": "Oferta digital. La ejecución parece vinculada a Sogamoso / Boyacá, pero el lugar exacto, visitas y obligaciones presenciales deben confirmarse en el expediente.",
+      "canal": "SECOP II · Fase de Selección (Presentación de ofertas) · Licitación pública Obra Publica · actualización 2026-11-11",
+      "fuentes": [
+        {
+          "titulo": "Aviso SECOP LP-MS-0122026 (Fase de Selección (Presentación de ofertas))",
+          "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11217252"
+        },
+        {
+          "titulo": "Dataset oficial p6dx-8zbt",
+          "url": "https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-II-Procesos-de-Contrataci-n/p6dx-8zbt/about_data"
+        }
+      ],
+      "monto": "$3.781.543.912 COP",
+      "cierre": "No expuesto en el dataset; confirmar hoy en el aviso",
+      "prioridad": "Alta",
+      "temas": [
+        "Infraestructura y accesibilidad",
+        "SECOP II",
+        "Personas mayores"
+      ],
+      "accion": "Abrir el aviso, descargar documentos y verificar cierre antes de asignar equipo o preparar oferta.",
+      "nota": "El registro figura publicado, abierto, no adjudicado y actualizado en noviembre de 2026. Esto no garantiza que la recepción siga habilitada; la ficha SECOP puede solicitar captcha.",
+      "secop": true,
+      "id_proceso": "CO1.REQ.11363456",
+      "referencia": "LP-MS-0122026 (Fase de Selección (Presentación de ofertas))",
+      "precio_num": 3781543912,
+      "actualizacion": "2026-11-11T20:15:37.025",
+      "fase": "Fase de Selección (Presentación de ofertas)",
+      "modalidad": "Licitación pública Obra Publica",
+      "departamento": "Boyacá",
+      "ciudad": "Sogamoso",
+      "descripcion": "CONSTRUCCIÓN Y ADECUACIÓN DE LA INFRAESTRUCTURA CON DESTINO AL CENTRO VIDA NORTE EN LA CIUDAD DE SOGAMOSO BOYACÁ"
+    },
+    {
+      "id": "secop-11288437",
+      "cap": 2,
+      "nombre": "PRESTACIÓN DE SERVICIOS DE APOYO LOGÍSTICO; OPERATIVO YTÉCNICO PARA LA EJECUCIÓN DEL DESARROLLO DE ACTIVIDADES DIRIGIDAS A LOS BENEFICIARIOS DE LA CASA DEL ADULTO MAYOR DEL MUNICIPIO DE MOSQUERA",
+      "entidad": "PUERTA DE ORO SAS CONTRATANTE",
+      "territorio": "Barranquilla / Atlántico",
+      "tipo": "Contratación pública SECOP II",
+      "estado": "secop",
+      "objetivo": "PRESTACIÓN DE SERVICIOS DE APOYO LOGÍSTICO; OPERATIVO YTÉCNICO PARA LA EJECUCIÓN DEL DESARROLLO DE ACTIVIDADES DIRIGIDAS A LOS BENEFICIARIOS DE LA CASA DEL ADULTO MAYOR DEL MUNICIPIO DE MOSQUERA",
+      "encaje": "Relación explícita con personas mayores, envejecimiento o cuidado. Es contratación: el oferente cobra por ejecutar el objeto y debe acreditar las condiciones del pliego; no es financiación a una iniciativa propia.",
+      "postulantes": [
+        "Proveedores u operadores que cumplan el aviso, habilitación, experiencia y capacidad exigidos"
+      ],
+      "requisitos": [
+        "Cuenta de proveedor SECOP II y RUP cuando sea exigible",
+        "Revisar pliego, estudios previos, anexos y adendas",
+        "Acreditar experiencia, capacidad técnica/financiera, garantías y documentos específicos",
+        "Presentar oferta electrónica antes del cierre",
+        "Confirmar cierre y lugar de ejecución: el dataset no expone la fecha/hora límite"
+      ],
+      "presencia": "Oferta digital. La ejecución parece vinculada a Barranquilla / Atlántico, pero el lugar exacto, visitas y obligaciones presenciales deben confirmarse en el expediente.",
+      "canal": "SECOP II · Presentación de oferta · Contratación régimen especial · actualización 2026-11-05",
+      "fuentes": [
+        {
+          "titulo": "Aviso SECOP 102-2026",
+          "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11179976"
+        },
+        {
+          "titulo": "Dataset oficial p6dx-8zbt",
+          "url": "https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-II-Procesos-de-Contrataci-n/p6dx-8zbt/about_data"
+        }
+      ],
+      "monto": "$3.476.598.369 COP",
+      "cierre": "No expuesto en el dataset; confirmar hoy en el aviso",
+      "prioridad": "Alta",
+      "temas": [
+        "Operación de cuidado",
+        "SECOP II",
+        "Personas mayores"
+      ],
+      "accion": "Abrir el aviso, descargar documentos y verificar cierre antes de asignar equipo o preparar oferta.",
+      "nota": "El registro figura publicado, abierto, no adjudicado y actualizado en noviembre de 2026. Esto no garantiza que la recepción siga habilitada; la ficha SECOP puede solicitar captcha.",
+      "secop": true,
+      "id_proceso": "CO1.REQ.11288437",
+      "referencia": "102-2026",
+      "precio_num": 3476598369,
+      "actualizacion": "2026-11-05T14:41:50.212",
+      "fase": "Presentación de oferta",
+      "modalidad": "Contratación régimen especial",
+      "departamento": "Atlántico",
+      "ciudad": "Barranquilla",
+      "descripcion": "PRESTACIÓN DE SERVICIOS DE APOYO LOGÍSTICO, OPERATIVO Y TÉCNICO PARA LA EJECUCIÓN DEL DESARROLLO DE ACTIVIDADES DIRIGIDAS A LOS BENEFICIARIOS DE LA CASA DEL ADULTO MAYOR DEL MUNICIPIO DE MOSQUERA CUNDINAMARCA EN EL MARCO DEL CONTRATO INTERADMINISTRATIVO C.\nINTERAD-0004-2026."
+    },
+    {
+      "id": "secop-11309235",
+      "cap": 2,
+      "nombre": "CTO PROCESO ASISTENCIAL DE REHABILITACION ORAL PARA  MEJORAR LA CALIDAD DE VIDA DE LOS ADULTOS MAYORES DEL  DEPARTAMENTO DEL CESAR.",
+      "entidad": "HOSPITAL REGIONAL JOSE DAVID PADILLA VILLAFAÑE ESE DE AGUACHICA",
+      "territorio": "Aguachica / Cesar",
+      "tipo": "Contratación pública SECOP II",
+      "estado": "secop",
+      "objetivo": "CTO PROCESO ASISTENCIAL DE REHABILITACION ORAL PARA  MEJORAR LA CALIDAD DE VIDA DE LOS ADULTOS MAYORES DEL  DEPARTAMENTO DEL CESAR.",
+      "encaje": "Relación explícita con personas mayores, envejecimiento o cuidado. Es contratación: el oferente cobra por ejecutar el objeto y debe acreditar las condiciones del pliego; no es financiación a una iniciativa propia.",
+      "postulantes": [
+        "Proveedores u operadores que cumplan el aviso, habilitación, experiencia y capacidad exigidos"
+      ],
+      "requisitos": [
+        "Cuenta de proveedor SECOP II y RUP cuando sea exigible",
+        "Revisar pliego, estudios previos, anexos y adendas",
+        "Acreditar experiencia, capacidad técnica/financiera, garantías y documentos específicos",
+        "Presentar oferta electrónica antes del cierre",
+        "Confirmar cierre y lugar de ejecución: el dataset no expone la fecha/hora límite"
+      ],
+      "presencia": "Oferta digital. La ejecución parece vinculada a Aguachica / Cesar, pero el lugar exacto, visitas y obligaciones presenciales deben confirmarse en el expediente.",
+      "canal": "SECOP II · Presentación de oferta · Contratación régimen especial · actualización 2026-11-03",
+      "fuentes": [
+        {
+          "titulo": "Aviso SECOP CTO 165-2026",
+          "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11162775"
+        },
+        {
+          "titulo": "Dataset oficial p6dx-8zbt",
+          "url": "https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-II-Procesos-de-Contrataci-n/p6dx-8zbt/about_data"
+        }
+      ],
+      "monto": "$2.050.261.396 COP",
+      "cierre": "No expuesto en el dataset; confirmar hoy en el aviso",
+      "prioridad": "Alta",
+      "temas": [
+        "Salud y geriatría",
+        "SECOP II",
+        "Personas mayores"
+      ],
+      "accion": "Abrir el aviso, descargar documentos y verificar cierre antes de asignar equipo o preparar oferta.",
+      "nota": "El registro figura publicado, abierto, no adjudicado y actualizado en noviembre de 2026. Esto no garantiza que la recepción siga habilitada; la ficha SECOP puede solicitar captcha.",
+      "secop": true,
+      "id_proceso": "CO1.REQ.11309235",
+      "referencia": "CTO 165-2026",
+      "precio_num": 2050261396,
+      "actualizacion": "2026-11-03T11:01:06.553",
+      "fase": "Presentación de oferta",
+      "modalidad": "Contratación régimen especial",
+      "departamento": "Cesar",
+      "ciudad": "Aguachica",
+      "descripcion": "CONTRATAR PROCESO ASISTENCIAL DE REHABILITACION ORAL PARA MEJORAR LA CALIDAD DE VIDA DE LOS ADULTOS MAYORES DEL DEPARTAMENTO DEL CESAR."
+    },
+    {
+      "id": "secop-11376047",
+      "cap": 1,
+      "nombre": "PRESTAR SERVICIOS PARA EJECUTAR ACCIONES COMPLEMENTARIAS EN SALUD DIRIGIDAS A PERSONAS CON DISCAPACIDAD Y SUSCUIDADORES Y CUIDADORAS EN LA LOCALIDAD DE SUBA (Presentación de oferta)",
+      "entidad": "ALCALDÍA LOCAL DE SUBA",
+      "territorio": "Bogotá / Distrito Capital de Bogotá",
+      "tipo": "Contratación pública SECOP II",
+      "estado": "secop",
+      "objetivo": "PRESTAR SERVICIOS PARA EJECUTAR ACCIONES COMPLEMENTARIAS EN SALUD DIRIGIDAS A PERSONAS CON DISCAPACIDAD Y SUSCUIDADORES Y CUIDADORAS EN LA LOCALIDAD DE SUBA (Presentación de oferta)",
+      "encaje": "Oportunidad adyacente de economía del cuidado; no está centrada exclusivamente en personas mayores. Es contratación: el oferente cobra por ejecutar el objeto y debe acreditar las condiciones del pliego; no es financiación a una iniciativa propia.",
+      "postulantes": [
+        "Proveedores u operadores que cumplan el aviso, habilitación, experiencia y capacidad exigidos"
+      ],
+      "requisitos": [
+        "Cuenta de proveedor SECOP II y RUP cuando sea exigible",
+        "Revisar pliego, estudios previos, anexos y adendas",
+        "Acreditar experiencia, capacidad técnica/financiera, garantías y documentos específicos",
+        "Presentar oferta electrónica antes del cierre",
+        "Confirmar cierre y lugar de ejecución: el dataset no expone la fecha/hora límite"
+      ],
+      "presencia": "Oferta digital. La ejecución parece vinculada a Bogotá / Distrito Capital de Bogotá, pero el lugar exacto, visitas y obligaciones presenciales deben confirmarse en el expediente.",
+      "canal": "SECOP II · Presentación de oferta · Licitación pública · actualización 2026-11-13",
+      "fuentes": [
+        {
+          "titulo": "Aviso SECOP FDLS-LP-015-2026 (165431) (Presentación de oferta)",
+          "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11229762"
+        },
+        {
+          "titulo": "Dataset oficial p6dx-8zbt",
+          "url": "https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-II-Procesos-de-Contrataci-n/p6dx-8zbt/about_data"
+        }
+      ],
+      "monto": "$1.333.800.000 COP",
+      "cierre": "No expuesto en el dataset; confirmar hoy en el aviso",
+      "prioridad": "Media",
+      "temas": [
+        "Salud y geriatría",
+        "SECOP II",
+        "Cuidado adyacente"
+      ],
+      "accion": "Abrir el aviso, descargar documentos y verificar cierre antes de asignar equipo o preparar oferta.",
+      "nota": "El registro figura publicado, abierto, no adjudicado y actualizado en noviembre de 2026. Esto no garantiza que la recepción siga habilitada; la ficha SECOP puede solicitar captcha.",
+      "secop": true,
+      "id_proceso": "CO1.REQ.11376047",
+      "referencia": "FDLS-LP-015-2026 (165431) (Presentación de oferta)",
+      "precio_num": 1333800000,
+      "actualizacion": "2026-11-13T21:23:03.208",
+      "fase": "Presentación de oferta",
+      "modalidad": "Licitación pública",
+      "departamento": "Distrito Capital de Bogotá",
+      "ciudad": "Bogotá",
+      "descripcion": "PRESTAR SERVICIOS PARA EJECUTAR ACCIONES COMPLEMENTARIAS EN SALUD DIRIGIDAS A PERSONAS CON DISCAPACIDAD Y SUSCUIDADORES Y CUIDADORAS EN LA LOCALIDAD DE SUBA."
+    },
+    {
+      "id": "secop-11380035",
+      "cap": 2,
+      "nombre": "AUNAR ESFUERZOS TÉCNICOS; LOGÍSTICOS Y FINANCIEROS; PARA LA EJECUCIÓN DEL PROYECTO  FORTALECIMIENTO DE LA ATENCIÓN INTEGRAL A ADULTOS MAYORES EN LOS CENTROS VIDA Y CENTROS DE BIENESTAR EN EL MUNICIPIO",
+      "entidad": "GOBERNACION DEL CAQUETA**",
+      "territorio": "No Definido / Caquetá",
+      "tipo": "Contratación pública SECOP II",
+      "estado": "secop",
+      "objetivo": "AUNAR ESFUERZOS TÉCNICOS; LOGÍSTICOS Y FINANCIEROS; PARA LA EJECUCIÓN DEL PROYECTO  FORTALECIMIENTO DE LA ATENCIÓN INTEGRAL A ADULTOS MAYORES EN LOS CENTROS VIDA Y CENTROS DE BIENESTAR EN EL MUNICIPIO",
+      "encaje": "Relación explícita con personas mayores, envejecimiento o cuidado. Es contratación: el oferente cobra por ejecutar el objeto y debe acreditar las condiciones del pliego; no es financiación a una iniciativa propia.",
+      "postulantes": [
+        "Proveedores u operadores que cumplan el aviso, habilitación, experiencia y capacidad exigidos"
+      ],
+      "requisitos": [
+        "Cuenta de proveedor SECOP II y RUP cuando sea exigible",
+        "Revisar pliego, estudios previos, anexos y adendas",
+        "Acreditar experiencia, capacidad técnica/financiera, garantías y documentos específicos",
+        "Presentar oferta electrónica antes del cierre",
+        "Confirmar cierre y lugar de ejecución: el dataset no expone la fecha/hora límite"
+      ],
+      "presencia": "Oferta digital. La ejecución parece vinculada a No Definido / Caquetá, pero el lugar exacto, visitas y obligaciones presenciales deben confirmarse en el expediente.",
+      "canal": "SECOP II · Presentación de oferta · Contratación régimen especial (con ofertas) · actualización 2026-11-16",
+      "fuentes": [
+        {
+          "titulo": "Aviso SECOP DC-GO-CNVC-006-2026",
+          "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11234164"
+        },
+        {
+          "titulo": "Dataset oficial p6dx-8zbt",
+          "url": "https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-II-Procesos-de-Contrataci-n/p6dx-8zbt/about_data"
+        }
+      ],
+      "monto": "$736.436.260 COP",
+      "cierre": "No expuesto en el dataset; confirmar hoy en el aviso",
+      "prioridad": "Alta",
+      "temas": [
+        "Operación de cuidado",
+        "SECOP II",
+        "Personas mayores"
+      ],
+      "accion": "Abrir el aviso, descargar documentos y verificar cierre antes de asignar equipo o preparar oferta.",
+      "nota": "El registro figura publicado, abierto, no adjudicado y actualizado en noviembre de 2026. Esto no garantiza que la recepción siga habilitada; la ficha SECOP puede solicitar captcha.",
+      "secop": true,
+      "id_proceso": "CO1.REQ.11380035",
+      "referencia": "DC-GO-CNVC-006-2026",
+      "precio_num": 736436260,
+      "actualizacion": "2026-11-16T18:08:00.530",
+      "fase": "Presentación de oferta",
+      "modalidad": "Contratación régimen especial (con ofertas)",
+      "departamento": "Caquetá",
+      "ciudad": "No Definido",
+      "descripcion": "AUNAR ESFUERZOS TÉCNICOS, LOGÍSTICOS Y FINANCIEROS, PARA LA EJECUCIÓN DEL PROYECTO  FORTALECIMIENTO DE LA ATENCIÓN INTEGRAL A ADULTOS MAYORES EN LOS CENTROS VIDA Y CENTROS DE BIENESTAR EN EL MUNICIPIO DE FLORENCIA"
+    },
+    {
+      "id": "secop-11375166",
+      "cap": 2,
+      "nombre": "ADECUACIONES ADULTO MAYOR (Manifestación de interés (Menor Cuantía)) (Presentación de oferta)",
+      "entidad": "MUNICIPIO DE LOS PATIOS",
+      "territorio": "Los Patios / Norte de Santander",
+      "tipo": "Contratación pública SECOP II",
+      "estado": "secop",
+      "objetivo": "ADECUACIONES ADULTO MAYOR (Manifestación de interés (Menor Cuantía)) (Presentación de oferta)",
+      "encaje": "Relación explícita con personas mayores, envejecimiento o cuidado. Es contratación: el oferente cobra por ejecutar el objeto y debe acreditar las condiciones del pliego; no es financiación a una iniciativa propia.",
+      "postulantes": [
+        "Proveedores u operadores que cumplan el aviso, habilitación, experiencia y capacidad exigidos"
+      ],
+      "requisitos": [
+        "Cuenta de proveedor SECOP II y RUP cuando sea exigible",
+        "Revisar pliego, estudios previos, anexos y adendas",
+        "Acreditar experiencia, capacidad técnica/financiera, garantías y documentos específicos",
+        "Presentar oferta electrónica antes del cierre",
+        "Confirmar cierre y lugar de ejecución: el dataset no expone la fecha/hora límite"
+      ],
+      "presencia": "Oferta digital. La ejecución parece vinculada a Los Patios / Norte de Santander, pero el lugar exacto, visitas y obligaciones presenciales deben confirmarse en el expediente.",
+      "canal": "SECOP II · Presentación de oferta · Selección Abreviada de Menor Cuantía · actualización 2026-11-13",
+      "fuentes": [
+        {
+          "titulo": "Aviso SECOP PATIOS-SAMC-SI-19-2026 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta)",
+          "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11228566"
+        },
+        {
+          "titulo": "Dataset oficial p6dx-8zbt",
+          "url": "https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-II-Procesos-de-Contrataci-n/p6dx-8zbt/about_data"
+        }
+      ],
+      "monto": "$489.928.756 COP",
+      "cierre": "No expuesto en el dataset; confirmar hoy en el aviso",
+      "prioridad": "Alta",
+      "temas": [
+        "Infraestructura y accesibilidad",
+        "SECOP II",
+        "Personas mayores"
+      ],
+      "accion": "Abrir el aviso, descargar documentos y verificar cierre antes de asignar equipo o preparar oferta.",
+      "nota": "El registro figura publicado, abierto, no adjudicado y actualizado en noviembre de 2026. Esto no garantiza que la recepción siga habilitada; la ficha SECOP puede solicitar captcha.",
+      "secop": true,
+      "id_proceso": "CO1.REQ.11375166",
+      "referencia": "PATIOS-SAMC-SI-19-2026 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta)",
+      "precio_num": 489928756,
+      "actualizacion": "2026-11-13T17:25:40.522",
+      "fase": "Presentación de oferta",
+      "modalidad": "Selección Abreviada de Menor Cuantía",
+      "departamento": "Norte de Santander",
+      "ciudad": "Los Patios",
+      "descripcion": "EJECUTAR LAS OBRAS DE MANTENIMIENTO PREVENTIVO, CORRECTIVO Y REPARACIONES LOCATIVAS PARA LA ADECUACIÓN, CONSERVACIÓN Y MEJORAMIENTO DE LA INFRAESTRUCTURA FÍSICA DEL CENTRO DE ADULTO MAYOR EN EL 11 DE NOVIEMBRE, CON EL FIN DE GARANTIZAR LAS CONDICIONES ÓPTIMAS DE ACCESIBILIDAD, SEGURIDAD Y SANIDAD PARA LA POBLACIÓN DE ADULTOS MAYORES DEL MUNICIPIO DE LOS PATIOS."
+    },
+    {
+      "id": "secop-11367282",
+      "cap": 1,
+      "nombre": "SUMINISTRO DE ALIMENTACIÓN PREPARADA EN SITIO PARA GARANTIZAR LA SEGURIDAD ALIMENTARIA DE LOS ADULTOS MAYORES RESIDENTES INTERNOS DEL CENTRO DE PROTECCIÓN AÑOS DORADOS Y NO RESIDENTES EXTERNOS DEL CEN",
+      "entidad": "Alcaldía Municipal de Gachalá",
+      "territorio": "Gachala / Cundinamarca",
+      "tipo": "Contratación pública SECOP II",
+      "estado": "secop",
+      "objetivo": "SUMINISTRO DE ALIMENTACIÓN PREPARADA EN SITIO PARA GARANTIZAR LA SEGURIDAD ALIMENTARIA DE LOS ADULTOS MAYORES RESIDENTES INTERNOS DEL CENTRO DE PROTECCIÓN AÑOS DORADOS Y NO RESIDENTES EXTERNOS DEL CEN",
+      "encaje": "Relación explícita con personas mayores, envejecimiento o cuidado. Es contratación: el oferente cobra por ejecutar el objeto y debe acreditar las condiciones del pliego; no es financiación a una iniciativa propia.",
+      "postulantes": [
+        "Proveedores u operadores que cumplan el aviso, habilitación, experiencia y capacidad exigidos"
+      ],
+      "requisitos": [
+        "Cuenta de proveedor SECOP II y RUP cuando sea exigible",
+        "Revisar pliego, estudios previos, anexos y adendas",
+        "Acreditar experiencia, capacidad técnica/financiera, garantías y documentos específicos",
+        "Presentar oferta electrónica antes del cierre",
+        "Confirmar cierre y lugar de ejecución: el dataset no expone la fecha/hora límite"
+      ],
+      "presencia": "Oferta digital. La ejecución parece vinculada a Gachala / Cundinamarca, pero el lugar exacto, visitas y obligaciones presenciales deben confirmarse en el expediente.",
+      "canal": "SECOP II · Presentación de oferta · Selección abreviada subasta inversa · actualización 2026-11-12",
+      "fuentes": [
+        {
+          "titulo": "Aviso SECOP SA-SI-008-2026 (Presentación de oferta)",
+          "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11222596"
+        },
+        {
+          "titulo": "Dataset oficial p6dx-8zbt",
+          "url": "https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-II-Procesos-de-Contrataci-n/p6dx-8zbt/about_data"
+        }
+      ],
+      "monto": "$412.672.865 COP",
+      "cierre": "No expuesto en el dataset; confirmar hoy en el aviso",
+      "prioridad": "Alta",
+      "temas": [
+        "Alimentación",
+        "SECOP II",
+        "Personas mayores"
+      ],
+      "accion": "Abrir el aviso, descargar documentos y verificar cierre antes de asignar equipo o preparar oferta.",
+      "nota": "El registro figura publicado, abierto, no adjudicado y actualizado en noviembre de 2026. Esto no garantiza que la recepción siga habilitada; la ficha SECOP puede solicitar captcha.",
+      "secop": true,
+      "id_proceso": "CO1.REQ.11367282",
+      "referencia": "SA-SI-008-2026 (Presentación de oferta)",
+      "precio_num": 412672865,
+      "actualizacion": "2026-11-12T17:42:37.771",
+      "fase": "Presentación de oferta",
+      "modalidad": "Selección abreviada subasta inversa",
+      "departamento": "Cundinamarca",
+      "ciudad": "Gachala",
+      "descripcion": "SUMINISTRO DE ALIMENTACIÓN PREPARADA EN SITIO PARA GARANTIZAR LA SEGURIDAD ALIMENTARIA DE LOS ADULTOS MAYORES RESIDENTES INTERNOS DEL CENTRO DE PROTECCIÓN AÑOS DORADOS Y NO RESIDENTES EXTERNOS DEL CENTRO DÍA CANITAS DORADAS DEL MUNICIPIO DE GACHALÁ CUNDINAMARCA."
+    },
+    {
+      "id": "secop-11368133",
+      "cap": 1,
+      "nombre": "PRESTACIÓN DE SERVICIOS LOGÍSTICOS PARA EL DESARROLLO DE ACTIVIDADES DIRIGIDAS AL PROGRAMA CENTRO DÍA VIDA CANITAS DORADAS PROYECTOS PRODUCTIVOS AGROPECUARIOS; CELEBRACIÓN DEL DÍA DEL ADULTO MAYOR Y E",
+      "entidad": "Alcaldía Municipal de Gachalá",
+      "territorio": "Gachala / Cundinamarca",
+      "tipo": "Contratación pública SECOP II",
+      "estado": "secop",
+      "objetivo": "PRESTACIÓN DE SERVICIOS LOGÍSTICOS PARA EL DESARROLLO DE ACTIVIDADES DIRIGIDAS AL PROGRAMA CENTRO DÍA VIDA CANITAS DORADAS PROYECTOS PRODUCTIVOS AGROPECUARIOS; CELEBRACIÓN DEL DÍA DEL ADULTO MAYOR Y E",
+      "encaje": "Relación explícita con personas mayores, envejecimiento o cuidado. Es contratación: el oferente cobra por ejecutar el objeto y debe acreditar las condiciones del pliego; no es financiación a una iniciativa propia.",
+      "postulantes": [
+        "Proveedores u operadores que cumplan el aviso, habilitación, experiencia y capacidad exigidos"
+      ],
+      "requisitos": [
+        "Cuenta de proveedor SECOP II y RUP cuando sea exigible",
+        "Revisar pliego, estudios previos, anexos y adendas",
+        "Acreditar experiencia, capacidad técnica/financiera, garantías y documentos específicos",
+        "Presentar oferta electrónica antes del cierre",
+        "Confirmar cierre y lugar de ejecución: el dataset no expone la fecha/hora límite"
+      ],
+      "presencia": "Oferta digital. La ejecución parece vinculada a Gachala / Cundinamarca, pero el lugar exacto, visitas y obligaciones presenciales deben confirmarse en el expediente.",
+      "canal": "SECOP II · Presentación de oferta · Selección Abreviada de Menor Cuantía · actualización 2026-11-12",
+      "fuentes": [
+        {
+          "titulo": "Aviso SECOP SA-MC-019-2026 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta)",
+          "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11221199"
+        },
+        {
+          "titulo": "Dataset oficial p6dx-8zbt",
+          "url": "https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-II-Procesos-de-Contrataci-n/p6dx-8zbt/about_data"
+        }
+      ],
+      "monto": "$367.499.998 COP",
+      "cierre": "No expuesto en el dataset; confirmar hoy en el aviso",
+      "prioridad": "Alta",
+      "temas": [
+        "Participación y logística",
+        "SECOP II",
+        "Personas mayores"
+      ],
+      "accion": "Abrir el aviso, descargar documentos y verificar cierre antes de asignar equipo o preparar oferta.",
+      "nota": "El registro figura publicado, abierto, no adjudicado y actualizado en noviembre de 2026. Esto no garantiza que la recepción siga habilitada; la ficha SECOP puede solicitar captcha.",
+      "secop": true,
+      "id_proceso": "CO1.REQ.11368133",
+      "referencia": "SA-MC-019-2026 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta)",
+      "precio_num": 367499998,
+      "actualizacion": "2026-11-12T15:48:20.729",
+      "fase": "Presentación de oferta",
+      "modalidad": "Selección Abreviada de Menor Cuantía",
+      "departamento": "Cundinamarca",
+      "ciudad": "Gachala",
+      "descripcion": "PRESTACIÓN DE SERVICIOS LOGÍSTICOS PARA EL DESARROLLO DE ACTIVIDADES DIRIGIDAS AL PROGRAMA CENTRO DÍA VIDA CANITAS DORADAS PROYECTOS PRODUCTIVOS AGROPECUARIOS, CELEBRACIÓN DEL DÍA DEL ADULTO MAYOR Y ENCUENTRO INTERGENERACIONAL, DEL MUNICIPIO DE GACHALÁ, CUNDINAMARCA"
+    },
+    {
+      "id": "secop-11374383",
+      "cap": 2,
+      "nombre": "LOGISTICA PARA REALIZAR ENCUENTROS CULTURALES Y ACTIVIDADES DECEMBRINAS CON LOS ADULTOS MAYORES DEL DISTRITO DE TURBO (Manifestación de interés (Menor Cuantía)) (Presentación de oferta)",
+      "entidad": "DISTRITO DE TURBO",
+      "territorio": "Turbo / Antioquia",
+      "tipo": "Contratación pública SECOP II",
+      "estado": "secop",
+      "objetivo": "LOGISTICA PARA REALIZAR ENCUENTROS CULTURALES Y ACTIVIDADES DECEMBRINAS CON LOS ADULTOS MAYORES DEL DISTRITO DE TURBO (Manifestación de interés (Menor Cuantía)) (Presentación de oferta)",
+      "encaje": "Relación explícita con personas mayores, envejecimiento o cuidado. Es contratación: el oferente cobra por ejecutar el objeto y debe acreditar las condiciones del pliego; no es financiación a una iniciativa propia.",
+      "postulantes": [
+        "Proveedores u operadores que cumplan el aviso, habilitación, experiencia y capacidad exigidos"
+      ],
+      "requisitos": [
+        "Cuenta de proveedor SECOP II y RUP cuando sea exigible",
+        "Revisar pliego, estudios previos, anexos y adendas",
+        "Acreditar experiencia, capacidad técnica/financiera, garantías y documentos específicos",
+        "Presentar oferta electrónica antes del cierre",
+        "Confirmar cierre y lugar de ejecución: el dataset no expone la fecha/hora límite"
+      ],
+      "presencia": "Oferta digital. La ejecución parece vinculada a Turbo / Antioquia, pero el lugar exacto, visitas y obligaciones presenciales deben confirmarse en el expediente.",
+      "canal": "SECOP II · Presentación de oferta · Selección Abreviada de Menor Cuantía · actualización 2026-11-13",
+      "fuentes": [
+        {
+          "titulo": "Aviso SECOP SAMC-017-2026 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta)",
+          "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11227789"
+        },
+        {
+          "titulo": "Dataset oficial p6dx-8zbt",
+          "url": "https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-II-Procesos-de-Contrataci-n/p6dx-8zbt/about_data"
+        }
+      ],
+      "monto": "$317.703.000 COP",
+      "cierre": "No expuesto en el dataset; confirmar hoy en el aviso",
+      "prioridad": "Alta",
+      "temas": [
+        "Participación y logística",
+        "SECOP II",
+        "Personas mayores"
+      ],
+      "accion": "Abrir el aviso, descargar documentos y verificar cierre antes de asignar equipo o preparar oferta.",
+      "nota": "El registro figura publicado, abierto, no adjudicado y actualizado en noviembre de 2026. Esto no garantiza que la recepción siga habilitada; la ficha SECOP puede solicitar captcha.",
+      "secop": true,
+      "id_proceso": "CO1.REQ.11374383",
+      "referencia": "SAMC-017-2026 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta)",
+      "precio_num": 317703000,
+      "actualizacion": "2026-11-13T16:08:05.875",
+      "fase": "Presentación de oferta",
+      "modalidad": "Selección Abreviada de Menor Cuantía",
+      "departamento": "Antioquia",
+      "ciudad": "Turbo",
+      "descripcion": "LOGISTICA PARA REALIZAR ENCUENTROS CULTURALES Y ACTIVIDADES DECEMBRINAS CON LOS ADULTOS MAYORES DEL DISTRITO DE TURBO"
+    },
+    {
+      "id": "secop-11372795",
+      "cap": 2,
+      "nombre": "INTERVENTORÍA TÉCNICA; LEGAL; ADMINISTRATIVA Y FINANCIERA AL CONTRATO DE OBRA QUE RESULTE DEL PROCESO DE LICITACIÓN PÚBLICA No. LP-002-2026; CUYO OBJETO ES: CONSTRUCCIÓN DEL CENTRO VIDA EN EL MUNICIPI",
+      "entidad": "ALCALDIA MUNICIPIO DE CUMARAL META",
+      "territorio": "Cumaral / Meta",
+      "tipo": "Contratación pública SECOP II",
+      "estado": "secop",
+      "objetivo": "INTERVENTORÍA TÉCNICA; LEGAL; ADMINISTRATIVA Y FINANCIERA AL CONTRATO DE OBRA QUE RESULTE DEL PROCESO DE LICITACIÓN PÚBLICA No. LP-002-2026; CUYO OBJETO ES: CONSTRUCCIÓN DEL CENTRO VIDA EN EL MUNICIPI",
+      "encaje": "Relación explícita con personas mayores, envejecimiento o cuidado. Es contratación: el oferente cobra por ejecutar el objeto y debe acreditar las condiciones del pliego; no es financiación a una iniciativa propia.",
+      "postulantes": [
+        "Proveedores u operadores que cumplan el aviso, habilitación, experiencia y capacidad exigidos"
+      ],
+      "requisitos": [
+        "Cuenta de proveedor SECOP II y RUP cuando sea exigible",
+        "Revisar pliego, estudios previos, anexos y adendas",
+        "Acreditar experiencia, capacidad técnica/financiera, garantías y documentos específicos",
+        "Presentar oferta electrónica antes del cierre",
+        "Confirmar cierre y lugar de ejecución: el dataset no expone la fecha/hora límite"
+      ],
+      "presencia": "Oferta digital. La ejecución parece vinculada a Cumaral / Meta, pero el lugar exacto, visitas y obligaciones presenciales deben confirmarse en el expediente.",
+      "canal": "SECOP II · Presentación de oferta · Concurso de méritos abierto · actualización 2026-11-13",
+      "fuentes": [
+        {
+          "titulo": "Aviso SECOP CM-002-2026 (Presentación de oferta)",
+          "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11226420"
+        },
+        {
+          "titulo": "Dataset oficial p6dx-8zbt",
+          "url": "https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-II-Procesos-de-Contrataci-n/p6dx-8zbt/about_data"
+        }
+      ],
+      "monto": "$315.299.947 COP",
+      "cierre": "No expuesto en el dataset; confirmar hoy en el aviso",
+      "prioridad": "Alta",
+      "temas": [
+        "Infraestructura y accesibilidad",
+        "SECOP II",
+        "Personas mayores"
+      ],
+      "accion": "Abrir el aviso, descargar documentos y verificar cierre antes de asignar equipo o preparar oferta.",
+      "nota": "El registro figura publicado, abierto, no adjudicado y actualizado en noviembre de 2026. Esto no garantiza que la recepción siga habilitada; la ficha SECOP puede solicitar captcha.",
+      "secop": true,
+      "id_proceso": "CO1.REQ.11372795",
+      "referencia": "CM-002-2026 (Presentación de oferta)",
+      "precio_num": 315299947,
+      "actualizacion": "2026-11-13T13:41:38.353",
+      "fase": "Presentación de oferta",
+      "modalidad": "Concurso de méritos abierto",
+      "departamento": "Meta",
+      "ciudad": "Cumaral",
+      "descripcion": "INTERVENTORÍA TÉCNICA, LEGAL, ADMINISTRATIVA Y FINANCIERA AL CONTRATO DE OBRA QUE RESULTE DEL PROCESO DE LICITACIÓN PÚBLICA No. LP-002-2026, CUYO OBJETO ES: CONSTRUCCIÓN DEL CENTRO VIDA EN EL MUNICIPIO DE CUMARAL- DEPARTAMENTO DEL META"
+    },
+    {
+      "id": "secop-11377647",
+      "cap": 2,
+      "nombre": "AUNAR ESFUERZOS; RECURSOS Y EXPERIENCIA PARA BRINDAR ATENCIÓN A ADULTOS MAYORES EN ESTADO DE VULNERABILIDAD EN CENTROS DE PROTECCIÓN SOCIAL EN EL MUNICIPIO DE VILLAVICENCIO",
+      "entidad": "ALCALDIA MUNICIPIO DE VILLAVICENCIO",
+      "territorio": "Villavicencio / Meta",
+      "tipo": "Contratación pública SECOP II",
+      "estado": "secop",
+      "objetivo": "AUNAR ESFUERZOS; RECURSOS Y EXPERIENCIA PARA BRINDAR ATENCIÓN A ADULTOS MAYORES EN ESTADO DE VULNERABILIDAD EN CENTROS DE PROTECCIÓN SOCIAL EN EL MUNICIPIO DE VILLAVICENCIO",
+      "encaje": "Relación explícita con personas mayores, envejecimiento o cuidado. Es contratación: el oferente cobra por ejecutar el objeto y debe acreditar las condiciones del pliego; no es financiación a una iniciativa propia.",
+      "postulantes": [
+        "Proveedores u operadores que cumplan el aviso, habilitación, experiencia y capacidad exigidos"
+      ],
+      "requisitos": [
+        "Cuenta de proveedor SECOP II y RUP cuando sea exigible",
+        "Revisar pliego, estudios previos, anexos y adendas",
+        "Acreditar experiencia, capacidad técnica/financiera, garantías y documentos específicos",
+        "Presentar oferta electrónica antes del cierre",
+        "Confirmar cierre y lugar de ejecución: el dataset no expone la fecha/hora límite"
+      ],
+      "presencia": "Oferta digital. La ejecución parece vinculada a Villavicencio / Meta, pero el lugar exacto, visitas y obligaciones presenciales deben confirmarse en el expediente.",
+      "canal": "SECOP II · Presentación de oferta · Contratación régimen especial (con ofertas) · actualización 2026-11-17",
+      "fuentes": [
+        {
+          "titulo": "Aviso SECOP RE-016-2026",
+          "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11234951"
+        },
+        {
+          "titulo": "Dataset oficial p6dx-8zbt",
+          "url": "https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-II-Procesos-de-Contrataci-n/p6dx-8zbt/about_data"
+        }
+      ],
+      "monto": "$222.477.000 COP",
+      "cierre": "No expuesto en el dataset; confirmar hoy en el aviso",
+      "prioridad": "Alta",
+      "temas": [
+        "Operación de cuidado",
+        "SECOP II",
+        "Personas mayores"
+      ],
+      "accion": "Abrir el aviso, descargar documentos y verificar cierre antes de asignar equipo o preparar oferta.",
+      "nota": "El registro figura publicado, abierto, no adjudicado y actualizado en noviembre de 2026. Esto no garantiza que la recepción siga habilitada; la ficha SECOP puede solicitar captcha.",
+      "secop": true,
+      "id_proceso": "CO1.REQ.11377647",
+      "referencia": "RE-016-2026",
+      "precio_num": 222477000,
+      "actualizacion": "2026-11-17T08:29:39.497",
+      "fase": "Presentación de oferta",
+      "modalidad": "Contratación régimen especial (con ofertas)",
+      "departamento": "Meta",
+      "ciudad": "Villavicencio",
+      "descripcion": "AUNAR ESFUERZOS, RECURSOS Y EXPERIENCIA PARA BRINDAR ATENCIÓN A ADULTOS MAYORES EN ESTADO DE VULNERABILIDAD EN CENTROS DE PROTECCIÓN SOCIAL EN EL MUNICIPIO DE VILLAVICENCIO"
+    },
+    {
+      "id": "secop-11384834",
+      "cap": 2,
+      "nombre": "AUNAR ESFUERZOS PARA LA ATENCION INTEGRAL AL ADULTO MAYOR DEL MUNICIPIO DE CHARTA SANTANDER GARANTIZANDO EL FUNCIONAMIENTO DEL CENTRO DE BIENESTAR Y CENTRO VIDA SEGÚN LINEAMIENTOS DE LEY 1276 DE 2009",
+      "entidad": "MUNICIPIO DE CHARTA SANTANDER",
+      "territorio": "No Definido / Santander",
+      "tipo": "Contratación pública SECOP II",
+      "estado": "secop",
+      "objetivo": "AUNAR ESFUERZOS PARA LA ATENCION INTEGRAL AL ADULTO MAYOR DEL MUNICIPIO DE CHARTA SANTANDER GARANTIZANDO EL FUNCIONAMIENTO DEL CENTRO DE BIENESTAR Y CENTRO VIDA SEGÚN LINEAMIENTOS DE LEY 1276 DE 2009",
+      "encaje": "Relación explícita con personas mayores, envejecimiento o cuidado. Es contratación: el oferente cobra por ejecutar el objeto y debe acreditar las condiciones del pliego; no es financiación a una iniciativa propia.",
+      "postulantes": [
+        "Proveedores u operadores que cumplan el aviso, habilitación, experiencia y capacidad exigidos"
+      ],
+      "requisitos": [
+        "Cuenta de proveedor SECOP II y RUP cuando sea exigible",
+        "Revisar pliego, estudios previos, anexos y adendas",
+        "Acreditar experiencia, capacidad técnica/financiera, garantías y documentos específicos",
+        "Presentar oferta electrónica antes del cierre",
+        "Confirmar cierre y lugar de ejecución: el dataset no expone la fecha/hora límite"
+      ],
+      "presencia": "Oferta digital. La ejecución parece vinculada a No Definido / Santander, pero el lugar exacto, visitas y obligaciones presenciales deben confirmarse en el expediente.",
+      "canal": "SECOP II · Presentación de oferta · Contratación régimen especial (con ofertas) · actualización 2026-11-17",
+      "fuentes": [
+        {
+          "titulo": "Aviso SECOP CA-ESAL-003-2026",
+          "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11237760"
+        },
+        {
+          "titulo": "Dataset oficial p6dx-8zbt",
+          "url": "https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-II-Procesos-de-Contrataci-n/p6dx-8zbt/about_data"
+        }
+      ],
+      "monto": "$79.472.723 COP",
+      "cierre": "No expuesto en el dataset; confirmar hoy en el aviso",
+      "prioridad": "Alta",
+      "temas": [
+        "Operación de cuidado",
+        "SECOP II",
+        "Personas mayores"
+      ],
+      "accion": "Abrir el aviso, descargar documentos y verificar cierre antes de asignar equipo o preparar oferta.",
+      "nota": "El registro figura publicado, abierto, no adjudicado y actualizado en noviembre de 2026. Esto no garantiza que la recepción siga habilitada; la ficha SECOP puede solicitar captcha.",
+      "secop": true,
+      "id_proceso": "CO1.REQ.11384834",
+      "referencia": "CA-ESAL-003-2026",
+      "precio_num": 79472723,
+      "actualizacion": "2026-11-17T15:06:50.808",
+      "fase": "Presentación de oferta",
+      "modalidad": "Contratación régimen especial (con ofertas)",
+      "departamento": "Santander",
+      "ciudad": "No Definido",
+      "descripcion": "AUNAR ESFUERZOS PARA LA ATENCION INTEGRAL AL ADULTO MAYOR DEL MUNICIPIO DE CHARTA SANTANDER GARANTIZANDO EL FUNCIONAMIENTO DEL CENTRO DE BIENESTAR Y CENTRO VIDA SEGÚN LINEAMIENTOS DE LEY 1276 DE 2009"
+    },
+    {
+      "id": "secop-11370230",
+      "cap": 1,
+      "nombre": "PAQUETES NUTRICIONALES ESTAMPILLA BIENESTAR ADULTO MAYOR",
+      "entidad": "ALCALDIA MUNICIPAL DE CHIA",
+      "territorio": "Chía / Cundinamarca",
+      "tipo": "Contratación pública SECOP II",
+      "estado": "secop",
+      "objetivo": "PAQUETES NUTRICIONALES ESTAMPILLA BIENESTAR ADULTO MAYOR",
+      "encaje": "Relación explícita con personas mayores, envejecimiento o cuidado. Es contratación: el oferente cobra por ejecutar el objeto y debe acreditar las condiciones del pliego; no es financiación a una iniciativa propia.",
+      "postulantes": [
+        "Proveedores u operadores que cumplan el aviso, habilitación, experiencia y capacidad exigidos"
+      ],
+      "requisitos": [
+        "Cuenta de proveedor SECOP II y RUP cuando sea exigible",
+        "Revisar pliego, estudios previos, anexos y adendas",
+        "Acreditar experiencia, capacidad técnica/financiera, garantías y documentos específicos",
+        "Presentar oferta electrónica antes del cierre",
+        "Confirmar cierre y lugar de ejecución: el dataset no expone la fecha/hora límite"
+      ],
+      "presencia": "Oferta digital. La ejecución parece vinculada a Chía / Cundinamarca, pero el lugar exacto, visitas y obligaciones presenciales deben confirmarse en el expediente.",
+      "canal": "SECOP II · Presentación de oferta · Mínima cuantía · actualización 2026-11-13",
+      "fuentes": [
+        {
+          "titulo": "Aviso SECOP MC-060-2026",
+          "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11228913"
+        },
+        {
+          "titulo": "Dataset oficial p6dx-8zbt",
+          "url": "https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-II-Procesos-de-Contrataci-n/p6dx-8zbt/about_data"
+        }
+      ],
+      "monto": "$74.771.372 COP",
+      "cierre": "No expuesto en el dataset; confirmar hoy en el aviso",
+      "prioridad": "Alta",
+      "temas": [
+        "Alimentación",
+        "SECOP II",
+        "Personas mayores"
+      ],
+      "accion": "Abrir el aviso, descargar documentos y verificar cierre antes de asignar equipo o preparar oferta.",
+      "nota": "El registro figura publicado, abierto, no adjudicado y actualizado en noviembre de 2026. Esto no garantiza que la recepción siga habilitada; la ficha SECOP puede solicitar captcha.",
+      "secop": true,
+      "id_proceso": "CO1.REQ.11370230",
+      "referencia": "MC-060-2026",
+      "precio_num": 74771372,
+      "actualizacion": "2026-11-13T17:50:33.903",
+      "fase": "Presentación de oferta",
+      "modalidad": "Mínima cuantía",
+      "departamento": "Cundinamarca",
+      "ciudad": "Chía",
+      "descripcion": "ADQUISICIÓN DE PAQUETES NUTRICIONALES PARA PERSONAS MAYORES DEL MUNICIPIO DE CHÍA BENEFICIARIOS DE LA ESTAMPILLA BIENESTAR ADULTO MAYOR DE LA GOBERNACIÓN DE CUNDINAMARCA"
+    },
+    {
+      "id": "secop-11375186",
+      "cap": 1,
+      "nombre": "PRESTACIÓN DE SERVICIOS LOGISTICOS PARA EJECUTAR ACTIVIDADES DIRIGIDAS A POBLACIÓN CON DISCAPACIDAD; MUJERES; ADULTO MAYOR Y JUVENTUD EN EL MUNICIPIO DE GAMA CUNDINAMARCA (Manifestación de interés (Me",
+      "entidad": "ALCALDIA DE GAMA",
+      "territorio": "Gama / Cundinamarca",
+      "tipo": "Contratación pública SECOP II",
+      "estado": "secop",
+      "objetivo": "PRESTACIÓN DE SERVICIOS LOGISTICOS PARA EJECUTAR ACTIVIDADES DIRIGIDAS A POBLACIÓN CON DISCAPACIDAD; MUJERES; ADULTO MAYOR Y JUVENTUD EN EL MUNICIPIO DE GAMA CUNDINAMARCA (Manifestación de interés (Me",
+      "encaje": "Relación explícita con personas mayores, envejecimiento o cuidado. Es contratación: el oferente cobra por ejecutar el objeto y debe acreditar las condiciones del pliego; no es financiación a una iniciativa propia.",
+      "postulantes": [
+        "Proveedores u operadores que cumplan el aviso, habilitación, experiencia y capacidad exigidos"
+      ],
+      "requisitos": [
+        "Cuenta de proveedor SECOP II y RUP cuando sea exigible",
+        "Revisar pliego, estudios previos, anexos y adendas",
+        "Acreditar experiencia, capacidad técnica/financiera, garantías y documentos específicos",
+        "Presentar oferta electrónica antes del cierre",
+        "Confirmar cierre y lugar de ejecución: el dataset no expone la fecha/hora límite"
+      ],
+      "presencia": "Oferta digital. La ejecución parece vinculada a Gama / Cundinamarca, pero el lugar exacto, visitas y obligaciones presenciales deben confirmarse en el expediente.",
+      "canal": "SECOP II · Presentación de oferta · Selección Abreviada de Menor Cuantía · actualización 2026-11-13",
+      "fuentes": [
+        {
+          "titulo": "Aviso SECOP SAMC-011-2026 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta)",
+          "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11228583"
+        },
+        {
+          "titulo": "Dataset oficial p6dx-8zbt",
+          "url": "https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-II-Procesos-de-Contrataci-n/p6dx-8zbt/about_data"
+        }
+      ],
+      "monto": "$66.123.000 COP",
+      "cierre": "No expuesto en el dataset; confirmar hoy en el aviso",
+      "prioridad": "Alta",
+      "temas": [
+        "Participación y logística",
+        "SECOP II",
+        "Personas mayores"
+      ],
+      "accion": "Abrir el aviso, descargar documentos y verificar cierre antes de asignar equipo o preparar oferta.",
+      "nota": "El registro figura publicado, abierto, no adjudicado y actualizado en noviembre de 2026. Esto no garantiza que la recepción siga habilitada; la ficha SECOP puede solicitar captcha.",
+      "secop": true,
+      "id_proceso": "CO1.REQ.11375186",
+      "referencia": "SAMC-011-2026 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta)",
+      "precio_num": 66123000,
+      "actualizacion": "2026-11-13T17:31:47.189",
+      "fase": "Presentación de oferta",
+      "modalidad": "Selección Abreviada de Menor Cuantía",
+      "departamento": "Cundinamarca",
+      "ciudad": "Gama",
+      "descripcion": "PRESTACIÓN DE SERVICIOS LOGISTICOS PARA EJECUTAR ACTIVIDADES DIRIGIDAS A POBLACIÓN CON DISCAPACIDAD, MUJERES, ADULTO MAYOR Y JUVENTUD EN EL MUNICIPIO DE GAMA CUNDINAMARCA"
+    },
+    {
+      "id": "secop-11362899",
+      "cap": 1,
+      "nombre": "PRESTACIÓN DE SERVICIOS LOGÍSTICOS PARA LA REALIZACIÓN DE UNA SALIDA PEDAGÓGICA; RECREATIVA Y DE INTEGRACIÓN; DIRIGIDA A LOS ADULTOS MAYORES BENEFICIARIOS DEL PROGRAMA CANITAS DORADAS DEL MUNICIPIO DE",
+      "entidad": "Alcaldía Municipal de Gachalá",
+      "territorio": "Gachala / Cundinamarca",
+      "tipo": "Contratación pública SECOP II",
+      "estado": "secop",
+      "objetivo": "PRESTACIÓN DE SERVICIOS LOGÍSTICOS PARA LA REALIZACIÓN DE UNA SALIDA PEDAGÓGICA; RECREATIVA Y DE INTEGRACIÓN; DIRIGIDA A LOS ADULTOS MAYORES BENEFICIARIOS DEL PROGRAMA CANITAS DORADAS DEL MUNICIPIO DE",
+      "encaje": "Relación explícita con personas mayores, envejecimiento o cuidado. Es contratación: el oferente cobra por ejecutar el objeto y debe acreditar las condiciones del pliego; no es financiación a una iniciativa propia.",
+      "postulantes": [
+        "Proveedores u operadores que cumplan el aviso, habilitación, experiencia y capacidad exigidos"
+      ],
+      "requisitos": [
+        "Cuenta de proveedor SECOP II y RUP cuando sea exigible",
+        "Revisar pliego, estudios previos, anexos y adendas",
+        "Acreditar experiencia, capacidad técnica/financiera, garantías y documentos específicos",
+        "Presentar oferta electrónica antes del cierre",
+        "Confirmar cierre y lugar de ejecución: el dataset no expone la fecha/hora límite"
+      ],
+      "presencia": "Oferta digital. La ejecución parece vinculada a Gachala / Cundinamarca, pero el lugar exacto, visitas y obligaciones presenciales deben confirmarse en el expediente.",
+      "canal": "SECOP II · Presentación de oferta · Selección Abreviada de Menor Cuantía · actualización 2026-11-11",
+      "fuentes": [
+        {
+          "titulo": "Aviso SECOP SA-MC-018-2026 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta)",
+          "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11216483"
+        },
+        {
+          "titulo": "Dataset oficial p6dx-8zbt",
+          "url": "https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-II-Procesos-de-Contrataci-n/p6dx-8zbt/about_data"
+        }
+      ],
+      "monto": "$62.500.000 COP",
+      "cierre": "No expuesto en el dataset; confirmar hoy en el aviso",
+      "prioridad": "Alta",
+      "temas": [
+        "Participación y logística",
+        "SECOP II",
+        "Personas mayores"
+      ],
+      "accion": "Abrir el aviso, descargar documentos y verificar cierre antes de asignar equipo o preparar oferta.",
+      "nota": "El registro figura publicado, abierto, no adjudicado y actualizado en noviembre de 2026. Esto no garantiza que la recepción siga habilitada; la ficha SECOP puede solicitar captcha.",
+      "secop": true,
+      "id_proceso": "CO1.REQ.11362899",
+      "referencia": "SA-MC-018-2026 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta)",
+      "precio_num": 62500000,
+      "actualizacion": "2026-11-11T18:03:10.076",
+      "fase": "Presentación de oferta",
+      "modalidad": "Selección Abreviada de Menor Cuantía",
+      "departamento": "Cundinamarca",
+      "ciudad": "Gachala",
+      "descripcion": "PRESTACIÓN DE SERVICIOS LOGÍSTICOS PARA LA REALIZACIÓN DE UNA SALIDA PEDAGÓGICA, RECREATIVA Y DE INTEGRACIÓN, DIRIGIDA A LOS ADULTOS MAYORES BENEFICIARIOS DEL PROGRAMA CANITAS DORADAS DEL MUNICIPIO DE GACHALÁ, CUNDINAMARCA"
+    },
+    {
+      "id": "secop-11386908",
+      "cap": 2,
+      "nombre": "CONFECCIÓN DE INDUMENTARIA PARA LA PARTICIPACIÓN EN ACTIVIDADES Y EVENTOS POR PARTE DE LOS ADULTOS MAYORES DEL  MUNICIPIO DE TARAZÁ; ANTIOQUIA.",
+      "entidad": "MUNICIPIO DE TARAZA+",
+      "territorio": "Tarazá / Antioquia",
+      "tipo": "Contratación pública SECOP II",
+      "estado": "secop",
+      "objetivo": "CONFECCIÓN DE INDUMENTARIA PARA LA PARTICIPACIÓN EN ACTIVIDADES Y EVENTOS POR PARTE DE LOS ADULTOS MAYORES DEL  MUNICIPIO DE TARAZÁ; ANTIOQUIA.",
+      "encaje": "Relación explícita con personas mayores, envejecimiento o cuidado. Es contratación: el oferente cobra por ejecutar el objeto y debe acreditar las condiciones del pliego; no es financiación a una iniciativa propia.",
+      "postulantes": [
+        "Proveedores u operadores que cumplan el aviso, habilitación, experiencia y capacidad exigidos"
+      ],
+      "requisitos": [
+        "Cuenta de proveedor SECOP II y RUP cuando sea exigible",
+        "Revisar pliego, estudios previos, anexos y adendas",
+        "Acreditar experiencia, capacidad técnica/financiera, garantías y documentos específicos",
+        "Presentar oferta electrónica antes del cierre",
+        "Confirmar cierre y lugar de ejecución: el dataset no expone la fecha/hora límite"
+      ],
+      "presencia": "Oferta digital. La ejecución parece vinculada a Tarazá / Antioquia, pero el lugar exacto, visitas y obligaciones presenciales deben confirmarse en el expediente.",
+      "canal": "SECOP II · Presentación de oferta · Mínima cuantía · actualización 2026-11-17",
+      "fuentes": [
+        {
+          "titulo": "Aviso SECOP CMC-053-2026",
+          "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11240160"
+        },
+        {
+          "titulo": "Dataset oficial p6dx-8zbt",
+          "url": "https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-II-Procesos-de-Contrataci-n/p6dx-8zbt/about_data"
+        }
+      ],
+      "monto": "$49.008.570 COP",
+      "cierre": "No expuesto en el dataset; confirmar hoy en el aviso",
+      "prioridad": "Alta",
+      "temas": [
+        "Participación y logística",
+        "SECOP II",
+        "Personas mayores"
+      ],
+      "accion": "Abrir el aviso, descargar documentos y verificar cierre antes de asignar equipo o preparar oferta.",
+      "nota": "El registro figura publicado, abierto, no adjudicado y actualizado en noviembre de 2026. Esto no garantiza que la recepción siga habilitada; la ficha SECOP puede solicitar captcha.",
+      "secop": true,
+      "id_proceso": "CO1.REQ.11386908",
+      "referencia": "CMC-053-2026",
+      "precio_num": 49008570,
+      "actualizacion": "2026-11-17T18:21:30.982",
+      "fase": "Presentación de oferta",
+      "modalidad": "Mínima cuantía",
+      "departamento": "Antioquia",
+      "ciudad": "Tarazá",
+      "descripcion": "CONFECCIÓN DE INDUMENTARIA PARA LA PARTICIPACIÓN EN ACTIVIDADES Y EVENTOS POR PARTE DE LOS ADULTOS MAYORES DEL MUNICIPIO DE TARAZÁ, ANTIOQUIA."
+    },
+    {
+      "id": "secop-11384146",
+      "cap": 1,
+      "nombre": "APOYO LOGÍSTICO PARA LA CONMEMORACIÓN DIA DE LA VEJEZ EN EL MUNICIPIO DE MACHETA  CUNDINAMARCA",
+      "entidad": "MUNICIPIO DE MACHETA",
+      "territorio": "Macheta / Cundinamarca",
+      "tipo": "Contratación pública SECOP II",
+      "estado": "secop",
+      "objetivo": "APOYO LOGÍSTICO PARA LA CONMEMORACIÓN DIA DE LA VEJEZ EN EL MUNICIPIO DE MACHETA  CUNDINAMARCA",
+      "encaje": "Relación explícita con personas mayores, envejecimiento o cuidado. Es contratación: el oferente cobra por ejecutar el objeto y debe acreditar las condiciones del pliego; no es financiación a una iniciativa propia.",
+      "postulantes": [
+        "Proveedores u operadores que cumplan el aviso, habilitación, experiencia y capacidad exigidos"
+      ],
+      "requisitos": [
+        "Cuenta de proveedor SECOP II y RUP cuando sea exigible",
+        "Revisar pliego, estudios previos, anexos y adendas",
+        "Acreditar experiencia, capacidad técnica/financiera, garantías y documentos específicos",
+        "Presentar oferta electrónica antes del cierre",
+        "Confirmar cierre y lugar de ejecución: el dataset no expone la fecha/hora límite"
+      ],
+      "presencia": "Oferta digital. La ejecución parece vinculada a Macheta / Cundinamarca, pero el lugar exacto, visitas y obligaciones presenciales deben confirmarse en el expediente.",
+      "canal": "SECOP II · Presentación de oferta · Mínima cuantía · actualización 2026-11-17",
+      "fuentes": [
+        {
+          "titulo": "Aviso SECOP MC-047-2026",
+          "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11240627"
+        },
+        {
+          "titulo": "Dataset oficial p6dx-8zbt",
+          "url": "https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-II-Procesos-de-Contrataci-n/p6dx-8zbt/about_data"
+        }
+      ],
+      "monto": "$48.980.000 COP",
+      "cierre": "No expuesto en el dataset; confirmar hoy en el aviso",
+      "prioridad": "Alta",
+      "temas": [
+        "Participación y logística",
+        "SECOP II",
+        "Personas mayores"
+      ],
+      "accion": "Abrir el aviso, descargar documentos y verificar cierre antes de asignar equipo o preparar oferta.",
+      "nota": "El registro figura publicado, abierto, no adjudicado y actualizado en noviembre de 2026. Esto no garantiza que la recepción siga habilitada; la ficha SECOP puede solicitar captcha.",
+      "secop": true,
+      "id_proceso": "CO1.REQ.11384146",
+      "referencia": "MC-047-2026",
+      "precio_num": 48980000,
+      "actualizacion": "2026-11-17T19:39:50.388",
+      "fase": "Presentación de oferta",
+      "modalidad": "Mínima cuantía",
+      "departamento": "Cundinamarca",
+      "ciudad": "Macheta",
+      "descripcion": "APOYO LOGÍSTICO PARA LA CONMEMORACIÓN DIA DE LA VEJEZ EN EL MUNICIPIO DE MACHETA \nCUNDINAMARCA"
+    },
+    {
+      "id": "secop-11368421",
+      "cap": 2,
+      "nombre": "CONSTRUCCIÓN DE UNA CUBIERTA PARA EL CENTRO DÍA DEL ADULTO MAYOR DEL MUNICIPIO DE ABEJORRAL; EJECUTANDO LAS OBRAS NECESARIAS QUE PERMITAN LA ADECUADA PROTECCIÓN; SEGURIDAD Y FUNCIONALIDAD DE LOS ESPAC",
+      "entidad": "MUNICIPIO DE ABEJORRAL",
+      "territorio": "Abejorral / Antioquia",
+      "tipo": "Contratación pública SECOP II",
+      "estado": "secop",
+      "objetivo": "CONSTRUCCIÓN DE UNA CUBIERTA PARA EL CENTRO DÍA DEL ADULTO MAYOR DEL MUNICIPIO DE ABEJORRAL; EJECUTANDO LAS OBRAS NECESARIAS QUE PERMITAN LA ADECUADA PROTECCIÓN; SEGURIDAD Y FUNCIONALIDAD DE LOS ESPAC",
+      "encaje": "Relación explícita con personas mayores, envejecimiento o cuidado. Es contratación: el oferente cobra por ejecutar el objeto y debe acreditar las condiciones del pliego; no es financiación a una iniciativa propia.",
+      "postulantes": [
+        "Proveedores u operadores que cumplan el aviso, habilitación, experiencia y capacidad exigidos"
+      ],
+      "requisitos": [
+        "Cuenta de proveedor SECOP II y RUP cuando sea exigible",
+        "Revisar pliego, estudios previos, anexos y adendas",
+        "Acreditar experiencia, capacidad técnica/financiera, garantías y documentos específicos",
+        "Presentar oferta electrónica antes del cierre",
+        "Confirmar cierre y lugar de ejecución: el dataset no expone la fecha/hora límite"
+      ],
+      "presencia": "Oferta digital. La ejecución parece vinculada a Abejorral / Antioquia, pero el lugar exacto, visitas y obligaciones presenciales deben confirmarse en el expediente.",
+      "canal": "SECOP II · Fase de ofertas · Mínima cuantía · actualización 2026-11-12",
+      "fuentes": [
+        {
+          "titulo": "Aviso SECOP MC-SSBP-393-2026",
+          "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11221748"
+        },
+        {
+          "titulo": "Dataset oficial p6dx-8zbt",
+          "url": "https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-II-Procesos-de-Contrataci-n/p6dx-8zbt/about_data"
+        }
+      ],
+      "monto": "$48.942.553 COP",
+      "cierre": "No expuesto en el dataset; confirmar hoy en el aviso",
+      "prioridad": "Alta",
+      "temas": [
+        "Infraestructura y accesibilidad",
+        "SECOP II",
+        "Personas mayores"
+      ],
+      "accion": "Abrir el aviso, descargar documentos y verificar cierre antes de asignar equipo o preparar oferta.",
+      "nota": "El registro figura publicado, abierto, no adjudicado y actualizado en noviembre de 2026. Esto no garantiza que la recepción siga habilitada; la ficha SECOP puede solicitar captcha.",
+      "secop": true,
+      "id_proceso": "CO1.REQ.11368421",
+      "referencia": "MC-SSBP-393-2026",
+      "precio_num": 48942553,
+      "actualizacion": "2026-11-12T16:26:23.554",
+      "fase": "Fase de ofertas",
+      "modalidad": "Mínima cuantía",
+      "departamento": "Antioquia",
+      "ciudad": "Abejorral",
+      "descripcion": "CONSTRUCCIÓN DE UNA CUBIERTA PARA EL CENTRO DÍA DEL ADULTO MAYOR DEL MUNICIPIO DE ABEJORRAL, EJECUTANDO LAS OBRAS NECESARIAS QUE PERMITAN LA ADECUADA PROTECCIÓN, SEGURIDAD Y FUNCIONALIDAD DE LOS ESPACIOS DESTINADOS A LA ATENCIÓN INTEGRAL DE LA POBLACIÓN ADULTA MAYOR, MEDIANTE SOLUCIONES CONSTRUCTIVAS TÉCNICAMENTE ADECUADAS Y ACORDES CON LAS CONDICIONES DEL SITIO."
+    },
+    {
+      "id": "secop-11385969",
+      "cap": 1,
+      "nombre": "PRESTACION DE SERVICIO DE APOYO LOGISTICO PARA LA REALIZACION DE UN PLAN DE ESPARCIMIENTO ESPECIAL DIRIGIDO A PERSONAS CON DISCAPACIDAD Y SUS CUIDADORES EL MARCO DEL PROGRAMA 16 DISCAPACIDAD ESTABLECI",
+      "entidad": "MUNICIPIO DE ALBAN",
+      "territorio": "Albán / Cundinamarca",
+      "tipo": "Contratación pública SECOP II",
+      "estado": "secop",
+      "objetivo": "PRESTACION DE SERVICIO DE APOYO LOGISTICO PARA LA REALIZACION DE UN PLAN DE ESPARCIMIENTO ESPECIAL DIRIGIDO A PERSONAS CON DISCAPACIDAD Y SUS CUIDADORES EL MARCO DEL PROGRAMA 16 DISCAPACIDAD ESTABLECI",
+      "encaje": "Oportunidad adyacente de economía del cuidado; no está centrada exclusivamente en personas mayores. Es contratación: el oferente cobra por ejecutar el objeto y debe acreditar las condiciones del pliego; no es financiación a una iniciativa propia.",
+      "postulantes": [
+        "Proveedores u operadores que cumplan el aviso, habilitación, experiencia y capacidad exigidos"
+      ],
+      "requisitos": [
+        "Cuenta de proveedor SECOP II y RUP cuando sea exigible",
+        "Revisar pliego, estudios previos, anexos y adendas",
+        "Acreditar experiencia, capacidad técnica/financiera, garantías y documentos específicos",
+        "Presentar oferta electrónica antes del cierre",
+        "Confirmar cierre y lugar de ejecución: el dataset no expone la fecha/hora límite"
+      ],
+      "presencia": "Oferta digital. La ejecución parece vinculada a Albán / Cundinamarca, pero el lugar exacto, visitas y obligaciones presenciales deben confirmarse en el expediente.",
+      "canal": "SECOP II · Presentación de oferta · Mínima cuantía · actualización 2026-11-17",
+      "fuentes": [
+        {
+          "titulo": "Aviso SECOP MC-062-2026",
+          "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11239557"
+        },
+        {
+          "titulo": "Dataset oficial p6dx-8zbt",
+          "url": "https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-II-Procesos-de-Contrataci-n/p6dx-8zbt/about_data"
+        }
+      ],
+      "monto": "$47.610.000 COP",
+      "cierre": "No expuesto en el dataset; confirmar hoy en el aviso",
+      "prioridad": "Media",
+      "temas": [
+        "Participación y logística",
+        "SECOP II",
+        "Cuidado adyacente"
+      ],
+      "accion": "Abrir el aviso, descargar documentos y verificar cierre antes de asignar equipo o preparar oferta.",
+      "nota": "El registro figura publicado, abierto, no adjudicado y actualizado en noviembre de 2026. Esto no garantiza que la recepción siga habilitada; la ficha SECOP puede solicitar captcha.",
+      "secop": true,
+      "id_proceso": "CO1.REQ.11385969",
+      "referencia": "MC-062-2026",
+      "precio_num": 47610000,
+      "actualizacion": "2026-11-17T17:17:21.185",
+      "fase": "Presentación de oferta",
+      "modalidad": "Mínima cuantía",
+      "departamento": "Cundinamarca",
+      "ciudad": "Albán",
+      "descripcion": "PRESTACION DE SERVICIO DE APOYO LOGISTICO PARA LA REALIZACION DE UN PLAN DE ESPARCIMIENTO ESPECIAL DIRIGIDO A PERSONAS CON DISCAPACIDAD Y SUS CUIDADORES EL MARCO DEL PROGRAMA 16 DISCAPACIDAD ESTABLECIDO EN EL PLAN DE DESARROLLO MUNICIPAL DE ALBÁN, CUNDINAMARCA"
+    },
+    {
+      "id": "secop-11316932",
+      "cap": 2,
+      "nombre": "MEDICINA ESPECIALIZADA GERIATRIA",
+      "entidad": "HOSPITAL GENERAL SAN ISIDRO ESE",
+      "territorio": "Manizales / Caldas",
+      "tipo": "Contratación pública SECOP II",
+      "estado": "secop",
+      "objetivo": "MEDICINA ESPECIALIZADA GERIATRIA",
+      "encaje": "Relación explícita con personas mayores, envejecimiento o cuidado. Es contratación: el oferente cobra por ejecutar el objeto y debe acreditar las condiciones del pliego; no es financiación a una iniciativa propia.",
+      "postulantes": [
+        "Proveedores u operadores que cumplan el aviso, habilitación, experiencia y capacidad exigidos"
+      ],
+      "requisitos": [
+        "Cuenta de proveedor SECOP II y RUP cuando sea exigible",
+        "Revisar pliego, estudios previos, anexos y adendas",
+        "Acreditar experiencia, capacidad técnica/financiera, garantías y documentos específicos",
+        "Presentar oferta electrónica antes del cierre",
+        "Confirmar cierre y lugar de ejecución: el dataset no expone la fecha/hora límite"
+      ],
+      "presencia": "Oferta digital. La ejecución parece vinculada a Manizales / Caldas, pero el lugar exacto, visitas y obligaciones presenciales deben confirmarse en el expediente.",
+      "canal": "SECOP II · Presentación de oferta · Contratación régimen especial · actualización 2026-11-04",
+      "fuentes": [
+        {
+          "titulo": "Aviso SECOP HG-CON-408-2026",
+          "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11170489"
+        },
+        {
+          "titulo": "Dataset oficial p6dx-8zbt",
+          "url": "https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-II-Procesos-de-Contrataci-n/p6dx-8zbt/about_data"
+        }
+      ],
+      "monto": "$30.000.000 COP",
+      "cierre": "No expuesto en el dataset; confirmar hoy en el aviso",
+      "prioridad": "Alta",
+      "temas": [
+        "Salud y geriatría",
+        "SECOP II",
+        "Personas mayores"
+      ],
+      "accion": "Abrir el aviso, descargar documentos y verificar cierre antes de asignar equipo o preparar oferta.",
+      "nota": "El registro figura publicado, abierto, no adjudicado y actualizado en noviembre de 2026. Esto no garantiza que la recepción siga habilitada; la ficha SECOP puede solicitar captcha.",
+      "secop": true,
+      "id_proceso": "CO1.REQ.11316932",
+      "referencia": "HG-CON-408-2026",
+      "precio_num": 30000000,
+      "actualizacion": "2026-11-04T11:54:47.692",
+      "fase": "Presentación de oferta",
+      "modalidad": "Contratación régimen especial",
+      "departamento": "Caldas",
+      "ciudad": "Manizales",
+      "descripcion": "EL CONTRATISTA se compromete para con el HOSPITAL a prestar sus servicios profesionales como MÉDICO ESPECIALIZADO EN MEDICINA INTERNA Y GERIATRA a los usuarios de esta entidad."
+    },
+    {
+      "id": "secop-11349622",
+      "cap": 2,
+      "nombre": "PRESTACIÓN DE SERVICIOS PROFESIONALES COMO MÉDICO ESPECIALISTA EN MEDICINA INTERNA Y GERIATRÍA PARA LA E.S.E. HOSPITAL SAN RAFAEL DE SAN VICENTE DEL CAGUÁN.",
+      "entidad": "E.S.E HOSPITAL SAN RAFAEL SAN VICENTE",
+      "territorio": "San Vicente Del Caguán / Caquetá",
+      "tipo": "Contratación pública SECOP II",
+      "estado": "secop",
+      "objetivo": "PRESTACIÓN DE SERVICIOS PROFESIONALES COMO MÉDICO ESPECIALISTA EN MEDICINA INTERNA Y GERIATRÍA PARA LA E.S.E. HOSPITAL SAN RAFAEL DE SAN VICENTE DEL CAGUÁN.",
+      "encaje": "Relación explícita con personas mayores, envejecimiento o cuidado. Es contratación: el oferente cobra por ejecutar el objeto y debe acreditar las condiciones del pliego; no es financiación a una iniciativa propia.",
+      "postulantes": [
+        "Proveedores u operadores que cumplan el aviso, habilitación, experiencia y capacidad exigidos"
+      ],
+      "requisitos": [
+        "Cuenta de proveedor SECOP II y RUP cuando sea exigible",
+        "Revisar pliego, estudios previos, anexos y adendas",
+        "Acreditar experiencia, capacidad técnica/financiera, garantías y documentos específicos",
+        "Presentar oferta electrónica antes del cierre",
+        "Confirmar cierre y lugar de ejecución: el dataset no expone la fecha/hora límite"
+      ],
+      "presencia": "Oferta digital. La ejecución parece vinculada a San Vicente Del Caguán / Caquetá, pero el lugar exacto, visitas y obligaciones presenciales deben confirmarse en el expediente.",
+      "canal": "SECOP II · Presentación de oferta · Contratación régimen especial · actualización 2026-11-09",
+      "fuentes": [
+        {
+          "titulo": "Aviso SECOP 20260620PS",
+          "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11202848"
+        },
+        {
+          "titulo": "Dataset oficial p6dx-8zbt",
+          "url": "https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-II-Procesos-de-Contrataci-n/p6dx-8zbt/about_data"
+        }
+      ],
+      "monto": "$24.900.000 COP",
+      "cierre": "No expuesto en el dataset; confirmar hoy en el aviso",
+      "prioridad": "Alta",
+      "temas": [
+        "Salud y geriatría",
+        "SECOP II",
+        "Personas mayores"
+      ],
+      "accion": "Abrir el aviso, descargar documentos y verificar cierre antes de asignar equipo o preparar oferta.",
+      "nota": "El registro figura publicado, abierto, no adjudicado y actualizado en noviembre de 2026. Esto no garantiza que la recepción siga habilitada; la ficha SECOP puede solicitar captcha.",
+      "secop": true,
+      "id_proceso": "CO1.REQ.11349622",
+      "referencia": "20260620PS",
+      "precio_num": 24900000,
+      "actualizacion": "2026-11-09T18:32:47.239",
+      "fase": "Presentación de oferta",
+      "modalidad": "Contratación régimen especial",
+      "departamento": "Caquetá",
+      "ciudad": "San Vicente Del Caguán",
+      "descripcion": "PRESTACIÓN DE SERVICIOS PROFESIONALES COMO MÉDICO ESPECIALISTA EN MEDICINA INTERNA Y GERIATRÍA PARA LA E.S.E. HOSPITAL SAN RAFAEL DE SAN VICENTE DEL CAGUÁN."
+    },
+    {
+      "id": "secop-11349291",
+      "cap": 2,
+      "nombre": "PRESTACIÓN DE SERVICIOS PROFESIONALES COMO MÉDICO ESPECIALISTA EN MEDICINA INTERNA Y GERIATRÍA PARA LA E.S.E. HOSPITAL SAN RAFAEL DE SAN VICENTE DEL CAGUÁN.",
+      "entidad": "E.S.E HOSPITAL SAN RAFAEL SAN VICENTE",
+      "territorio": "San Vicente Del Caguán / Caquetá",
+      "tipo": "Contratación pública SECOP II",
+      "estado": "secop",
+      "objetivo": "PRESTACIÓN DE SERVICIOS PROFESIONALES COMO MÉDICO ESPECIALISTA EN MEDICINA INTERNA Y GERIATRÍA PARA LA E.S.E. HOSPITAL SAN RAFAEL DE SAN VICENTE DEL CAGUÁN.",
+      "encaje": "Relación explícita con personas mayores, envejecimiento o cuidado. Es contratación: el oferente cobra por ejecutar el objeto y debe acreditar las condiciones del pliego; no es financiación a una iniciativa propia.",
+      "postulantes": [
+        "Proveedores u operadores que cumplan el aviso, habilitación, experiencia y capacidad exigidos"
+      ],
+      "requisitos": [
+        "Cuenta de proveedor SECOP II y RUP cuando sea exigible",
+        "Revisar pliego, estudios previos, anexos y adendas",
+        "Acreditar experiencia, capacidad técnica/financiera, garantías y documentos específicos",
+        "Presentar oferta electrónica antes del cierre",
+        "Confirmar cierre y lugar de ejecución: el dataset no expone la fecha/hora límite"
+      ],
+      "presencia": "Oferta digital. La ejecución parece vinculada a San Vicente Del Caguán / Caquetá, pero el lugar exacto, visitas y obligaciones presenciales deben confirmarse en el expediente.",
+      "canal": "SECOP II · Presentación de oferta · Contratación régimen especial · actualización 2026-11-09",
+      "fuentes": [
+        {
+          "titulo": "Aviso SECOP 20260617PS",
+          "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11203040"
+        },
+        {
+          "titulo": "Dataset oficial p6dx-8zbt",
+          "url": "https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-II-Procesos-de-Contrataci-n/p6dx-8zbt/about_data"
+        }
+      ],
+      "monto": "$24.900.000 COP",
+      "cierre": "No expuesto en el dataset; confirmar hoy en el aviso",
+      "prioridad": "Alta",
+      "temas": [
+        "Salud y geriatría",
+        "SECOP II",
+        "Personas mayores"
+      ],
+      "accion": "Abrir el aviso, descargar documentos y verificar cierre antes de asignar equipo o preparar oferta.",
+      "nota": "El registro figura publicado, abierto, no adjudicado y actualizado en noviembre de 2026. Esto no garantiza que la recepción siga habilitada; la ficha SECOP puede solicitar captcha.",
+      "secop": true,
+      "id_proceso": "CO1.REQ.11349291",
+      "referencia": "20260617PS",
+      "precio_num": 24900000,
+      "actualizacion": "2026-11-09T18:15:37.478",
+      "fase": "Presentación de oferta",
+      "modalidad": "Contratación régimen especial",
+      "departamento": "Caquetá",
+      "ciudad": "San Vicente Del Caguán",
+      "descripcion": "PRESTACIÓN DE SERVICIOS PROFESIONALES COMO MÉDICO ESPECIALISTA EN MEDICINA INTERNA Y GERIATRÍA PARA LA E.S.E. HOSPITAL SAN RAFAEL DE SAN VICENTE DEL CAGUÁN."
+    },
+    {
+      "id": "secop-11384016",
+      "cap": 2,
+      "nombre": "CONSULTORÍA PARA EL DIAGNÓSTICO; DISEÑO; FORMULACIÓN Y ELABORACIÓN DE LA POLÍTICA PÚBLICA DE ENVEJECIMIENTO Y VEJEZ DEL MUNICIPIO DE IQUIRA; DEPARTAMENTO DEL HUILA; EN CONCORDANCIA CON LA NORMATIVIDAD",
+      "entidad": "ALCALDIA IQUIRA",
+      "territorio": "Iquira / Huila",
+      "tipo": "Contratación pública SECOP II",
+      "estado": "secop",
+      "objetivo": "CONSULTORÍA PARA EL DIAGNÓSTICO; DISEÑO; FORMULACIÓN Y ELABORACIÓN DE LA POLÍTICA PÚBLICA DE ENVEJECIMIENTO Y VEJEZ DEL MUNICIPIO DE IQUIRA; DEPARTAMENTO DEL HUILA; EN CONCORDANCIA CON LA NORMATIVIDAD",
+      "encaje": "Relación explícita con personas mayores, envejecimiento o cuidado. Es contratación: el oferente cobra por ejecutar el objeto y debe acreditar las condiciones del pliego; no es financiación a una iniciativa propia.",
+      "postulantes": [
+        "Proveedores u operadores que cumplan el aviso, habilitación, experiencia y capacidad exigidos"
+      ],
+      "requisitos": [
+        "Cuenta de proveedor SECOP II y RUP cuando sea exigible",
+        "Revisar pliego, estudios previos, anexos y adendas",
+        "Acreditar experiencia, capacidad técnica/financiera, garantías y documentos específicos",
+        "Presentar oferta electrónica antes del cierre",
+        "Confirmar cierre y lugar de ejecución: el dataset no expone la fecha/hora límite"
+      ],
+      "presencia": "Oferta digital. La ejecución parece vinculada a Iquira / Huila, pero el lugar exacto, visitas y obligaciones presenciales deben confirmarse en el expediente.",
+      "canal": "SECOP II · Presentación de oferta · Mínima cuantía · actualización 2026-11-17",
+      "fuentes": [
+        {
+          "titulo": "Aviso SECOP AI_IPMC_No.032-2026",
+          "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11239650"
+        },
+        {
+          "titulo": "Dataset oficial p6dx-8zbt",
+          "url": "https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-II-Procesos-de-Contrataci-n/p6dx-8zbt/about_data"
+        }
+      ],
+      "monto": "$18.000.000 COP",
+      "cierre": "No expuesto en el dataset; confirmar hoy en el aviso",
+      "prioridad": "Alta",
+      "temas": [
+        "Política pública",
+        "SECOP II",
+        "Personas mayores"
+      ],
+      "accion": "Abrir el aviso, descargar documentos y verificar cierre antes de asignar equipo o preparar oferta.",
+      "nota": "El registro figura publicado, abierto, no adjudicado y actualizado en noviembre de 2026. Esto no garantiza que la recepción siga habilitada; la ficha SECOP puede solicitar captcha.",
+      "secop": true,
+      "id_proceso": "CO1.REQ.11384016",
+      "referencia": "AI_IPMC_No.032-2026",
+      "precio_num": 18000000,
+      "actualizacion": "2026-11-17T17:34:06.932",
+      "fase": "Presentación de oferta",
+      "modalidad": "Mínima cuantía",
+      "departamento": "Huila",
+      "ciudad": "Iquira",
+      "descripcion": "CONSULTORÍA PARA EL DIAGNÓSTICO, DISEÑO, FORMULACIÓN Y ELABORACIÓN DE LA POLÍTICA PÚBLICA DE ENVEJECIMIENTO Y VEJEZ DEL MUNICIPIO DE IQUIRA, DEPARTAMENTO DEL HUILA, EN CONCORDANCIA CON LA NORMATIVIDAD VIGENTE."
+    },
+    {
+      "id": "secop-11317980",
+      "cap": 2,
+      "nombre": "CONTRATO DE PRESTACION DE SERVICIOS PROFESIONALES PARA EL APOYO A LOS PROGRAMAS PMYS Y LOS PROGRAMA DE EXTRAMURAL; TB; LEPRA; MS; SIVIGILA; ADULTEZ Y VEJEZ",
+      "entidad": "CENTRO DE SALUD LUIS ACOSTA ESE",
+      "territorio": "La Unión / Nariño",
+      "tipo": "Contratación pública SECOP II",
+      "estado": "secop",
+      "objetivo": "CONTRATO DE PRESTACION DE SERVICIOS PROFESIONALES PARA EL APOYO A LOS PROGRAMAS PMYS Y LOS PROGRAMA DE EXTRAMURAL; TB; LEPRA; MS; SIVIGILA; ADULTEZ Y VEJEZ",
+      "encaje": "Relación explícita con personas mayores, envejecimiento o cuidado. Es contratación: el oferente cobra por ejecutar el objeto y debe acreditar las condiciones del pliego; no es financiación a una iniciativa propia.",
+      "postulantes": [
+        "Proveedores u operadores que cumplan el aviso, habilitación, experiencia y capacidad exigidos"
+      ],
+      "requisitos": [
+        "Cuenta de proveedor SECOP II y RUP cuando sea exigible",
+        "Revisar pliego, estudios previos, anexos y adendas",
+        "Acreditar experiencia, capacidad técnica/financiera, garantías y documentos específicos",
+        "Presentar oferta electrónica antes del cierre",
+        "Confirmar cierre y lugar de ejecución: el dataset no expone la fecha/hora límite"
+      ],
+      "presencia": "Oferta digital. La ejecución parece vinculada a La Unión / Nariño, pero el lugar exacto, visitas y obligaciones presenciales deben confirmarse en el expediente.",
+      "canal": "SECOP II · Presentación de oferta · Contratación régimen especial · actualización 2026-11-04",
+      "fuentes": [
+        {
+          "titulo": "Aviso SECOP 1050-2026",
+          "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11171930"
+        },
+        {
+          "titulo": "Dataset oficial p6dx-8zbt",
+          "url": "https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-II-Procesos-de-Contrataci-n/p6dx-8zbt/about_data"
+        }
+      ],
+      "monto": "$8.850.000 COP",
+      "cierre": "No expuesto en el dataset; confirmar hoy en el aviso",
+      "prioridad": "Alta",
+      "temas": [
+        "Participación y logística",
+        "SECOP II",
+        "Personas mayores"
+      ],
+      "accion": "Abrir el aviso, descargar documentos y verificar cierre antes de asignar equipo o preparar oferta.",
+      "nota": "El registro figura publicado, abierto, no adjudicado y actualizado en noviembre de 2026. Esto no garantiza que la recepción siga habilitada; la ficha SECOP puede solicitar captcha.",
+      "secop": true,
+      "id_proceso": "CO1.REQ.11317980",
+      "referencia": "1050-2026",
+      "precio_num": 8850000,
+      "actualizacion": "2026-11-04T15:12:49.197",
+      "fase": "Presentación de oferta",
+      "modalidad": "Contratación régimen especial",
+      "departamento": "Nariño",
+      "ciudad": "La Unión",
+      "descripcion": "CONTRATO DE PRESTACION DE SERVICIOS PROFESIONALES PARA EL APOYO A LOS PROGRAMAS PMYS Y LOS PROGRAMA DE EXTRAMURAL, TB, LEPRA, MS, SIVIGILA, ADULTEZ Y VEJEZ"
+    },
+    {
+      "id": "secop-11324644",
+      "cap": 2,
+      "nombre": "PRESTACIÓN DE SERVICIOS DE APOYO A LA GESTIÓN EN LA COORDINACIÓN DE ACTIVIDADES COMUNITARIAS; EDUCATIVAS Y DE SALUD; ORIENTADAS AL FORTALECIMIENTO DE REDES SOCIALES; LA PROMOCIÓN DEL ENVEJECIMIENTO AC",
+      "entidad": "HOSPITAL LORENCITA VILLEGAS DE SANTOS ESE",
+      "territorio": "Samaniego / Nariño",
+      "tipo": "Contratación pública SECOP II",
+      "estado": "secop",
+      "objetivo": "PRESTACIÓN DE SERVICIOS DE APOYO A LA GESTIÓN EN LA COORDINACIÓN DE ACTIVIDADES COMUNITARIAS; EDUCATIVAS Y DE SALUD; ORIENTADAS AL FORTALECIMIENTO DE REDES SOCIALES; LA PROMOCIÓN DEL ENVEJECIMIENTO AC",
+      "encaje": "Relación explícita con personas mayores, envejecimiento o cuidado. Es contratación: el oferente cobra por ejecutar el objeto y debe acreditar las condiciones del pliego; no es financiación a una iniciativa propia.",
+      "postulantes": [
+        "Proveedores u operadores que cumplan el aviso, habilitación, experiencia y capacidad exigidos"
+      ],
+      "requisitos": [
+        "Cuenta de proveedor SECOP II y RUP cuando sea exigible",
+        "Revisar pliego, estudios previos, anexos y adendas",
+        "Acreditar experiencia, capacidad técnica/financiera, garantías y documentos específicos",
+        "Presentar oferta electrónica antes del cierre",
+        "Confirmar cierre y lugar de ejecución: el dataset no expone la fecha/hora límite"
+      ],
+      "presencia": "Oferta digital. La ejecución parece vinculada a Samaniego / Nariño, pero el lugar exacto, visitas y obligaciones presenciales deben confirmarse en el expediente.",
+      "canal": "SECOP II · Presentación de oferta · Contratación régimen especial · actualización 2026-11-05",
+      "fuentes": [
+        {
+          "titulo": "Aviso SECOP CPS-HLVS-2026002008",
+          "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11177996"
+        },
+        {
+          "titulo": "Dataset oficial p6dx-8zbt",
+          "url": "https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-II-Procesos-de-Contrataci-n/p6dx-8zbt/about_data"
+        }
+      ],
+      "monto": "$8.699.999 COP",
+      "cierre": "No expuesto en el dataset; confirmar hoy en el aviso",
+      "prioridad": "Alta",
+      "temas": [
+        "Salud y geriatría",
+        "SECOP II",
+        "Personas mayores"
+      ],
+      "accion": "Abrir el aviso, descargar documentos y verificar cierre antes de asignar equipo o preparar oferta.",
+      "nota": "El registro figura publicado, abierto, no adjudicado y actualizado en noviembre de 2026. Esto no garantiza que la recepción siga habilitada; la ficha SECOP puede solicitar captcha.",
+      "secop": true,
+      "id_proceso": "CO1.REQ.11324644",
+      "referencia": "CPS-HLVS-2026002008",
+      "precio_num": 8699999,
+      "actualizacion": "2026-11-05T10:59:34.160",
+      "fase": "Presentación de oferta",
+      "modalidad": "Contratación régimen especial",
+      "departamento": "Nariño",
+      "ciudad": "Samaniego",
+      "descripcion": "PRESTACIÓN DE SERVICIOS DE APOYO A LA GESTIÓN EN LA COORDINACIÓN DE ACTIVIDADES COMUNITARIAS, EDUCATIVAS Y DE SALUD, ORIENTADAS AL FORTALECIMIENTO DE REDES SOCIALES, LA PROMOCIÓN DEL ENVEJECIMIENTO ACTIVO Y LA RECUPERACIÓN EMOCIONAL DE POBLACIÓN VÍCTIMA DEL CONFLICTO ARMADO, EN EL MARCO DE LAS ESTRATEGIAS DEL PLAN DE INTERVENCIONES COLECTIVAS (PIC) Y DEMÁS ACCIONES EXIGIBLES POR EL HOSPITAL LORENCITA VILLEGAS DE SANTOS E.S.E"
+    },
+    {
+      "id": "secop-11309230",
+      "cap": 1,
+      "nombre": "PRESTAR SERVICIO DE TRANSPORTE TERRESTRE PARA CUBRIR EL RECORRIDO DE LA SALIDA DE RESPIRO PARA MUJERES CUIDADORAS; EN EL MARCO DEL CONVENIO INTERADMINISTRATIVO FDLF CI 488 DE 2025; PARA AUNAR ESFUERZO",
+      "entidad": "UNIVERSIDAD NACIONAL DE COLOMBIA",
+      "territorio": "No Definido / Distrito Capital de Bogotá",
+      "tipo": "Contratación pública SECOP II",
+      "estado": "secop",
+      "objetivo": "PRESTAR SERVICIO DE TRANSPORTE TERRESTRE PARA CUBRIR EL RECORRIDO DE LA SALIDA DE RESPIRO PARA MUJERES CUIDADORAS; EN EL MARCO DEL CONVENIO INTERADMINISTRATIVO FDLF CI 488 DE 2025; PARA AUNAR ESFUERZO",
+      "encaje": "Oportunidad adyacente de economía del cuidado; no está centrada exclusivamente en personas mayores. Es contratación: el oferente cobra por ejecutar el objeto y debe acreditar las condiciones del pliego; no es financiación a una iniciativa propia.",
+      "postulantes": [
+        "Proveedores u operadores que cumplan el aviso, habilitación, experiencia y capacidad exigidos"
+      ],
+      "requisitos": [
+        "Cuenta de proveedor SECOP II y RUP cuando sea exigible",
+        "Revisar pliego, estudios previos, anexos y adendas",
+        "Acreditar experiencia, capacidad técnica/financiera, garantías y documentos específicos",
+        "Presentar oferta electrónica antes del cierre",
+        "Confirmar cierre y lugar de ejecución: el dataset no expone la fecha/hora límite"
+      ],
+      "presencia": "Oferta digital. La ejecución parece vinculada a No Definido / Distrito Capital de Bogotá, pero el lugar exacto, visitas y obligaciones presenciales deben confirmarse en el expediente.",
+      "canal": "SECOP II · Presentación de oferta · Contratación régimen especial · actualización 2026-11-03",
+      "fuentes": [
+        {
+          "titulo": "Aviso SECOP UNAL-BOG-2026-2012-1768",
+          "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11163105"
+        },
+        {
+          "titulo": "Dataset oficial p6dx-8zbt",
+          "url": "https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-II-Procesos-de-Contrataci-n/p6dx-8zbt/about_data"
+        }
+      ],
+      "monto": "$1.250.000 COP",
+      "cierre": "No expuesto en el dataset; confirmar hoy en el aviso",
+      "prioridad": "Media",
+      "temas": [
+        "Movilidad y cuidado",
+        "SECOP II",
+        "Cuidado adyacente"
+      ],
+      "accion": "Abrir el aviso, descargar documentos y verificar cierre antes de asignar equipo o preparar oferta.",
+      "nota": "El registro figura publicado, abierto, no adjudicado y actualizado en noviembre de 2026. Esto no garantiza que la recepción siga habilitada; la ficha SECOP puede solicitar captcha.",
+      "secop": true,
+      "id_proceso": "CO1.REQ.11309230",
+      "referencia": "UNAL-BOG-2026-2012-1768",
+      "precio_num": 1250000,
+      "actualizacion": "2026-11-03T10:47:50.050",
+      "fase": "Presentación de oferta",
+      "modalidad": "Contratación régimen especial",
+      "departamento": "Distrito Capital de Bogotá",
+      "ciudad": "No Definido",
+      "descripcion": "PRESTAR SERVICIO DE TRANSPORTE TERRESTRE PARA CUBRIR EL RECORRIDO DE LA SALIDA DE RESPIRO PARA MUJERES CUIDADORAS, EN EL MARCO DEL CONVENIO INTERADMINISTRATIVO FDLF CI 488 DE 2025, PARA AUNAR ESFUERZOS TÉCNICOS, OPERATIVOS, LOGÍSTICOS, ADMINISTRATIVOS Y FINANCIEROS CON EL FIN DE DESARROLLAR ARTICULADAMENTE ENTRE EL FONDO DE DESARROLLO LOCAL DE FONTIBÓN Y LA UNIVERSIDAD NACIONAL DE COLOMBIA LAS ACTIVIDADES, CAPACITACIONES Y ACCIONES DE FORMACIÓN DE LOS PROGRAMAS DE CUIDADO CUIDADORAS Y AUTONOMÍA"
+    },
+    {
+      "id": "secop-11365546",
+      "cap": 1,
+      "nombre": "ADQUISICIÓN DE CACHUCHAS; CAMISETAS TIPO POLO Y PANTALONES DE SUDADERA DESTINADOS A LAS PERSONAS BENEFICIARIAS DEL PROGRAMA ADULTO MAYOR DEL MUNICIPIO DE SUBACHOQUE; CUNDINAMARCA",
+      "entidad": "MUNICIPIO DE SUBACHOQUE",
+      "territorio": "Subachoque / Cundinamarca",
+      "tipo": "Contratación pública SECOP II",
+      "estado": "secop",
+      "objetivo": "ADQUISICIÓN DE CACHUCHAS; CAMISETAS TIPO POLO Y PANTALONES DE SUDADERA DESTINADOS A LAS PERSONAS BENEFICIARIAS DEL PROGRAMA ADULTO MAYOR DEL MUNICIPIO DE SUBACHOQUE; CUNDINAMARCA",
+      "encaje": "Relación explícita con personas mayores, envejecimiento o cuidado. Es contratación: el oferente cobra por ejecutar el objeto y debe acreditar las condiciones del pliego; no es financiación a una iniciativa propia.",
+      "postulantes": [
+        "Proveedores u operadores que cumplan el aviso, habilitación, experiencia y capacidad exigidos"
+      ],
+      "requisitos": [
+        "Cuenta de proveedor SECOP II y RUP cuando sea exigible",
+        "Revisar pliego, estudios previos, anexos y adendas",
+        "Acreditar experiencia, capacidad técnica/financiera, garantías y documentos específicos",
+        "Presentar oferta electrónica antes del cierre",
+        "Confirmar cierre y lugar de ejecución: el dataset no expone la fecha/hora límite"
+      ],
+      "presencia": "Oferta digital. La ejecución parece vinculada a Subachoque / Cundinamarca, pero el lugar exacto, visitas y obligaciones presenciales deben confirmarse en el expediente.",
+      "canal": "SECOP II · Presentación de oferta · Solicitud de información a los Proveedores · actualización 2026-11-12",
+      "fuentes": [
+        {
+          "titulo": "Aviso SECOP AMS-SIP-046-2026",
+          "url": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.11219129"
+        },
+        {
+          "titulo": "Dataset oficial p6dx-8zbt",
+          "url": "https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-II-Procesos-de-Contrataci-n/p6dx-8zbt/about_data"
+        }
+      ],
+      "monto": "Sin precio base publicado",
+      "cierre": "No expuesto en el dataset; confirmar hoy en el aviso",
+      "prioridad": "Alta",
+      "temas": [
+        "Operación de cuidado",
+        "SECOP II",
+        "Personas mayores"
+      ],
+      "accion": "Abrir el aviso, descargar documentos y verificar cierre antes de asignar equipo o preparar oferta.",
+      "nota": "El registro figura publicado, abierto, no adjudicado y actualizado en noviembre de 2026. Esto no garantiza que la recepción siga habilitada; la ficha SECOP puede solicitar captcha.",
+      "secop": true,
+      "id_proceso": "CO1.REQ.11365546",
+      "referencia": "AMS-SIP-046-2026",
+      "precio_num": 0,
+      "actualizacion": "2026-11-12T10:50:01.025",
+      "fase": "Presentación de oferta",
+      "modalidad": "Solicitud de información a los Proveedores",
+      "departamento": "Cundinamarca",
+      "ciudad": "Subachoque",
+      "descripcion": "ADQUISICIÓN DE CACHUCHAS, CAMISETAS TIPO POLO Y PANTALONES DE SUDADERA\nDESTINADOS A LAS PERSONAS BENEFICIARIAS DEL PROGRAMA ADULTO MAYOR DEL MUNICIPIO\nDE SUBACHOQUE, CUNDINAMARCA, COMO ESTRATEGIA DE BIENESTAR Y FORTALECIMIENTO DE\nLA ATENCIÓN INTEGRAL A ESTA POBLACIÓN."
+    }
+  ]
+}
