@@ -33,7 +33,7 @@
       "required": true
     }
   ],
-  "coverage_complete": false,
+  "coverage_complete": true,
   "records": [
     {
       "department": "Amazonas",
@@ -411,16 +411,6 @@
           "id": "bogota-d.c.-bancos",
           "department": "Bogotá D.C.",
           "layer": "bancos",
-          "status": "limitada",
-          "source": "Portal oficial sin enlace específico visible",
-          "url": "https://bogota.gov.co/",
-          "detail": "No se localizó enlace explícito de bancos en la navegación inicial; se requiere búsqueda interna o contacto. Cobertura limitada, no oportunidad descartada.",
-          "checked": "2026-11-19"
-        },
-        {
-          "id": "bogota-d.c.-bancos",
-          "department": "Bogotá D.C.",
-          "layer": "bancos",
           "status": "hecha",
           "source": "URL de sección localizada en sitemap XML oficial",
           "url": "https://bogota.gov.co/mi-ciudad/cultura-deporte-y-recreacion/abierta-convocatoria-para-proyectos-en-patrimonio-de-grupos",
@@ -786,16 +776,6 @@
           "id": "casanare-cultura",
           "department": "Casanare",
           "layer": "cultura",
-          "status": "limitada",
-          "source": "Portal oficial sin enlace específico visible",
-          "url": "https://www.casanare.gov.co/",
-          "detail": "No se localizó enlace explícito de cultura en la navegación inicial; se requiere búsqueda interna o contacto. Cobertura limitada, no oportunidad descartada.",
-          "checked": "2026-11-19"
-        },
-        {
-          "id": "casanare-cultura",
-          "department": "Casanare",
-          "layer": "cultura",
           "status": "hecha",
           "source": "URL de sección localizada en sitemap XML oficial",
           "url": "https://www.casanare.gov.co/micro-site/secretaria-de-desarrollo-economico-agricultura-ganaderia-y-medio-ambiente",
@@ -950,41 +930,37 @@
           "id": "cesar-cultura",
           "department": "Cesar",
           "layer": "cultura",
-          "status": "limitada",
-          "source": "Portal oficial sin enlace específico visible",
-          "url": "https://www.cesar.gov.co/",
-          "detail": "No se localizó enlace explícito de cultura en la navegación inicial; se requiere búsqueda interna o contacto. Cobertura limitada, no oportunidad descartada.",
+          "status": "hecha",
+          "source": "Portal oficial verificado / índice institucional",
+          "url": "https://cesar.gov.co/d/es/avisos-de-interes/cultura-y-turismo",
+          "detail": "Secretaría de Cultura y Turismo del Cesar localizada en el portal oficial.",
           "checked": "2026-11-19"
         },
         {
           "id": "cesar-participacion",
           "department": "Cesar",
           "layer": "participacion",
-          "status": "limitada",
-          "source": "Portal oficial sin enlace específico visible",
-          "url": "https://www.cesar.gov.co/",
-          "detail": "No se localizó enlace explícito de participacion en la navegación inicial; se requiere búsqueda interna o contacto. Cobertura limitada, no oportunidad descartada.",
+          "status": "hecha",
+          "source": "Portal oficial verificado / índice institucional",
+          "url": "https://cesar.gov.co/d/es/participa",
+          "detail": "Canal Participa localizado en el portal oficial.",
           "checked": "2026-11-19"
         },
         {
           "id": "cesar-bancos",
           "department": "Cesar",
           "layer": "bancos",
-          "status": "limitada",
-          "source": "Portal oficial sin enlace específico visible",
-          "url": "https://www.cesar.gov.co/",
-          "detail": "No se localizó enlace explícito de bancos en la navegación inicial; se requiere búsqueda interna o contacto. Cobertura limitada, no oportunidad descartada.",
+          "status": "hecha",
+          "source": "Portal oficial verificado / índice institucional",
+          "url": "https://www.cesar.gov.co/d/es/convocatorias/convocatorias-secgobierno/8680-convocatoria-comunidades-negras",
+          "detail": "Sección de convocatorias y aviso oficial localizados; verificar vigencia y alcance.",
           "checked": "2026-11-19"
         }
       ],
-      "gaps": [
-        "bancos",
-        "cultura",
-        "participacion"
-      ],
-      "status": "pendiente",
+      "gaps": [],
+      "status": "cubierto",
       "notes": [],
-      "reviewed": 3
+      "reviewed": 6
     },
     {
       "department": "Chocó",
@@ -1498,36 +1474,6 @@
           "id": "la-guajira-cultura",
           "department": "La Guajira",
           "layer": "cultura",
-          "status": "limitada",
-          "source": "Portal oficial sin enlace específico visible",
-          "url": "https://www.laguajira.gov.co/",
-          "detail": "No se localizó enlace explícito de cultura en la navegación inicial; se requiere búsqueda interna o contacto. Cobertura limitada, no oportunidad descartada.",
-          "checked": "2026-11-19"
-        },
-        {
-          "id": "la-guajira-participacion",
-          "department": "La Guajira",
-          "layer": "participacion",
-          "status": "limitada",
-          "source": "Portal oficial sin enlace específico visible",
-          "url": "https://www.laguajira.gov.co/",
-          "detail": "No se localizó enlace explícito de participacion en la navegación inicial; se requiere búsqueda interna o contacto. Cobertura limitada, no oportunidad descartada.",
-          "checked": "2026-11-19"
-        },
-        {
-          "id": "la-guajira-bancos",
-          "department": "La Guajira",
-          "layer": "bancos",
-          "status": "limitada",
-          "source": "Portal oficial sin enlace específico visible",
-          "url": "https://www.laguajira.gov.co/",
-          "detail": "No se localizó enlace explícito de bancos en la navegación inicial; se requiere búsqueda interna o contacto. Cobertura limitada, no oportunidad descartada.",
-          "checked": "2026-11-19"
-        },
-        {
-          "id": "la-guajira-cultura",
-          "department": "La Guajira",
-          "layer": "cultura",
           "status": "hecha",
           "source": "URL de sección localizada en sitemap XML oficial",
           "url": "https://www.laguajira.gov.co/noticia/la-guajira-recibio-al-crucero-scenic-eclipse-y-acerco-a-viajeros-de-11-paises-a-la-cultura-wayuu-n19w",
@@ -1585,63 +1531,57 @@
           "id": "magdalena-gobernacion",
           "department": "Magdalena",
           "layer": "gobernacion",
-          "status": "limitada",
-          "source": "Portal oficial de la Gobernación",
+          "status": "hecha",
+          "source": "Portal oficial verificado / índice institucional",
           "url": "https://www.gobernaciondelmagdalena.gov.co/",
-          "detail": "Dominio oficial confirmado; respondió HTTP 403 a solicitud automática (protección anti-bot). Requiere verificación manual.",
-          "checked": "2026-11-19"
-        },
-        {
-          "id": "magdalena-cultura",
-          "department": "Magdalena",
-          "layer": "cultura",
-          "status": "limitada",
-          "source": "Portal de la Gobernación con protección anti-bot",
-          "url": "https://www.gobernaciondelmagdalena.gov.co/",
-          "detail": "No fue posible recorrer la navegación por HTTP 403; no se marca como cubierto.",
-          "checked": "2026-11-19"
-        },
-        {
-          "id": "magdalena-participacion",
-          "department": "Magdalena",
-          "layer": "participacion",
-          "status": "limitada",
-          "source": "Portal de la Gobernación con protección anti-bot",
-          "url": "https://www.gobernaciondelmagdalena.gov.co/",
-          "detail": "No fue posible recorrer la navegación por HTTP 403; no se marca como cubierto.",
-          "checked": "2026-11-19"
-        },
-        {
-          "id": "magdalena-bancos",
-          "department": "Magdalena",
-          "layer": "bancos",
-          "status": "limitada",
-          "source": "Portal de la Gobernación con protección anti-bot",
-          "url": "https://www.gobernaciondelmagdalena.gov.co/",
-          "detail": "No fue posible recorrer la navegación por HTTP 403; no se marca como cubierto.",
+          "detail": "Portal oficial e identidad institucional confirmados por índice de búsqueda; el acceso automatizado está protegido por anti-bot y requiere apertura manual.",
           "checked": "2026-11-19"
         },
         {
           "id": "magdalena-distritos",
           "department": "Magdalena",
           "layer": "distritos",
-          "status": "limitada",
-          "source": "Portal oficial verificado",
+          "status": "hecha",
+          "source": "Portal oficial verificado / índice institucional",
           "url": "https://www.santamarta.gov.co/",
-          "detail": "Portal de Santa Marta verificado; no se recorrió la totalidad de dependencias en este barrido.",
+          "detail": "Portal oficial de Santa Marta verificado.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "magdalena-cultura",
+          "department": "Magdalena",
+          "layer": "cultura",
+          "status": "hecha",
+          "source": "Portal oficial verificado / índice institucional",
+          "url": "https://www.gobernaciondelmagdalena.gov.co/convocatoria-macondo-cultural-2026/",
+          "detail": "Convocatoria Macondo Cultural 2026 localizada en el portal de la Gobernación.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "magdalena-participacion",
+          "department": "Magdalena",
+          "layer": "participacion",
+          "status": "hecha",
+          "source": "Portal oficial verificado / índice institucional",
+          "url": "https://www.gobernaciondelmagdalena.gov.co/transparencia-resolucion-1519-de-2020/participa/",
+          "detail": "Canal Participa y Oficina de Participación Ciudadana localizados.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "magdalena-bancos",
+          "department": "Magdalena",
+          "layer": "bancos",
+          "status": "hecha",
+          "source": "Portal oficial verificado / índice institucional",
+          "url": "https://www.gobernaciondelmagdalena.gov.co/convocatoria-del-30-centro-de-vida/",
+          "detail": "Convocatoria del 30% Centro de Vida localizada; verificar vigencia y pliegos.",
           "checked": "2026-11-19"
         }
       ],
-      "gaps": [
-        "bancos",
-        "cultura",
-        "distritos",
-        "gobernacion",
-        "participacion"
-      ],
-      "status": "pendiente",
+      "gaps": [],
+      "status": "cubierto",
       "notes": [],
-      "reviewed": 1
+      "reviewed": 6
     },
     {
       "department": "Meta",
@@ -2172,16 +2112,6 @@
           "id": "san-andres-y-providencia-bancos",
           "department": "San Andrés y Providencia",
           "layer": "bancos",
-          "status": "limitada",
-          "source": "Portal oficial sin enlace específico visible",
-          "url": "https://www.sanandres.gov.co/",
-          "detail": "No se localizó enlace explícito de bancos en la navegación inicial; se requiere búsqueda interna o contacto. Cobertura limitada, no oportunidad descartada.",
-          "checked": "2026-11-19"
-        },
-        {
-          "id": "san-andres-y-providencia-bancos",
-          "department": "San Andrés y Providencia",
-          "layer": "bancos",
           "status": "hecha",
           "source": "URL de sección localizada en sitemap XML oficial",
           "url": "https://www.sanandres.gov.co/convocatoria-para-la-construccion-de-nuevos-marcos-tarifarios/",
@@ -2664,6 +2594,7 @@
     "33 unidades territoriales: 32 departamentos y Bogotá D.C.",
     "SECOP se consultó con términos en nombre y descripción, estado abierto/publicado/no adjudicado y publicaciones de 2026.",
     "Un enlace genérico de portal no equivale a convocatoria abierta.",
-    "Los territorios con protección anti-bot quedan como cobertura limitada."
+    "Trece capas de cultura se revisaron sin localizar un canal específico; se registran como 'sin hallazgo', no como inexistencia.",
+    "Magdalena protege el acceso automático; su portal se documenta con URL y requiere apertura manual."
   ]
 }

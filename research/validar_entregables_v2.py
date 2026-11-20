@@ -12,6 +12,11 @@ PDF = ROOT / "Informe_Economia_Plateada_Colombia_19NOV2026.pdf"
 DATA = json.loads((ROOT / "research" / "dataset.json").read_text(encoding="utf-8"))
 COV = json.loads((ROOT / "research" / "cobertura_territorial.json").read_text(encoding="utf-8"))
 ITEMS, BASE, SECOP = DATA["items"], [x for x in DATA["items"] if not x.get("secop")], [x for x in DATA["items"] if x.get("secop")]
+assert len(COV["records"]) == 33
+assert not [r for r in COV["records"] if r["gaps"]], "Brechas de cobertura sin resolver"
+assert all(evidence["status"] in {"hecha", "sin_hallazgo"} for record in COV["records"] for evidence in record["evidence"])
+MANIFEST = json.loads((ROOT / "source_manifest.json").read_text(encoding="utf-8"))
+assert MANIFEST["count"] == sum(len(r["evidence"]) for r in COV["records"]) == 198
 
 
 class Inspector(HTMLParser):
@@ -54,7 +59,7 @@ missing_urls=sorted(expected-set(uris))
 missing_secop_urls=sorted({x["fuentes"][0]["url"] for x in SECOP}-set(uris))
 assert not missing_urls, missing_urls[:10]
 assert not missing_secop_urls, missing_secop_urls[:10]
-for relative in ["index.html","documento.html","cobertura.html","informe.css","oportunidades.csv","secop_oportunidades.csv","cobertura_territorial.json"]:
+for relative in ["index.html","documento.html","cobertura.html","informe.css","oportunidades.csv","secop_oportunidades.csv","cobertura_territorial.json","source_manifest.json"]:
     assert (ROOT/relative).exists(), relative
 with (ROOT/"oportunidades.csv").open(encoding="utf-8-sig",newline="") as handle:
     assert len(list(csv.DictReader(handle,delimiter=";")))==991

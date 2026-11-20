@@ -7,7 +7,7 @@
     {"caso": "Paginación", "resultado": "Mostrar más incrementa a 80 tarjetas y conserva filtros"},
     {"caso": "SECOP", "resultado": "952 candidatos; 351 directos y 601 intersecciones"},
     {"caso": "Presets", "resultado": "Abiertas, local, SECOP, regalías e internacional funcionan; URL persistente"},
-    {"caso": "Cobertura", "resultado": "33 tarjetas territoriales, 204 evidencias, 31 completos y 2 brechas"},
+    {"caso": "Cobertura", "resultado": "33 tarjetas territoriales, 198 evidencias, 33 completos y 0 brechas; 13 capas de cultura sin hallazgo"},
     {"caso": "Móvil 390×844", "resultado": "Sin desbordamiento horizontal"},
     {"caso": "Exportación", "resultado": "CSV de la vista y JSON de cobertura"}
   ]

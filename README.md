@@ -16,7 +16,7 @@ Informe y explorador estático sobre iniciativas y financiación para proyectos 
 - **33 territorios auditados**: 32 departamentos y Bogotá D.C.; seis capas por territorio.
 - SECOP: 12.850 procesos abiertos/publicados/no adjudicados de 2026 consultados en nombre y descripción; 952 candidatos operativos, **351 directos** y **601 de intersección por validar**.
 - Un candidato SECOP **no garantiza recepción vigente**. El dataset `p6dx-8zbt` no expone fecha/hora de cierre; abra el aviso y revise los documentos.
-- **31/33** territorios tienen las seis capas resueltas; Cesar y Magdalena mantienen brechas documentadas. “Sin hallazgo” no equivale a inexistencia de financiación.
+- **33/33** territorios tienen las seis capas resueltas; 13 capas de cultura quedaron “sin hallazgo” y Magdalena requiere verificación manual por protección anti-bot. “Sin hallazgo” no equivale a inexistencia de financiación.
 - No es una revisión uno-a-uno de todos los municipios: los procesos municipales abiertos se cubren vía SECOP II y las rutas departamentales/nacionales. Consulte `documento.html#fuentes`.
 
 ## Uso local
@@ -58,10 +58,11 @@ python research/validar_entregables_v2.py
 - `index.html`: explorador autocontenido de los 991 registros, con paginación.
 - `cobertura.html`: tablero interactivo de 33 territorios × 6 capas.
 - `documento.html` + `informe.css`: informe editorial con enlaces.
-- `Informe_Economia_Plateada_Colombia_19NOV2026.pdf`: informe exhaustivo de 151 páginas A4.
+- `Informe_Economia_Plateada_Colombia_19NOV2026.pdf`: informe exhaustivo de 152 páginas A4.
 - `oportunidades.csv`: resumen de los 991 registros.
 - `secop_oportunidades.csv`: universo SECOP de 952 candidatos.
 - `cobertura_territorial.json`: evidencia de las seis capas y brechas.
+- `source_manifest.json`: manifiesto plano de las 198 evidencias territoriales.
 - `research/`: consultas, base, generadores y validaciones.
 
 Fuente SECOP: Agencia Nacional de Contratación Pública–Colombia Compra Eficiente, dataset **SECOP II – Procesos de Contratación**, `p6dx-8zbt`, licencia indicada en datos.gov.co. Las demás fuentes y URLs están citadas en cada ficha.

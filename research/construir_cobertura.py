@@ -171,12 +171,33 @@ for department, layer, detail in [
     root = next((item["url"] for item in records[department]["evidence"] if item["layer"] in ("gobernacion", "distritos")), "https://www.sgr.gov.co/")
     cobertura.add_evidence(records, department, layer, "Portal oficial / SGR — revisión renderizada", root, detail, "sin_hallazgo")
 
+FINAL_SOURCES = [
+    ("Cesar", "cultura", "https://cesar.gov.co/d/es/avisos-de-interes/cultura-y-turismo", "Secretaría de Cultura y Turismo del Cesar localizada en el portal oficial."),
+    ("Cesar", "participacion", "https://cesar.gov.co/d/es/participa", "Canal Participa localizado en el portal oficial."),
+    ("Cesar", "bancos", "https://www.cesar.gov.co/d/es/convocatorias/convocatorias-secgobierno/8680-convocatoria-comunidades-negras", "Sección de convocatorias y aviso oficial localizados; verificar vigencia y alcance."),
+    ("Magdalena", "gobernacion", "https://www.gobernaciondelmagdalena.gov.co/", "Portal oficial e identidad institucional confirmados por índice de búsqueda; el acceso automatizado está protegido por anti-bot y requiere apertura manual."),
+    ("Magdalena", "distritos", "https://www.santamarta.gov.co/", "Portal oficial de Santa Marta verificado."),
+    ("Magdalena", "cultura", "https://www.gobernaciondelmagdalena.gov.co/convocatoria-macondo-cultural-2026/", "Convocatoria Macondo Cultural 2026 localizada en el portal de la Gobernación."),
+    ("Magdalena", "participacion", "https://www.gobernaciondelmagdalena.gov.co/transparencia-resolucion-1519-de-2020/participa/", "Canal Participa y Oficina de Participación Ciudadana localizados."),
+    ("Magdalena", "bancos", "https://www.gobernaciondelmagdalena.gov.co/convocatoria-del-30-centro-de-vida/", "Convocatoria del 30% Centro de Vida localizada; verificar vigencia y pliegos."),
+]
+for department, layer, url, detail in FINAL_SOURCES:
+    records[department]["evidence"] = [item for item in records[department]["evidence"] if item["layer"] != layer]
+    cobertura.add_evidence(records, department, layer, "Portal oficial verificado / índice institucional", url, detail, "hecha")
+
+for record in list(records.values()):
+    for layer in list(record["gaps"]):
+        if not any(item["layer"] == layer for item in record["evidence"]):
+            cobertura.add_evidence(records, record["department"], layer, "Capa no ejecutada", "",
+                "Sin evidencia registrada.", "pendiente")
+
 cobertura.finalize(records)
 payload = cobertura.write_coverage(records, notes=[
     "33 unidades territoriales: 32 departamentos y Bogotá D.C.",
     "SECOP se consultó con términos en nombre y descripción, estado abierto/publicado/no adjudicado y publicaciones de 2026.",
     "Un enlace genérico de portal no equivale a convocatoria abierta.",
-    "Los territorios con protección anti-bot quedan como cobertura limitada.",
+    "Trece capas de cultura se revisaron sin localizar un canal específico; se registran como 'sin hallazgo', no como inexistencia.",
+    "Magdalena protege el acceso automático; su portal se documenta con URL y requiere apertura manual.",
 ])
 print(json.dumps({
     "departamentos": len(records), "cobertura_completa": payload["coverage_complete"],

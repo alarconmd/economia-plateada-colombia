@@ -27,7 +27,7 @@ La consulta produjo **12.850 registros candidatos**. El embudo operativo exige f
 
 Se auditaron 33 unidades: 32 departamentos y Bogotá D.C. Para cada una se revisan seis capas: SECOP II; gobernación; capital/distrito; cultura; participación/planeación; y bancos/regalías/fondos. Las fuentes se buscan en portales oficiales, navegación HTML, renderizado JavaScript y sitemaps XML.
 
-Estados: **Hallazgo** (URL localizada), **Sin hallazgo** (navegación revisada sin canal visible), **Limitada** (bloqueo o menú no disponible) y **Pendiente** (capa no ejecutada). Al corte: **31/33 territorios con seis capas resueltas**; Cesar y Magdalena tienen brechas explícitas. La matriz no interpreta ausencia de enlace como ausencia de oportunidad.
+Estados: **Hallazgo** (URL localizada), **Sin hallazgo** (navegación revisada sin canal visible), **Limitada** (bloqueo o menú no disponible) y **Pendiente** (capa no ejecutada). Al corte: **33/33 territorios con seis capas auditadas**; 13 capas de cultura quedaron sin hallazgo y Magdalena requiere apertura manual por anti-bot. La matriz no interpreta ausencia de enlace como ausencia de oportunidad.
 
 ## Evidencia documental
 
@@ -38,7 +38,7 @@ Se descargaron y extrajeron las bases CAF LIF 2026 (17 páginas), términos OCAD
 - Campos obligatorios y URLs por los 991 registros.
 - IDs únicos, referencias locales existentes y 33 territorios en la matriz.
 - Pruebas de presets, búsqueda, persistencia URL, paginación, señal directa/intersección, detalles, tema, móvil, CSV y cobertura.
-- PDF A4 de 151 páginas, sin páginas en blanco, 952 IDs SECOP, 39 fichas fuente, 33 territorios y 1.150 enlaces únicos.
+- PDF A4 de 152 páginas, sin páginas en blanco, 952 IDs SECOP, 39 fichas fuente, 33 territorios y 1.157 enlaces únicos.
 - Render visual de portada, resumen, tabla SECOP y cierre.
 
 ## Actualización

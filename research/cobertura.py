@@ -110,6 +110,7 @@ def add_evidence(records, department, layer, source, url, detail, status="hecha"
         raise ValueError(f"Estado inválido: {status}")
     if not source or not detail or (status == "hecha" and not url):
         raise ValueError(f"Evidencia incompleta: {department} / {layer}")
+    record["evidence"] = [item for item in record["evidence"] if item["layer"] != layer]
     record["evidence"].append(evidence(department, layer, status, source, url, detail, checked))
     if status == "hecha" and layer in record["gaps"]:
         record["gaps"].remove(layer)
@@ -133,4 +134,13 @@ def write_coverage(records, notes=None):
         "notes": notes or [],
     }
     COBERTURA.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+    manifest = {
+        "cutoff": payload["cutoff"], "departments_count": payload["departments_count"],
+        "required_layers": LAYERS, "count": sum(len(record["evidence"]) for record in records.values()),
+        "entries": [
+            {"department": record["department"], **item}
+            for record in records.values() for item in record["evidence"]
+        ],
+    }
+    (RESEARCH / "source_manifest.json").write_text(json.dumps(manifest, ensure_ascii=False, indent=2), encoding="utf-8")
     return payload

@@ -7,7 +7,7 @@
   "secop_directos": 351,
   "secop_interseccion": 601,
   "cobertura_total": 33,
-  "cobertura_completa": false,
+  "cobertura_completa": true,
   "items": [
     {
       "id": "c1-ccb-programa",
