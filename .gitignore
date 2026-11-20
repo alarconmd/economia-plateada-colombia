@@ -8,4 +8,9 @@ research/secop_crudo.csv
 research/secop_resumen.json
 research/validar_sintaxis.js
 research/bases-lif-2026-es.pdf*
+research/secop_exhaustivo.json
+research/secop_exhaustivo_metadatos.json
+research/fuentes_territoriales_crudo.json
+research/fuentes_sitemaps.json
+research/busqueda_territorial_batch*.json
 .playwright-mcp/

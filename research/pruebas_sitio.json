@@ -3,15 +3,12 @@
   "navegador": "Chromium mediante Playwright",
   "resultado": "APROBADO",
   "pruebas": [
-    {"caso": "Carga inicial", "resultado": "66 tarjetas; 5 abiertas; 27 SECOP; sin recursos externos ni errores de consola"},
-    {"caso": "Preset abiertas", "resultado": "5 registros; URL ?status=abierta"},
-    {"caso": "Preset Bogotá–Cundinamarca", "resultado": "21 registros; 10 candidatos SECOP"},
-    {"caso": "Preset SECOP", "resultado": "27 registros; orden por presupuesto"},
-    {"caso": "Persistencia", "resultado": "Filtros SECOP conservados al recargar"},
-    {"caso": "Búsqueda", "resultado": "Sogamoso devuelve 1 proceso y ficha expandible"},
-    {"caso": "Internacional abierta", "resultado": "4 registros al combinar capítulo 3 y abiertas"},
-    {"caso": "Exportación", "resultado": "Descarga economia_plateada_vista.csv"},
-    {"caso": "Tema", "resultado": "Oscuro/claro funcional"},
-    {"caso": "Móvil 390×844", "resultado": "Sin desbordamiento horizontal; 66 tarjetas"}
+    {"caso": "Carga inicial", "resultado": "991 registros; 40 tarjetas visibles; sin errores de consola"},
+    {"caso": "Paginación", "resultado": "Mostrar más incrementa a 80 tarjetas y conserva filtros"},
+    {"caso": "SECOP", "resultado": "952 candidatos; 351 directos y 601 intersecciones"},
+    {"caso": "Presets", "resultado": "Abiertas, local, SECOP, regalías e internacional funcionan; URL persistente"},
+    {"caso": "Cobertura", "resultado": "33 tarjetas territoriales, 204 evidencias, 31 completos y 2 brechas"},
+    {"caso": "Móvil 390×844", "resultado": "Sin desbordamiento horizontal"},
+    {"caso": "Exportación", "resultado": "CSV de la vista y JSON de cobertura"}
   ]
 }

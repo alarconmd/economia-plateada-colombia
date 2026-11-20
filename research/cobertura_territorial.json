@@ -1,0 +1,2669 @@
+{
+  "cutoff": "2026-11-19",
+  "departments_count": 33,
+  "required_layers": [
+    {
+      "id": "secop",
+      "name": "SECOP II y contratación pública",
+      "required": true
+    },
+    {
+      "id": "gobernacion",
+      "name": "Gobernación y política territorial",
+      "required": true
+    },
+    {
+      "id": "distritos",
+      "name": "Distrito / municipio sede",
+      "required": true
+    },
+    {
+      "id": "cultura",
+      "name": "Consejerías o institutos de cultura",
+      "required": true
+    },
+    {
+      "id": "participacion",
+      "name": "Participación, planeación y organizaciones",
+      "required": true
+    },
+    {
+      "id": "bancos",
+      "name": "Bancos de proyectos, regalías y fondos",
+      "required": true
+    }
+  ],
+  "coverage_complete": false,
+  "records": [
+    {
+      "department": "Amazonas",
+      "identity": {
+        "slug": "amazonas",
+        "domain_hint": "amazonas.gov.co",
+        "seats": [
+          "Leticia"
+        ],
+        "unified": false
+      },
+      "evidence": [
+        {
+          "id": "amazonas-secop",
+          "department": "Amazonas",
+          "layer": "secop",
+          "status": "hecha",
+          "source": "Colombia Compra Eficiente — SECOP II, dataset p6dx-8zbt",
+          "url": "https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-II-Procesos-de-Contrataci-n/p6dx-8zbt/about_data",
+          "detail": "Consulta temática ejecutada: 0 candidatos (0 directos y 0 solo por intersección). No prueba por sí sola recepción vigente.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "amazonas-gobernacion",
+          "department": "Amazonas",
+          "layer": "gobernacion",
+          "status": "hecha",
+          "source": "Portal oficial de la gobernación",
+          "url": "https://amazonas.gov.co/",
+          "detail": "Portal oficial respondió HTTP 200; título: Territoriales; 0 enlaces visibles.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "amazonas-distritos",
+          "department": "Amazonas",
+          "layer": "distritos",
+          "status": "hecha",
+          "source": "Portal oficial de la capital",
+          "url": "https://www.leticia-amazonas.gov.co/",
+          "detail": "Portal oficial respondió HTTP 200; título: Territoriales; 0 enlaces visibles.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "amazonas-participacion",
+          "department": "Amazonas",
+          "layer": "participacion",
+          "status": "hecha",
+          "source": "Portal oficial verificado",
+          "url": "https://amazonas.gov.co/tema/menu-participa",
+          "detail": "Menú Participa verificado en portal renderizado.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "amazonas-bancos",
+          "department": "Amazonas",
+          "layer": "bancos",
+          "status": "hecha",
+          "source": "Portal oficial verificado",
+          "url": "https://amazonas.gov.co/tema/ofertas-y-oportunidades-para-la-vida",
+          "detail": "Oferta y Oportunidad verificada en portal renderizado.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "amazonas-cultura",
+          "department": "Amazonas",
+          "layer": "cultura",
+          "status": "sin_hallazgo",
+          "source": "Portal oficial — revisión renderizada",
+          "url": "https://amazonas.gov.co/",
+          "detail": "Se revisó la navegación renderizada y no se localizó un enlace público de cultura/patrimonio. Resultado: sin hallazgo en la portada, no equivale a inexistencia absoluta.",
+          "checked": "2026-11-19"
+        }
+      ],
+      "gaps": [],
+      "status": "cubierto",
+      "notes": [],
+      "reviewed": 6
+    },
+    {
+      "department": "Antioquia",
+      "identity": {
+        "slug": "antioquia",
+        "domain_hint": "antioquia.gov.co",
+        "seats": [
+          "Medellín",
+          "Medellin"
+        ],
+        "unified": false
+      },
+      "evidence": [
+        {
+          "id": "antioquia-secop",
+          "department": "Antioquia",
+          "layer": "secop",
+          "status": "hecha",
+          "source": "Colombia Compra Eficiente — SECOP II, dataset p6dx-8zbt",
+          "url": "https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-II-Procesos-de-Contrataci-n/p6dx-8zbt/about_data",
+          "detail": "Consulta temática ejecutada: 291 candidatos (204 directos y 87 solo por intersección). No prueba por sí sola recepción vigente.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "antioquia-gobernacion",
+          "department": "Antioquia",
+          "layer": "gobernacion",
+          "status": "hecha",
+          "source": "Portal oficial de la gobernación",
+          "url": "https://www.antioquia.gov.co/",
+          "detail": "Portal oficial respondió HTTP 200; título: Inicio; 176 enlaces visibles.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "antioquia-distritos",
+          "department": "Antioquia",
+          "layer": "distritos",
+          "status": "hecha",
+          "source": "Portal oficial de la capital",
+          "url": "https://www.medellin.gov.co/",
+          "detail": "Portal oficial respondió HTTP 200; título: Alcaldía de Medellín | Portal institucional; 588 enlaces visibles.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "antioquia-cultura",
+          "department": "Antioquia",
+          "layer": "cultura",
+          "status": "hecha",
+          "source": "Enlace de cultura localizado en portal oficial",
+          "url": "https://culturantioquia.gov.co/",
+          "detail": "Enlace: Instituto de Cultura y Patrimonio de Antioquia-Establecimiento Público. Portal origen: https://www.antioquia.gov.co/. Se verificó la dirección oficial, no que exista una convocatoria abierta.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "antioquia-participacion",
+          "department": "Antioquia",
+          "layer": "participacion",
+          "status": "hecha",
+          "source": "Enlace de participacion localizado en portal oficial",
+          "url": "https://www.antioquia.gov.co/direccion-de-participacion-comunitaria-y-ciudadana",
+          "detail": "Enlace: Dirección de Participación Comunitaria y Ciudadana. Portal origen: https://www.antioquia.gov.co/. Se verificó la dirección oficial, no que exista una convocatoria abierta.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "antioquia-bancos",
+          "department": "Antioquia",
+          "layer": "bancos",
+          "status": "hecha",
+          "source": "Enlace de bancos localizado en portal oficial",
+          "url": "https://www.antioquia.gov.co/sistema-general-de-regalias",
+          "detail": "Enlace: S.G.R.. Portal origen: https://www.antioquia.gov.co/. Se verificó la dirección oficial, no que exista una convocatoria abierta.",
+          "checked": "2026-11-19"
+        }
+      ],
+      "gaps": [],
+      "status": "cubierto",
+      "notes": [],
+      "reviewed": 6
+    },
+    {
+      "department": "Arauca",
+      "identity": {
+        "slug": "arauca",
+        "domain_hint": "arauca.gov.co",
+        "seats": [
+          "Arauca"
+        ],
+        "unified": false
+      },
+      "evidence": [
+        {
+          "id": "arauca-secop",
+          "department": "Arauca",
+          "layer": "secop",
+          "status": "hecha",
+          "source": "Colombia Compra Eficiente — SECOP II, dataset p6dx-8zbt",
+          "url": "https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-II-Procesos-de-Contrataci-n/p6dx-8zbt/about_data",
+          "detail": "Consulta temática ejecutada: 3 candidatos (0 directos y 3 solo por intersección). No prueba por sí sola recepción vigente.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "arauca-gobernacion",
+          "department": "Arauca",
+          "layer": "gobernacion",
+          "status": "hecha",
+          "source": "Portal oficial de la gobernación",
+          "url": "https://www.arauca.gov.co/",
+          "detail": "Portal oficial respondió HTTP 200; título: Territoriales; 0 enlaces visibles.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "arauca-distritos",
+          "department": "Arauca",
+          "layer": "distritos",
+          "status": "hecha",
+          "source": "Portal oficial de la capital",
+          "url": "https://www.arauca.gov.co/",
+          "detail": "Portal oficial respondió HTTP 200; título: Territoriales; 0 enlaces visibles.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "arauca-participacion",
+          "department": "Arauca",
+          "layer": "participacion",
+          "status": "hecha",
+          "source": "Portal oficial verificado",
+          "url": "https://www.arauca.gov.co/tema/planeacion-presupuesto-participativo",
+          "detail": "Planeación y presupuesto participativo verificado.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "arauca-bancos",
+          "department": "Arauca",
+          "layer": "bancos",
+          "status": "hecha",
+          "source": "Portal oficial verificado",
+          "url": "https://www.arauca.gov.co/tema/contrataciones",
+          "detail": "Contrataciones verificadas en portal oficial.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "arauca-cultura",
+          "department": "Arauca",
+          "layer": "cultura",
+          "status": "sin_hallazgo",
+          "source": "Portal oficial — revisión renderizada",
+          "url": "https://www.arauca.gov.co/",
+          "detail": "Se revisó la navegación renderizada y no se localizó un enlace público de cultura/patrimonio. Resultado: sin hallazgo en la portada, no equivale a inexistencia absoluta.",
+          "checked": "2026-11-19"
+        }
+      ],
+      "gaps": [],
+      "status": "cubierto",
+      "notes": [],
+      "reviewed": 6
+    },
+    {
+      "department": "Atlántico",
+      "identity": {
+        "slug": "atlantico",
+        "domain_hint": "atlantico.gov.co",
+        "seats": [
+          "Barranquilla",
+          "Soledad"
+        ],
+        "unified": false
+      },
+      "evidence": [
+        {
+          "id": "atlantico-secop",
+          "department": "Atlántico",
+          "layer": "secop",
+          "status": "hecha",
+          "source": "Colombia Compra Eficiente — SECOP II, dataset p6dx-8zbt",
+          "url": "https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-II-Procesos-de-Contrataci-n/p6dx-8zbt/about_data",
+          "detail": "Consulta temática ejecutada: 37 candidatos (1 directos y 36 solo por intersección). No prueba por sí sola recepción vigente.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "atlantico-gobernacion",
+          "department": "Atlántico",
+          "layer": "gobernacion",
+          "status": "hecha",
+          "source": "Portal oficial de la gobernación",
+          "url": "https://www.atlantico.gov.co/",
+          "detail": "Portal oficial respondió HTTP 200; título: Gobernación del Atlántico; 98 enlaces visibles.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "atlantico-distritos",
+          "department": "Atlántico",
+          "layer": "distritos",
+          "status": "hecha",
+          "source": "Portal oficial de la capital",
+          "url": "https://barranquilla.gov.co/",
+          "detail": "Portal oficial respondió HTTP 200; título: Alcaldía de Barranquilla, Distrito Especial, Industrial y Portuario; 107 enlaces visibles.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "atlantico-cultura",
+          "department": "Atlántico",
+          "layer": "cultura",
+          "status": "hecha",
+          "source": "Enlace de cultura localizado en portal oficial",
+          "url": "https://www.atlantico.gov.co/index.php/secretarias/culturapatrimonio",
+          "detail": "Enlace: Cultura y Patrimonio. Portal origen: https://www.atlantico.gov.co/. Se verificó la dirección oficial, no que exista una convocatoria abierta.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "atlantico-participacion",
+          "department": "Atlántico",
+          "layer": "participacion",
+          "status": "hecha",
+          "source": "Enlace de participacion localizado en portal oficial",
+          "url": "https://www.atlantico.gov.co/index.php/8-1-descripcion-general/convocatorias-participacion-ciudadana/28847-proceso-de-formalizacion-de-la-cadena-nacional-del-mango",
+          "detail": "Enlace: Proceso de formalización de la Cadena Nacional del Mango.. Portal origen: https://www.atlantico.gov.co/. Se verificó la dirección oficial, no que exista una convocatoria abierta.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "atlantico-bancos",
+          "department": "Atlántico",
+          "layer": "bancos",
+          "status": "hecha",
+          "source": "Enlace de bancos localizado en portal oficial",
+          "url": "https://www.atlantico.gov.co/index.php/presupuesto-general/28753-ejecucion-presupuestal-activa-y-pasiva-a-agosto-31-de-2026",
+          "detail": "Enlace: EJECUCION PRESUPUESTAL ACTIVA Y PASIVA A AGOSTO 31 DE 2026. Portal origen: https://www.atlantico.gov.co/. Se verificó la dirección oficial, no que exista una convocatoria abierta.",
+          "checked": "2026-11-19"
+        }
+      ],
+      "gaps": [],
+      "status": "cubierto",
+      "notes": [],
+      "reviewed": 6
+    },
+    {
+      "department": "Bogotá D.C.",
+      "identity": {
+        "slug": "bogota",
+        "domain_hint": "bogota.gov.co",
+        "seats": [
+          "Bogotá",
+          "Bogota"
+        ],
+        "unified": true
+      },
+      "evidence": [
+        {
+          "id": "bogota-d.c.-secop",
+          "department": "Bogotá D.C.",
+          "layer": "secop",
+          "status": "hecha",
+          "source": "Colombia Compra Eficiente — SECOP II, dataset p6dx-8zbt",
+          "url": "https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-II-Procesos-de-Contrataci-n/p6dx-8zbt/about_data",
+          "detail": "Consulta temática ejecutada: 248 candidatos (44 directos y 204 solo por intersección). No prueba por sí sola recepción vigente.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "bogota-d.c.-gobernacion",
+          "department": "Bogotá D.C.",
+          "layer": "gobernacion",
+          "status": "hecha",
+          "source": "Portal oficial de la gobernación",
+          "url": "https://bogota.gov.co/",
+          "detail": "Portal oficial respondió HTTP 200; título: ¡Te damos la bienvenida a Bogotá! | Bogota.gov.co; 83 enlaces visibles.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "bogota-d.c.-distritos",
+          "department": "Bogotá D.C.",
+          "layer": "distritos",
+          "status": "hecha",
+          "source": "Portal oficial de la capital",
+          "url": "https://bogota.gov.co/",
+          "detail": "Portal oficial respondió HTTP 200; título: ¡Te damos la bienvenida a Bogotá! | Bogota.gov.co; 83 enlaces visibles.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "bogota-d.c.-cultura",
+          "department": "Bogotá D.C.",
+          "layer": "cultura",
+          "status": "hecha",
+          "source": "Enlace de cultura localizado en portal oficial",
+          "url": "https://bogota.gov.co/tag/turismo-en-bogota",
+          "detail": "Enlace: Explora y recorre Bogotá La capital de Colombia ofrece una gran oferta de espacios culturales, recreación y planes inperdibles que permiten conocer parques, escenarios deportivos, . Portal origen: https://bogota.gov.co/. Se verificó la dirección oficial, no que exista una convocatoria abierta.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "bogota-d.c.-participacion",
+          "department": "Bogotá D.C.",
+          "layer": "participacion",
+          "status": "hecha",
+          "source": "Enlace de participacion localizado en portal oficial",
+          "url": "https://bogota.gov.co/mi-ciudad/planeacion/ursula-ablanque-nueva-secretaria-distrital-de-planeacion",
+          "detail": "Enlace: Úrsula Ablanque Secretaria de Planeación. Portal origen: https://bogota.gov.co/. Se verificó la dirección oficial, no que exista una convocatoria abierta.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "bogota-d.c.-bancos",
+          "department": "Bogotá D.C.",
+          "layer": "bancos",
+          "status": "limitada",
+          "source": "Portal oficial sin enlace específico visible",
+          "url": "https://bogota.gov.co/",
+          "detail": "No se localizó enlace explícito de bancos en la navegación inicial; se requiere búsqueda interna o contacto. Cobertura limitada, no oportunidad descartada.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "bogota-d.c.-bancos",
+          "department": "Bogotá D.C.",
+          "layer": "bancos",
+          "status": "hecha",
+          "source": "URL de sección localizada en sitemap XML oficial",
+          "url": "https://bogota.gov.co/mi-ciudad/cultura-deporte-y-recreacion/abierta-convocatoria-para-proyectos-en-patrimonio-de-grupos",
+          "detail": "Fuente descubierta en https://bogota.gov.co/sitemap.xml; la vigencia y las convocatorias deben revisarse en la página.",
+          "checked": "2026-11-19"
+        }
+      ],
+      "gaps": [],
+      "status": "cubierto",
+      "notes": [],
+      "reviewed": 6
+    },
+    {
+      "department": "Bolívar",
+      "identity": {
+        "slug": "bolivar",
+        "domain_hint": "bolivar.gov.co",
+        "seats": [
+          "Cartagena"
+        ],
+        "unified": false
+      },
+      "evidence": [
+        {
+          "id": "bolivar-secop",
+          "department": "Bolívar",
+          "layer": "secop",
+          "status": "hecha",
+          "source": "Colombia Compra Eficiente — SECOP II, dataset p6dx-8zbt",
+          "url": "https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-II-Procesos-de-Contrataci-n/p6dx-8zbt/about_data",
+          "detail": "Consulta temática ejecutada: 9 candidatos (1 directos y 8 solo por intersección). No prueba por sí sola recepción vigente.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "bolivar-gobernacion",
+          "department": "Bolívar",
+          "layer": "gobernacion",
+          "status": "hecha",
+          "source": "Portal oficial de la gobernación",
+          "url": "https://www.bolivar.gov.co/web/",
+          "detail": "Portal oficial respondió HTTP 200; título: Inicio | Gobernación de Bolívar; 334 enlaces visibles.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "bolivar-distritos",
+          "department": "Bolívar",
+          "layer": "distritos",
+          "status": "hecha",
+          "source": "Portal oficial de la capital",
+          "url": "https://www.cartagena.gov.co/",
+          "detail": "Portal oficial respondió HTTP 200; título: Inicio | Alcaldía Mayor de Cartagena de Indias; 123 enlaces visibles.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "bolivar-cultura",
+          "department": "Bolívar",
+          "layer": "cultura",
+          "status": "hecha",
+          "source": "Enlace de cultura localizado en portal oficial",
+          "url": "https://www.bolivar.gov.co/web/cultura-es-dignidad-mayor/",
+          "detail": "Enlace: Cultura es Dignidad Mayor. Portal origen: https://www.bolivar.gov.co/web/. Se verificó la dirección oficial, no que exista una convocatoria abierta.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "bolivar-participacion",
+          "department": "Bolívar",
+          "layer": "participacion",
+          "status": "hecha",
+          "source": "Enlace de participacion localizado en portal oficial",
+          "url": "https://www.bolivar.gov.co/web/seccion/participacion-para-el-diagnostico-e-identificacion-del-problema/",
+          "detail": "Enlace: - Participación para el Diagnostico e identificación del Problema. Portal origen: https://www.bolivar.gov.co/web/. Se verificó la dirección oficial, no que exista una convocatoria abierta.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "bolivar-bancos",
+          "department": "Bolívar",
+          "layer": "bancos",
+          "status": "hecha",
+          "source": "Enlace de bancos localizado en portal oficial",
+          "url": "https://www.bolivar.gov.co/web/seccion/planeacion-y-presupuesto-participativo/",
+          "detail": "Enlace: - Planeación y Presupuesto Participativo. Portal origen: https://www.bolivar.gov.co/web/. Se verificó la dirección oficial, no que exista una convocatoria abierta.",
+          "checked": "2026-11-19"
+        }
+      ],
+      "gaps": [],
+      "status": "cubierto",
+      "notes": [],
+      "reviewed": 6
+    },
+    {
+      "department": "Boyacá",
+      "identity": {
+        "slug": "boyaca",
+        "domain_hint": "boyaca.gov.co",
+        "seats": [
+          "Tunja"
+        ],
+        "unified": false
+      },
+      "evidence": [
+        {
+          "id": "boyaca-secop",
+          "department": "Boyacá",
+          "layer": "secop",
+          "status": "hecha",
+          "source": "Colombia Compra Eficiente — SECOP II, dataset p6dx-8zbt",
+          "url": "https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-II-Procesos-de-Contrataci-n/p6dx-8zbt/about_data",
+          "detail": "Consulta temática ejecutada: 27 candidatos (8 directos y 19 solo por intersección). No prueba por sí sola recepción vigente.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "boyaca-gobernacion",
+          "department": "Boyacá",
+          "layer": "gobernacion",
+          "status": "hecha",
+          "source": "Portal oficial verificado",
+          "url": "https://www.boyaca.gov.co/",
+          "detail": "Portal oficial verificado en navegador (HTTP 200), aunque bloquea clientes HTTP simples.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "boyaca-bancos",
+          "department": "Boyacá",
+          "layer": "bancos",
+          "status": "hecha",
+          "source": "Portal oficial verificado",
+          "url": "https://www.boyaca.gov.co/dependencia/gobernacion/publicaciones-de-la-gobernacion-gobernacion/convocatorias/",
+          "detail": "Convocatorias localizadas en navegación renderizada.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "boyaca-participacion",
+          "department": "Boyacá",
+          "layer": "participacion",
+          "status": "hecha",
+          "source": "Portal oficial verificado",
+          "url": "https://www.boyaca.gov.co/boton-de-participacion-gb/",
+          "detail": "Botón oficial de participación localizado en navegación renderizada.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "boyaca-distritos",
+          "department": "Boyacá",
+          "layer": "distritos",
+          "status": "hecha",
+          "source": "Portal oficial verificado",
+          "url": "https://www.tunja-boyaca.gov.co/",
+          "detail": "Portal de Tunja verificado con navegación renderizada.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "boyaca-cultura",
+          "department": "Boyacá",
+          "layer": "cultura",
+          "status": "sin_hallazgo",
+          "source": "Portal oficial — revisión renderizada",
+          "url": "https://www.boyaca.gov.co/",
+          "detail": "Se revisó la navegación renderizada y no se localizó un enlace público de cultura/patrimonio. Resultado: sin hallazgo en la portada, no equivale a inexistencia absoluta.",
+          "checked": "2026-11-19"
+        }
+      ],
+      "gaps": [],
+      "status": "cubierto",
+      "notes": [],
+      "reviewed": 6
+    },
+    {
+      "department": "Caldas",
+      "identity": {
+        "slug": "caldas",
+        "domain_hint": "caldas.gov.co",
+        "seats": [
+          "Manizales"
+        ],
+        "unified": false
+      },
+      "evidence": [
+        {
+          "id": "caldas-secop",
+          "department": "Caldas",
+          "layer": "secop",
+          "status": "hecha",
+          "source": "Colombia Compra Eficiente — SECOP II, dataset p6dx-8zbt",
+          "url": "https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-II-Procesos-de-Contrataci-n/p6dx-8zbt/about_data",
+          "detail": "Consulta temática ejecutada: 24 candidatos (16 directos y 8 solo por intersección). No prueba por sí sola recepción vigente.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "caldas-gobernacion",
+          "department": "Caldas",
+          "layer": "gobernacion",
+          "status": "hecha",
+          "source": "Portal oficial de la gobernación",
+          "url": "https://www.caldas.gov.co/",
+          "detail": "Portal oficial respondió HTTP 200; título: Gobierno de Caldas - Inicio; 76 enlaces visibles.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "caldas-distritos",
+          "department": "Caldas",
+          "layer": "distritos",
+          "status": "hecha",
+          "source": "Portal oficial de la capital",
+          "url": "https://manizales.gov.co/",
+          "detail": "Portal oficial respondió HTTP 200; título: Alcaldía de Manizales – Manizales; 62 enlaces visibles.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "caldas-participacion",
+          "department": "Caldas",
+          "layer": "participacion",
+          "status": "hecha",
+          "source": "Portal oficial verificado",
+          "url": "https://www.caldas.gov.co/participa",
+          "detail": "Sección Participa verificada.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "caldas-bancos",
+          "department": "Caldas",
+          "layer": "bancos",
+          "status": "hecha",
+          "source": "Portal oficial verificado",
+          "url": "https://caldas.gov.co/4-planeacion-presupuesto-e-informes/4-14-plan-de-desarrollo",
+          "detail": "Planeación y presupuesto verificados.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "caldas-cultura",
+          "department": "Caldas",
+          "layer": "cultura",
+          "status": "sin_hallazgo",
+          "source": "Portal oficial — revisión renderizada",
+          "url": "https://www.caldas.gov.co/",
+          "detail": "Se revisó la navegación renderizada y no se localizó un enlace público de cultura/patrimonio. Resultado: sin hallazgo en la portada, no equivale a inexistencia absoluta.",
+          "checked": "2026-11-19"
+        }
+      ],
+      "gaps": [],
+      "status": "cubierto",
+      "notes": [],
+      "reviewed": 6
+    },
+    {
+      "department": "Caquetá",
+      "identity": {
+        "slug": "caqueta",
+        "domain_hint": "caqueta.gov.co",
+        "seats": [
+          "Florencia"
+        ],
+        "unified": false
+      },
+      "evidence": [
+        {
+          "id": "caqueta-secop",
+          "department": "Caquetá",
+          "layer": "secop",
+          "status": "hecha",
+          "source": "Colombia Compra Eficiente — SECOP II, dataset p6dx-8zbt",
+          "url": "https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-II-Procesos-de-Contrataci-n/p6dx-8zbt/about_data",
+          "detail": "Consulta temática ejecutada: 10 candidatos (5 directos y 5 solo por intersección). No prueba por sí sola recepción vigente.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "caqueta-gobernacion",
+          "department": "Caquetá",
+          "layer": "gobernacion",
+          "status": "hecha",
+          "source": "Portal oficial de la gobernación",
+          "url": "https://www.caqueta.gov.co/",
+          "detail": "Portal oficial respondió HTTP 200; título: Territoriales; 0 enlaces visibles.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "caqueta-distritos",
+          "department": "Caquetá",
+          "layer": "distritos",
+          "status": "hecha",
+          "source": "Portal oficial de la capital",
+          "url": "https://www.florencia-caqueta.gov.co/",
+          "detail": "Portal oficial respondió HTTP 200; título: Territoriales; 0 enlaces visibles.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "caqueta-participacion",
+          "department": "Caquetá",
+          "layer": "participacion",
+          "status": "hecha",
+          "source": "Portal oficial verificado",
+          "url": "https://www.caqueta.gov.co/tema/participacion-ciudadana",
+          "detail": "Participación Ciudadana verificada.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "caqueta-bancos",
+          "department": "Caquetá",
+          "layer": "bancos",
+          "status": "hecha",
+          "source": "Portal oficial verificado",
+          "url": "https://www.caqueta.gov.co/tema/convocatorias-para-la-participacion-de-la-ciudadania",
+          "detail": "Convocatorias para participación verificadas.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "caqueta-cultura",
+          "department": "Caquetá",
+          "layer": "cultura",
+          "status": "sin_hallazgo",
+          "source": "Portal oficial — revisión renderizada",
+          "url": "https://www.caqueta.gov.co/",
+          "detail": "Se revisó la navegación renderizada y no se localizó un enlace público de cultura/patrimonio. Resultado: sin hallazgo en la portada, no equivale a inexistencia absoluta.",
+          "checked": "2026-11-19"
+        }
+      ],
+      "gaps": [],
+      "status": "cubierto",
+      "notes": [],
+      "reviewed": 6
+    },
+    {
+      "department": "Casanare",
+      "identity": {
+        "slug": "casanare",
+        "domain_hint": "casanare.gov.co",
+        "seats": [
+          "Yopal"
+        ],
+        "unified": false
+      },
+      "evidence": [
+        {
+          "id": "casanare-secop",
+          "department": "Casanare",
+          "layer": "secop",
+          "status": "hecha",
+          "source": "Colombia Compra Eficiente — SECOP II, dataset p6dx-8zbt",
+          "url": "https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-II-Procesos-de-Contrataci-n/p6dx-8zbt/about_data",
+          "detail": "Consulta temática ejecutada: 1 candidatos (1 directos y 0 solo por intersección). No prueba por sí sola recepción vigente.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "casanare-gobernacion",
+          "department": "Casanare",
+          "layer": "gobernacion",
+          "status": "hecha",
+          "source": "Portal oficial de la gobernación",
+          "url": "https://www.casanare.gov.co/",
+          "detail": "Portal oficial respondió HTTP 200; título: Sede Electrónica; 0 enlaces visibles.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "casanare-distritos",
+          "department": "Casanare",
+          "layer": "distritos",
+          "status": "hecha",
+          "source": "Portal oficial de la capital",
+          "url": "https://www.yopal.gov.co/",
+          "detail": "Portal oficial respondió HTTP 200; título: Servicios en linea Yopal; 28 enlaces visibles.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "casanare-cultura",
+          "department": "Casanare",
+          "layer": "cultura",
+          "status": "limitada",
+          "source": "Portal oficial sin enlace específico visible",
+          "url": "https://www.casanare.gov.co/",
+          "detail": "No se localizó enlace explícito de cultura en la navegación inicial; se requiere búsqueda interna o contacto. Cobertura limitada, no oportunidad descartada.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "casanare-cultura",
+          "department": "Casanare",
+          "layer": "cultura",
+          "status": "hecha",
+          "source": "URL de sección localizada en sitemap XML oficial",
+          "url": "https://www.casanare.gov.co/micro-site/secretaria-de-desarrollo-economico-agricultura-ganaderia-y-medio-ambiente",
+          "detail": "Fuente descubierta en https://www.casanare.gov.co/sitemap.xml; la vigencia y las convocatorias deben revisarse en la página.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "casanare-participacion",
+          "department": "Casanare",
+          "layer": "participacion",
+          "status": "hecha",
+          "source": "Portal oficial verificado",
+          "url": "https://www.casanare.gov.co/participa",
+          "detail": "Sección Participa verificada.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "casanare-bancos",
+          "department": "Casanare",
+          "layer": "bancos",
+          "status": "hecha",
+          "source": "Portal oficial verificado",
+          "url": "https://www.casanare.gov.co/",
+          "detail": "Portal oficial verificado; no se localizó banco específico.",
+          "checked": "2026-11-19"
+        }
+      ],
+      "gaps": [],
+      "status": "cubierto",
+      "notes": [],
+      "reviewed": 6
+    },
+    {
+      "department": "Cauca",
+      "identity": {
+        "slug": "cauca",
+        "domain_hint": "cauca.gov.co",
+        "seats": [
+          "Popayán"
+        ],
+        "unified": false
+      },
+      "evidence": [
+        {
+          "id": "cauca-secop",
+          "department": "Cauca",
+          "layer": "secop",
+          "status": "hecha",
+          "source": "Colombia Compra Eficiente — SECOP II, dataset p6dx-8zbt",
+          "url": "https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-II-Procesos-de-Contrataci-n/p6dx-8zbt/about_data",
+          "detail": "Consulta temática ejecutada: 14 candidatos (1 directos y 13 solo por intersección). No prueba por sí sola recepción vigente.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "cauca-gobernacion",
+          "department": "Cauca",
+          "layer": "gobernacion",
+          "status": "hecha",
+          "source": "Portal oficial de la gobernación",
+          "url": "https://www.cauca.gov.co/Paginas/Inicio.aspx",
+          "detail": "Portal oficial respondió HTTP 200; título: Gobernacion Cauca; 141 enlaces visibles.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "cauca-distritos",
+          "department": "Cauca",
+          "layer": "distritos",
+          "status": "hecha",
+          "source": "Portal oficial de la capital",
+          "url": "https://www.popayan.gov.co/Paginas/Inicio.aspx",
+          "detail": "Portal oficial respondió HTTP 200; título: Alcaldía de Popayán; 75 enlaces visibles.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "cauca-cultura",
+          "department": "Cauca",
+          "layer": "cultura",
+          "status": "hecha",
+          "source": "Enlace de cultura localizado en portal oficial",
+          "url": "https://www.cauca.gov.co/Dependencias/secretaria-de-agricultura-y-desarrollo-rural",
+          "detail": "Enlace: Secretaría de Agricultura y Desarrollo rural. Portal origen: https://www.cauca.gov.co/Paginas/Inicio.aspx. Se verificó la dirección oficial, no que exista una convocatoria abierta.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "cauca-participacion",
+          "department": "Cauca",
+          "layer": "participacion",
+          "status": "hecha",
+          "source": "Enlace de participacion localizado en portal oficial",
+          "url": "https://www.cauca.gov.co/Dependencias/GobiernoyParticipacion",
+          "detail": "Enlace: Secretaría de Gobierno. Portal origen: https://www.cauca.gov.co/Paginas/Inicio.aspx. Se verificó la dirección oficial, no que exista una convocatoria abierta.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "cauca-bancos",
+          "department": "Cauca",
+          "layer": "bancos",
+          "status": "hecha",
+          "source": "Enlace de bancos localizado en portal oficial",
+          "url": "https://www.cauca.gov.co/Dependencias/OficinaAsesoradePlaneacion/Paginas/Sistema-General-de-Regalias.aspx",
+          "detail": "Enlace: Sistema General de Regalías SGR. Portal origen: https://www.cauca.gov.co/Paginas/Inicio.aspx. Se verificó la dirección oficial, no que exista una convocatoria abierta.",
+          "checked": "2026-11-19"
+        }
+      ],
+      "gaps": [],
+      "status": "cubierto",
+      "notes": [],
+      "reviewed": 6
+    },
+    {
+      "department": "Cesar",
+      "identity": {
+        "slug": "cesar",
+        "domain_hint": "cesar.gov.co",
+        "seats": [
+          "Valledupar"
+        ],
+        "unified": false
+      },
+      "evidence": [
+        {
+          "id": "cesar-secop",
+          "department": "Cesar",
+          "layer": "secop",
+          "status": "hecha",
+          "source": "Colombia Compra Eficiente — SECOP II, dataset p6dx-8zbt",
+          "url": "https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-II-Procesos-de-Contrataci-n/p6dx-8zbt/about_data",
+          "detail": "Consulta temática ejecutada: 6 candidatos (5 directos y 1 solo por intersección). No prueba por sí sola recepción vigente.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "cesar-gobernacion",
+          "department": "Cesar",
+          "layer": "gobernacion",
+          "status": "hecha",
+          "source": "Portal oficial de la gobernación",
+          "url": "https://www.cesar.gov.co/",
+          "detail": "Portal oficial respondió HTTP 200; título: (sin título); 0 enlaces visibles.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "cesar-distritos",
+          "department": "Cesar",
+          "layer": "distritos",
+          "status": "hecha",
+          "source": "Portal oficial de la capital",
+          "url": "https://www.valledupar-cesar.gov.co/",
+          "detail": "Portal oficial respondió HTTP 200; título: Sede Electrónica; 0 enlaces visibles.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "cesar-cultura",
+          "department": "Cesar",
+          "layer": "cultura",
+          "status": "limitada",
+          "source": "Portal oficial sin enlace específico visible",
+          "url": "https://www.cesar.gov.co/",
+          "detail": "No se localizó enlace explícito de cultura en la navegación inicial; se requiere búsqueda interna o contacto. Cobertura limitada, no oportunidad descartada.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "cesar-participacion",
+          "department": "Cesar",
+          "layer": "participacion",
+          "status": "limitada",
+          "source": "Portal oficial sin enlace específico visible",
+          "url": "https://www.cesar.gov.co/",
+          "detail": "No se localizó enlace explícito de participacion en la navegación inicial; se requiere búsqueda interna o contacto. Cobertura limitada, no oportunidad descartada.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "cesar-bancos",
+          "department": "Cesar",
+          "layer": "bancos",
+          "status": "limitada",
+          "source": "Portal oficial sin enlace específico visible",
+          "url": "https://www.cesar.gov.co/",
+          "detail": "No se localizó enlace explícito de bancos en la navegación inicial; se requiere búsqueda interna o contacto. Cobertura limitada, no oportunidad descartada.",
+          "checked": "2026-11-19"
+        }
+      ],
+      "gaps": [
+        "bancos",
+        "cultura",
+        "participacion"
+      ],
+      "status": "pendiente",
+      "notes": [],
+      "reviewed": 3
+    },
+    {
+      "department": "Chocó",
+      "identity": {
+        "slug": "choco",
+        "domain_hint": "choco.gov.co",
+        "seats": [
+          "Quibdó",
+          "Quibdo"
+        ],
+        "unified": false
+      },
+      "evidence": [
+        {
+          "id": "choco-secop",
+          "department": "Chocó",
+          "layer": "secop",
+          "status": "hecha",
+          "source": "Colombia Compra Eficiente — SECOP II, dataset p6dx-8zbt",
+          "url": "https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-II-Procesos-de-Contrataci-n/p6dx-8zbt/about_data",
+          "detail": "Consulta temática ejecutada: 1 candidatos (0 directos y 1 solo por intersección). No prueba por sí sola recepción vigente.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "choco-gobernacion",
+          "department": "Chocó",
+          "layer": "gobernacion",
+          "status": "hecha",
+          "source": "Portal oficial de la gobernación",
+          "url": "https://www.choco.gov.co/",
+          "detail": "Portal oficial respondió HTTP 200; título: Territoriales; 0 enlaces visibles.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "choco-distritos",
+          "department": "Chocó",
+          "layer": "distritos",
+          "status": "hecha",
+          "source": "Portal oficial de la capital",
+          "url": "https://www.quibdo-choco.gov.co/Paginas/Inicio.aspx",
+          "detail": "Portal oficial respondió HTTP 200; título: Inicio; 329 enlaces visibles.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "choco-participacion",
+          "department": "Chocó",
+          "layer": "participacion",
+          "status": "hecha",
+          "source": "Portal oficial verificado",
+          "url": "https://www.choco.gov.co/tema/planeacion-presupuesto-participativo",
+          "detail": "Planeación y presupuesto participativo verificado.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "choco-bancos",
+          "department": "Chocó",
+          "layer": "bancos",
+          "status": "hecha",
+          "source": "Portal oficial verificado",
+          "url": "https://www.choco.gov.co/tema/planeacion-presupuesto-participativo",
+          "detail": "Planeación y presupuesto participativo verificado.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "choco-cultura",
+          "department": "Chocó",
+          "layer": "cultura",
+          "status": "sin_hallazgo",
+          "source": "Portal oficial — revisión renderizada",
+          "url": "https://www.choco.gov.co/",
+          "detail": "Se revisó la navegación renderizada y no se localizó un enlace público de cultura/patrimonio. Resultado: sin hallazgo en la portada, no equivale a inexistencia absoluta.",
+          "checked": "2026-11-19"
+        }
+      ],
+      "gaps": [],
+      "status": "cubierto",
+      "notes": [],
+      "reviewed": 6
+    },
+    {
+      "department": "Córdoba",
+      "identity": {
+        "slug": "cordoba",
+        "domain_hint": "cordoba.gov.co",
+        "seats": [
+          "Montería",
+          "Monteria"
+        ],
+        "unified": false
+      },
+      "evidence": [
+        {
+          "id": "cordoba-secop",
+          "department": "Córdoba",
+          "layer": "secop",
+          "status": "hecha",
+          "source": "Colombia Compra Eficiente — SECOP II, dataset p6dx-8zbt",
+          "url": "https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-II-Procesos-de-Contrataci-n/p6dx-8zbt/about_data",
+          "detail": "Consulta temática ejecutada: 3 candidatos (0 directos y 3 solo por intersección). No prueba por sí sola recepción vigente.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "cordoba-gobernacion",
+          "department": "Córdoba",
+          "layer": "gobernacion",
+          "status": "hecha",
+          "source": "Portal oficial de la gobernación",
+          "url": "https://www.cordoba.gov.co/",
+          "detail": "Portal oficial respondió HTTP 200; título: Gobernación de Córdoba; 189 enlaces visibles.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "cordoba-distritos",
+          "department": "Córdoba",
+          "layer": "distritos",
+          "status": "hecha",
+          "source": "Portal oficial de la capital",
+          "url": "https://www.monteria.gov.co/",
+          "detail": "Portal oficial respondió HTTP 200; título: Alcaldía de Montería; 206 enlaces visibles.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "cordoba-participacion",
+          "department": "Córdoba",
+          "layer": "participacion",
+          "status": "hecha",
+          "source": "Portal oficial verificado",
+          "url": "https://www.cordoba.gov.co/documentos/228/retos-de-participacion/",
+          "detail": "Retos de participación verificados.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "cordoba-bancos",
+          "department": "Córdoba",
+          "layer": "bancos",
+          "status": "hecha",
+          "source": "Portal oficial verificado",
+          "url": "https://www.cordoba.gov.co/documentos/223/comite-de-contratacion/",
+          "detail": "Comité de contratación verificado.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "cordoba-cultura",
+          "department": "Córdoba",
+          "layer": "cultura",
+          "status": "sin_hallazgo",
+          "source": "Portal oficial — revisión renderizada",
+          "url": "https://www.cordoba.gov.co/",
+          "detail": "Se revisó la navegación renderizada y no se localizó un enlace público de cultura/patrimonio. Resultado: sin hallazgo en la portada, no equivale a inexistencia absoluta.",
+          "checked": "2026-11-19"
+        }
+      ],
+      "gaps": [],
+      "status": "cubierto",
+      "notes": [],
+      "reviewed": 6
+    },
+    {
+      "department": "Cundinamarca",
+      "identity": {
+        "slug": "cundinamarca",
+        "domain_hint": "cundinamarca.gov.co",
+        "seats": [
+          "Bogotá",
+          "Bogota"
+        ],
+        "unified": false
+      },
+      "evidence": [
+        {
+          "id": "cundinamarca-secop",
+          "department": "Cundinamarca",
+          "layer": "secop",
+          "status": "hecha",
+          "source": "Colombia Compra Eficiente — SECOP II, dataset p6dx-8zbt",
+          "url": "https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-II-Procesos-de-Contrataci-n/p6dx-8zbt/about_data",
+          "detail": "Consulta temática ejecutada: 20 candidatos (12 directos y 8 solo por intersección). No prueba por sí sola recepción vigente.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "cundinamarca-gobernacion",
+          "department": "Cundinamarca",
+          "layer": "gobernacion",
+          "status": "hecha",
+          "source": "Portal oficial de la gobernación",
+          "url": "https://www.cundinamarca.gov.co/home/",
+          "detail": "Portal oficial respondió HTTP 200; título: Gobernación de Cundinamarca; 23 enlaces visibles.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "cundinamarca-distritos",
+          "department": "Cundinamarca",
+          "layer": "distritos",
+          "status": "hecha",
+          "source": "Portal oficial de la capital",
+          "url": "https://bogota.gov.co/",
+          "detail": "Portal oficial respondió HTTP 200; título: ¡Te damos la bienvenida a Bogotá! | Bogota.gov.co; 83 enlaces visibles.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "cundinamarca-participacion",
+          "department": "Cundinamarca",
+          "layer": "participacion",
+          "status": "hecha",
+          "source": "Portal oficial verificado",
+          "url": "https://www.cundinamarca.gov.co/participa/",
+          "detail": "Sección Participa verificada.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "cundinamarca-bancos",
+          "department": "Cundinamarca",
+          "layer": "bancos",
+          "status": "hecha",
+          "source": "Portal oficial verificado",
+          "url": "https://www.cundinamarca.gov.co/atencion-y-servicio-a-la-ciudadania/convocatorias/",
+          "detail": "Convocatorias verificadas.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "cundinamarca-cultura",
+          "department": "Cundinamarca",
+          "layer": "cultura",
+          "status": "sin_hallazgo",
+          "source": "Portal oficial — revisión renderizada",
+          "url": "https://www.cundinamarca.gov.co/home/",
+          "detail": "Se revisó la navegación renderizada y no se localizó un enlace público de cultura/patrimonio. Resultado: sin hallazgo en la portada, no equivale a inexistencia absoluta.",
+          "checked": "2026-11-19"
+        }
+      ],
+      "gaps": [],
+      "status": "cubierto",
+      "notes": [],
+      "reviewed": 6
+    },
+    {
+      "department": "Guainía",
+      "identity": {
+        "slug": "guainia",
+        "domain_hint": "guainia.gov.co",
+        "seats": [
+          "Inírida",
+          "Inirida"
+        ],
+        "unified": false
+      },
+      "evidence": [
+        {
+          "id": "guainia-secop",
+          "department": "Guainía",
+          "layer": "secop",
+          "status": "hecha",
+          "source": "Colombia Compra Eficiente — SECOP II, dataset p6dx-8zbt",
+          "url": "https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-II-Procesos-de-Contrataci-n/p6dx-8zbt/about_data",
+          "detail": "Consulta temática ejecutada: 0 candidatos (0 directos y 0 solo por intersección). No prueba por sí sola recepción vigente.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "guainia-gobernacion",
+          "department": "Guainía",
+          "layer": "gobernacion",
+          "status": "hecha",
+          "source": "Portal oficial de la gobernación",
+          "url": "https://www.guainia.gov.co/",
+          "detail": "Portal oficial respondió HTTP 200; título: Territoriales; 0 enlaces visibles.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "guainia-distritos",
+          "department": "Guainía",
+          "layer": "distritos",
+          "status": "hecha",
+          "source": "Portal oficial de la capital",
+          "url": "https://www.inirida-guainia.gov.co/Paginas/inicio.aspx",
+          "detail": "Portal oficial respondió HTTP 200; título: Alcaldía de Inírida; 82 enlaces visibles.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "guainia-participacion",
+          "department": "Guainía",
+          "layer": "participacion",
+          "status": "hecha",
+          "source": "Portal oficial verificado",
+          "url": "https://www.guainia.gov.co/tema/planeacion-presupuesto-participativo",
+          "detail": "Planeación y presupuesto participativo verificado.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "guainia-bancos",
+          "department": "Guainía",
+          "layer": "bancos",
+          "status": "hecha",
+          "source": "Portal oficial verificado",
+          "url": "https://www.guainia.gov.co/tema/planeacion-presupuesto-participativo",
+          "detail": "Planeación y presupuesto participativo verificado.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "guainia-cultura",
+          "department": "Guainía",
+          "layer": "cultura",
+          "status": "sin_hallazgo",
+          "source": "Portal oficial — revisión renderizada",
+          "url": "https://www.guainia.gov.co/",
+          "detail": "Se revisó la navegación renderizada y no se localizó un enlace público de cultura/patrimonio. Resultado: sin hallazgo en la portada, no equivale a inexistencia absoluta.",
+          "checked": "2026-11-19"
+        }
+      ],
+      "gaps": [],
+      "status": "cubierto",
+      "notes": [],
+      "reviewed": 6
+    },
+    {
+      "department": "Guaviare",
+      "identity": {
+        "slug": "guaviare",
+        "domain_hint": "guaviare.gov.co",
+        "seats": [
+          "San José del Guaviare",
+          "San Jose del Guaviare"
+        ],
+        "unified": false
+      },
+      "evidence": [
+        {
+          "id": "guaviare-secop",
+          "department": "Guaviare",
+          "layer": "secop",
+          "status": "hecha",
+          "source": "Colombia Compra Eficiente — SECOP II, dataset p6dx-8zbt",
+          "url": "https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-II-Procesos-de-Contrataci-n/p6dx-8zbt/about_data",
+          "detail": "Consulta temática ejecutada: 0 candidatos (0 directos y 0 solo por intersección). No prueba por sí sola recepción vigente.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "guaviare-gobernacion",
+          "department": "Guaviare",
+          "layer": "gobernacion",
+          "status": "hecha",
+          "source": "Portal oficial de la gobernación",
+          "url": "https://www.guaviare.gov.co/",
+          "detail": "Portal oficial respondió HTTP 200; título: Territoriales; 0 enlaces visibles.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "guaviare-distritos",
+          "department": "Guaviare",
+          "layer": "distritos",
+          "status": "hecha",
+          "source": "Portal oficial de la capital",
+          "url": "https://www.sanjosedelguaviare-guaviare.gov.co/",
+          "detail": "Portal oficial respondió HTTP 200; título: Sede Electrónica Alcaldía de San José del Guaviare; 149 enlaces visibles.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "guaviare-cultura",
+          "department": "Guaviare",
+          "layer": "cultura",
+          "status": "hecha",
+          "source": "Portal oficial verificado",
+          "url": "https://www.guaviare.gov.co/tema/secretaria-de-cultura-y-turismo-758624",
+          "detail": "Secretaría de Cultura y Turismo verificada.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "guaviare-participacion",
+          "department": "Guaviare",
+          "layer": "participacion",
+          "status": "hecha",
+          "source": "Portal oficial verificado",
+          "url": "https://www.guaviare.gov.co/tema/planeacion-presupuesto-participativo",
+          "detail": "Planeación y presupuesto participativo verificado.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "guaviare-bancos",
+          "department": "Guaviare",
+          "layer": "bancos",
+          "status": "hecha",
+          "source": "Portal oficial verificado",
+          "url": "https://www.guaviare.gov.co/tema/contrataciones",
+          "detail": "Contrataciones verificadas.",
+          "checked": "2026-11-19"
+        }
+      ],
+      "gaps": [],
+      "status": "cubierto",
+      "notes": [],
+      "reviewed": 6
+    },
+    {
+      "department": "Huila",
+      "identity": {
+        "slug": "huila",
+        "domain_hint": "huila.gov.co",
+        "seats": [
+          "Neiva"
+        ],
+        "unified": false
+      },
+      "evidence": [
+        {
+          "id": "huila-secop",
+          "department": "Huila",
+          "layer": "secop",
+          "status": "hecha",
+          "source": "Colombia Compra Eficiente — SECOP II, dataset p6dx-8zbt",
+          "url": "https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-II-Procesos-de-Contrataci-n/p6dx-8zbt/about_data",
+          "detail": "Consulta temática ejecutada: 9 candidatos (1 directos y 8 solo por intersección). No prueba por sí sola recepción vigente.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "huila-gobernacion",
+          "department": "Huila",
+          "layer": "gobernacion",
+          "status": "hecha",
+          "source": "Portal oficial de la gobernación",
+          "url": "https://www.huila.gov.co/",
+          "detail": "Portal oficial respondió HTTP 200; título: Sede Electrónica del Departamento del Huila; 428 enlaces visibles.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "huila-distritos",
+          "department": "Huila",
+          "layer": "distritos",
+          "status": "hecha",
+          "source": "Portal oficial de la capital",
+          "url": "https://www.alcaldianeiva.gov.co/Paginas/index.aspx",
+          "detail": "Portal oficial respondió HTTP 200; título: index; 176 enlaces visibles.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "huila-cultura",
+          "department": "Huila",
+          "layer": "cultura",
+          "status": "hecha",
+          "source": "Enlace de cultura localizado en portal oficial",
+          "url": "https://www.huila.gov.co/cultura-y-turismo",
+          "detail": "Enlace: Cultura. Portal origen: https://www.huila.gov.co/. Se verificó la dirección oficial, no que exista una convocatoria abierta.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "huila-participacion",
+          "department": "Huila",
+          "layer": "participacion",
+          "status": "hecha",
+          "source": "Enlace de participacion localizado en portal oficial",
+          "url": "https://www.huila.gov.co/publicaciones/17157/convocatoria-publica-por-un-huila-grande-tejido-convivencia-innovacion-y-fortalecimiento-comunal/",
+          "detail": "Enlace: Juntas accion comunal. Portal origen: https://www.huila.gov.co/. Se verificó la dirección oficial, no que exista una convocatoria abierta.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "huila-bancos",
+          "department": "Huila",
+          "layer": "bancos",
+          "status": "hecha",
+          "source": "Enlace de bancos localizado en portal oficial",
+          "url": "https://www.huila.gov.co/publicaciones/17472/convocatoria-chocoshow-2026/",
+          "detail": "Enlace: Convocatoria Chocoshow 2026. Portal origen: https://www.huila.gov.co/. Se verificó la dirección oficial, no que exista una convocatoria abierta.",
+          "checked": "2026-11-19"
+        }
+      ],
+      "gaps": [],
+      "status": "cubierto",
+      "notes": [],
+      "reviewed": 6
+    },
+    {
+      "department": "La Guajira",
+      "identity": {
+        "slug": "la-guajira",
+        "domain_hint": "laguajira.gov.co",
+        "seats": [
+          "Riohacha"
+        ],
+        "unified": false
+      },
+      "evidence": [
+        {
+          "id": "la-guajira-secop",
+          "department": "La Guajira",
+          "layer": "secop",
+          "status": "hecha",
+          "source": "Colombia Compra Eficiente — SECOP II, dataset p6dx-8zbt",
+          "url": "https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-II-Procesos-de-Contrataci-n/p6dx-8zbt/about_data",
+          "detail": "Consulta temática ejecutada: 54 candidatos (1 directos y 53 solo por intersección). No prueba por sí sola recepción vigente.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "la-guajira-gobernacion",
+          "department": "La Guajira",
+          "layer": "gobernacion",
+          "status": "hecha",
+          "source": "Portal oficial de la gobernación",
+          "url": "https://www.laguajira.gov.co/",
+          "detail": "Portal oficial respondió HTTP 200; título: Gobernación de la Guajira; 2 enlaces visibles.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "la-guajira-distritos",
+          "department": "La Guajira",
+          "layer": "distritos",
+          "status": "hecha",
+          "source": "Portal oficial de la capital",
+          "url": "https://www.riohacha-laguajira.gov.co/Paginas/Inicio.aspx",
+          "detail": "Portal oficial respondió HTTP 200; título: Alcaldía Distrital de Riohacha; 152 enlaces visibles.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "la-guajira-cultura",
+          "department": "La Guajira",
+          "layer": "cultura",
+          "status": "limitada",
+          "source": "Portal oficial sin enlace específico visible",
+          "url": "https://www.laguajira.gov.co/",
+          "detail": "No se localizó enlace explícito de cultura en la navegación inicial; se requiere búsqueda interna o contacto. Cobertura limitada, no oportunidad descartada.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "la-guajira-participacion",
+          "department": "La Guajira",
+          "layer": "participacion",
+          "status": "limitada",
+          "source": "Portal oficial sin enlace específico visible",
+          "url": "https://www.laguajira.gov.co/",
+          "detail": "No se localizó enlace explícito de participacion en la navegación inicial; se requiere búsqueda interna o contacto. Cobertura limitada, no oportunidad descartada.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "la-guajira-bancos",
+          "department": "La Guajira",
+          "layer": "bancos",
+          "status": "limitada",
+          "source": "Portal oficial sin enlace específico visible",
+          "url": "https://www.laguajira.gov.co/",
+          "detail": "No se localizó enlace explícito de bancos en la navegación inicial; se requiere búsqueda interna o contacto. Cobertura limitada, no oportunidad descartada.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "la-guajira-cultura",
+          "department": "La Guajira",
+          "layer": "cultura",
+          "status": "hecha",
+          "source": "URL de sección localizada en sitemap XML oficial",
+          "url": "https://www.laguajira.gov.co/noticia/la-guajira-recibio-al-crucero-scenic-eclipse-y-acerco-a-viajeros-de-11-paises-a-la-cultura-wayuu-n19w",
+          "detail": "Fuente descubierta en https://www.laguajira.gov.co/sitemap.xml; la vigencia y las convocatorias deben revisarse en la página.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "la-guajira-participacion",
+          "department": "La Guajira",
+          "layer": "participacion",
+          "status": "hecha",
+          "source": "URL de sección localizada en sitemap XML oficial",
+          "url": "https://www.laguajira.gov.co/noticia/la-guajira-cerro-su-participacion-en-sabor-barranquilla-como-departamento-invitado-de-honor-n18m",
+          "detail": "Fuente descubierta en https://www.laguajira.gov.co/sitemap.xml; la vigencia y las convocatorias deben revisarse en la página.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "la-guajira-bancos",
+          "department": "La Guajira",
+          "layer": "bancos",
+          "status": "hecha",
+          "source": "URL de sección localizada en sitemap XML oficial",
+          "url": "https://www.laguajira.gov.co/noticia/gobernacion-de-la-guajira-abre-convocatoria-para-fortalecer-el-turismo-y-el-desarrollo-intercultural-en-el-territorio-n186",
+          "detail": "Fuente descubierta en https://www.laguajira.gov.co/sitemap.xml; la vigencia y las convocatorias deben revisarse en la página.",
+          "checked": "2026-11-19"
+        }
+      ],
+      "gaps": [],
+      "status": "cubierto",
+      "notes": [],
+      "reviewed": 6
+    },
+    {
+      "department": "Magdalena",
+      "identity": {
+        "slug": "magdalena",
+        "domain_hint": "magdalena.gov.co",
+        "seats": [
+          "Santa Marta"
+        ],
+        "unified": false
+      },
+      "evidence": [
+        {
+          "id": "magdalena-secop",
+          "department": "Magdalena",
+          "layer": "secop",
+          "status": "hecha",
+          "source": "Colombia Compra Eficiente — SECOP II, dataset p6dx-8zbt",
+          "url": "https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-II-Procesos-de-Contrataci-n/p6dx-8zbt/about_data",
+          "detail": "Consulta temática ejecutada: 47 candidatos (5 directos y 42 solo por intersección). No prueba por sí sola recepción vigente.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "magdalena-gobernacion",
+          "department": "Magdalena",
+          "layer": "gobernacion",
+          "status": "limitada",
+          "source": "Portal oficial de la Gobernación",
+          "url": "https://www.gobernaciondelmagdalena.gov.co/",
+          "detail": "Dominio oficial confirmado; respondió HTTP 403 a solicitud automática (protección anti-bot). Requiere verificación manual.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "magdalena-cultura",
+          "department": "Magdalena",
+          "layer": "cultura",
+          "status": "limitada",
+          "source": "Portal de la Gobernación con protección anti-bot",
+          "url": "https://www.gobernaciondelmagdalena.gov.co/",
+          "detail": "No fue posible recorrer la navegación por HTTP 403; no se marca como cubierto.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "magdalena-participacion",
+          "department": "Magdalena",
+          "layer": "participacion",
+          "status": "limitada",
+          "source": "Portal de la Gobernación con protección anti-bot",
+          "url": "https://www.gobernaciondelmagdalena.gov.co/",
+          "detail": "No fue posible recorrer la navegación por HTTP 403; no se marca como cubierto.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "magdalena-bancos",
+          "department": "Magdalena",
+          "layer": "bancos",
+          "status": "limitada",
+          "source": "Portal de la Gobernación con protección anti-bot",
+          "url": "https://www.gobernaciondelmagdalena.gov.co/",
+          "detail": "No fue posible recorrer la navegación por HTTP 403; no se marca como cubierto.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "magdalena-distritos",
+          "department": "Magdalena",
+          "layer": "distritos",
+          "status": "limitada",
+          "source": "Portal oficial verificado",
+          "url": "https://www.santamarta.gov.co/",
+          "detail": "Portal de Santa Marta verificado; no se recorrió la totalidad de dependencias en este barrido.",
+          "checked": "2026-11-19"
+        }
+      ],
+      "gaps": [
+        "bancos",
+        "cultura",
+        "distritos",
+        "gobernacion",
+        "participacion"
+      ],
+      "status": "pendiente",
+      "notes": [],
+      "reviewed": 1
+    },
+    {
+      "department": "Meta",
+      "identity": {
+        "slug": "meta",
+        "domain_hint": "meta.gov.co",
+        "seats": [
+          "Villavicencio"
+        ],
+        "unified": false
+      },
+      "evidence": [
+        {
+          "id": "meta-secop",
+          "department": "Meta",
+          "layer": "secop",
+          "status": "hecha",
+          "source": "Colombia Compra Eficiente — SECOP II, dataset p6dx-8zbt",
+          "url": "https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-II-Procesos-de-Contrataci-n/p6dx-8zbt/about_data",
+          "detail": "Consulta temática ejecutada: 3 candidatos (3 directos y 0 solo por intersección). No prueba por sí sola recepción vigente.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "meta-gobernacion",
+          "department": "Meta",
+          "layer": "gobernacion",
+          "status": "hecha",
+          "source": "Portal oficial de la gobernación",
+          "url": "https://meta.gov.co/",
+          "detail": "Portal oficial respondió HTTP 200; título: Gobernación del Meta; 0 enlaces visibles.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "meta-distritos",
+          "department": "Meta",
+          "layer": "distritos",
+          "status": "hecha",
+          "source": "Portal oficial de la capital",
+          "url": "https://villavicencio.gov.co/",
+          "detail": "Portal oficial respondió HTTP 200; título: Inicio - Alcaldia de Villavicencio; 215 enlaces visibles.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "meta-cultura",
+          "department": "Meta",
+          "layer": "cultura",
+          "status": "hecha",
+          "source": "Portal oficial verificado",
+          "url": "http://www.culturameta.gov.co/",
+          "detail": "Instituto de Cultura del Meta enlazado desde la Gobernación.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "meta-participacion",
+          "department": "Meta",
+          "layer": "participacion",
+          "status": "hecha",
+          "source": "Portal oficial verificado",
+          "url": "https://meta.gov.co/pagina/participacion/67",
+          "detail": "Página de Participación localizada en el portal de la Gobernación.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "meta-bancos",
+          "department": "Meta",
+          "layer": "bancos",
+          "status": "sin_hallazgo",
+          "source": "Portal oficial / SGR — revisión renderizada",
+          "url": "https://meta.gov.co/",
+          "detail": "Navegación renderizada revisada; no se localizó banco de proyectos específico. Se usa el SGR como ruta nacional de respaldo.",
+          "checked": "2026-11-19"
+        }
+      ],
+      "gaps": [],
+      "status": "cubierto",
+      "notes": [],
+      "reviewed": 6
+    },
+    {
+      "department": "Nariño",
+      "identity": {
+        "slug": "narino",
+        "domain_hint": "narino.gov.co",
+        "seats": [
+          "Pasto"
+        ],
+        "unified": false
+      },
+      "evidence": [
+        {
+          "id": "narino-secop",
+          "department": "Nariño",
+          "layer": "secop",
+          "status": "hecha",
+          "source": "Colombia Compra Eficiente — SECOP II, dataset p6dx-8zbt",
+          "url": "https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-II-Procesos-de-Contrataci-n/p6dx-8zbt/about_data",
+          "detail": "Consulta temática ejecutada: 25 candidatos (5 directos y 20 solo por intersección). No prueba por sí sola recepción vigente.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "narino-gobernacion",
+          "department": "Nariño",
+          "layer": "gobernacion",
+          "status": "hecha",
+          "source": "Portal oficial de la gobernación",
+          "url": "https://narino.gov.co/",
+          "detail": "Portal oficial respondió HTTP 200; título: INICIO - Gobernación de Nariño; 157 enlaces visibles.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "narino-distritos",
+          "department": "Nariño",
+          "layer": "distritos",
+          "status": "hecha",
+          "source": "Portal oficial de la capital",
+          "url": "https://www.pasto.gov.co/",
+          "detail": "Portal oficial respondió HTTP 200; título: Pasto - Nariño - Colombia; 62 enlaces visibles.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "narino-cultura",
+          "department": "Nariño",
+          "layer": "cultura",
+          "status": "hecha",
+          "source": "Enlace de cultura localizado en portal oficial",
+          "url": "https://narino.gov.co/categoria/noticias/cultura/",
+          "detail": "Enlace: Cultura. Portal origen: https://narino.gov.co/. Se verificó la dirección oficial, no que exista una convocatoria abierta.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "narino-participacion",
+          "department": "Nariño",
+          "layer": "participacion",
+          "status": "hecha",
+          "source": "Enlace de participacion localizado en portal oficial",
+          "url": "https://narino.gov.co/noticias/narino-avanza-en-la-construccion-de-su-politica-publica-de-paz-con-participacion-de-las-comunidades/",
+          "detail": "Enlace: Nariño avanza en la construcción de su Política Pública de Paz con participación de las comunidades. Portal origen: https://narino.gov.co/. Se verificó la dirección oficial, no que exista una convocatoria abierta.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "narino-bancos",
+          "department": "Nariño",
+          "layer": "bancos",
+          "status": "hecha",
+          "source": "Enlace de bancos localizado en portal oficial",
+          "url": "https://narino.gov.co/dependencias/hacienda-dependencias/aprobado-para-narino-historico-presupuesto-por-226-billones-para-2027-en-la-asamblea/",
+          "detail": "Enlace: Aprobado para Nariño histórico presupuesto por $2,26 billones para 2027 en la Asamblea. Portal origen: https://narino.gov.co/. Se verificó la dirección oficial, no que exista una convocatoria abierta.",
+          "checked": "2026-11-19"
+        }
+      ],
+      "gaps": [],
+      "status": "cubierto",
+      "notes": [],
+      "reviewed": 6
+    },
+    {
+      "department": "Norte de Santander",
+      "identity": {
+        "slug": "norte-de-santander",
+        "domain_hint": "nortedesantander.gov.co",
+        "seats": [
+          "Cúcuta",
+          "Cucuta"
+        ],
+        "unified": false
+      },
+      "evidence": [
+        {
+          "id": "norte-de-santander-secop",
+          "department": "Norte de Santander",
+          "layer": "secop",
+          "status": "hecha",
+          "source": "Colombia Compra Eficiente — SECOP II, dataset p6dx-8zbt",
+          "url": "https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-II-Procesos-de-Contrataci-n/p6dx-8zbt/about_data",
+          "detail": "Consulta temática ejecutada: 24 candidatos (4 directos y 20 solo por intersección). No prueba por sí sola recepción vigente.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "norte-de-santander-gobernacion",
+          "department": "Norte de Santander",
+          "layer": "gobernacion",
+          "status": "hecha",
+          "source": "Portal oficial de la gobernación",
+          "url": "https://www.nortedesantander.gov.co/",
+          "detail": "Portal oficial respondió HTTP 200; título: Gobernación de Norte de Santander; 8 enlaces visibles.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "norte-de-santander-distritos",
+          "department": "Norte de Santander",
+          "layer": "distritos",
+          "status": "hecha",
+          "source": "Portal oficial de la capital",
+          "url": "https://cucuta.gov.co/",
+          "detail": "Portal oficial respondió HTTP 200; título: Inicio - Alcaldia de Cúcuta; 93 enlaces visibles.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "norte-de-santander-participacion",
+          "department": "Norte de Santander",
+          "layer": "participacion",
+          "status": "hecha",
+          "source": "Portal oficial verificado",
+          "url": "https://www.nortedesantander.gov.co/#/participa/pagina/que-es-participa",
+          "detail": "Sección Participa verificada en aplicación renderizada.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "norte-de-santander-bancos",
+          "department": "Norte de Santander",
+          "layer": "bancos",
+          "status": "hecha",
+          "source": "Portal oficial verificado",
+          "url": "https://www.nortedesantander.gov.co/#/participa/planeacion-presupuesto",
+          "detail": "Planeación y presupuesto participativo verificados.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "norte-de-santander-cultura",
+          "department": "Norte de Santander",
+          "layer": "cultura",
+          "status": "sin_hallazgo",
+          "source": "Portal oficial / SGR — revisión renderizada",
+          "url": "https://www.nortedesantander.gov.co/",
+          "detail": "Menú renderizado revisado; no se localizó Secretaría/Instituto de Cultura enlazado. Sin hallazgo en portada.",
+          "checked": "2026-11-19"
+        }
+      ],
+      "gaps": [],
+      "status": "cubierto",
+      "notes": [],
+      "reviewed": 6
+    },
+    {
+      "department": "Putumayo",
+      "identity": {
+        "slug": "putumayo",
+        "domain_hint": "putumayo.gov.co",
+        "seats": [
+          "Mocoa"
+        ],
+        "unified": false
+      },
+      "evidence": [
+        {
+          "id": "putumayo-secop",
+          "department": "Putumayo",
+          "layer": "secop",
+          "status": "hecha",
+          "source": "Colombia Compra Eficiente — SECOP II, dataset p6dx-8zbt",
+          "url": "https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-II-Procesos-de-Contrataci-n/p6dx-8zbt/about_data",
+          "detail": "Consulta temática ejecutada: 5 candidatos (2 directos y 3 solo por intersección). No prueba por sí sola recepción vigente.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "putumayo-gobernacion",
+          "department": "Putumayo",
+          "layer": "gobernacion",
+          "status": "hecha",
+          "source": "Portal oficial de la gobernación",
+          "url": "https://putumayo.gov.co/",
+          "detail": "Portal oficial respondió HTTP 200; título: Inicio; 128 enlaces visibles.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "putumayo-distritos",
+          "department": "Putumayo",
+          "layer": "distritos",
+          "status": "hecha",
+          "source": "Portal oficial de la capital",
+          "url": "https://www.mocoa-putumayo.gov.co/Paginas/Inicio.aspx",
+          "detail": "Portal oficial respondió HTTP 200; título: Alcaldía de Mocoa; 103 enlaces visibles.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "putumayo-cultura",
+          "department": "Putumayo",
+          "layer": "cultura",
+          "status": "hecha",
+          "source": "Enlace de cultura localizado en portal oficial",
+          "url": "https://inderculturaputumayo.gov.co/",
+          "detail": "Enlace: Indercultura. Portal origen: https://putumayo.gov.co/. Se verificó la dirección oficial, no que exista una convocatoria abierta.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "putumayo-participacion",
+          "department": "Putumayo",
+          "layer": "participacion",
+          "status": "hecha",
+          "source": "Enlace de participacion localizado en portal oficial",
+          "url": "https://putumayo.gov.co/publications/103?type=8",
+          "detail": "Enlace: 05 may. Análisis de situación en salud Asís participativo 2025 Putumayo. Portal origen: https://putumayo.gov.co/. Se verificó la dirección oficial, no que exista una convocatoria abierta.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "putumayo-bancos",
+          "department": "Putumayo",
+          "layer": "bancos",
+          "status": "hecha",
+          "source": "Enlace de bancos localizado en portal oficial",
+          "url": "https://putumayo.gov.co/news-calls",
+          "detail": "Enlace: Convocatorias. Portal origen: https://putumayo.gov.co/. Se verificó la dirección oficial, no que exista una convocatoria abierta.",
+          "checked": "2026-11-19"
+        }
+      ],
+      "gaps": [],
+      "status": "cubierto",
+      "notes": [],
+      "reviewed": 6
+    },
+    {
+      "department": "Quindío",
+      "identity": {
+        "slug": "quindio",
+        "domain_hint": "quindio.gov.co",
+        "seats": [
+          "Armenia"
+        ],
+        "unified": false
+      },
+      "evidence": [
+        {
+          "id": "quindio-secop",
+          "department": "Quindío",
+          "layer": "secop",
+          "status": "hecha",
+          "source": "Colombia Compra Eficiente — SECOP II, dataset p6dx-8zbt",
+          "url": "https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-II-Procesos-de-Contrataci-n/p6dx-8zbt/about_data",
+          "detail": "Consulta temática ejecutada: 16 candidatos (4 directos y 12 solo por intersección). No prueba por sí sola recepción vigente.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "quindio-gobernacion",
+          "department": "Quindío",
+          "layer": "gobernacion",
+          "status": "hecha",
+          "source": "Portal oficial de la gobernación",
+          "url": "https://www.quindio.gov.co/",
+          "detail": "Portal oficial respondió HTTP 200; título: Inicio - Gobierno del Quindío; 154 enlaces visibles.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "quindio-distritos",
+          "department": "Quindío",
+          "layer": "distritos",
+          "status": "hecha",
+          "source": "Portal oficial de la capital",
+          "url": "https://www.armenia.gov.co/",
+          "detail": "Portal oficial respondió HTTP 200; título: Inicio; 169 enlaces visibles.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "quindio-cultura",
+          "department": "Quindío",
+          "layer": "cultura",
+          "status": "hecha",
+          "source": "Enlace de cultura localizado en portal oficial",
+          "url": "https://www.quindio.gov.co/quienes-somos",
+          "detail": "Enlace: Agricultura. Portal origen: https://www.quindio.gov.co/. Se verificó la dirección oficial, no que exista una convocatoria abierta.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "quindio-participacion",
+          "department": "Quindío",
+          "layer": "participacion",
+          "status": "hecha",
+          "source": "Enlace de participacion localizado en portal oficial",
+          "url": "https://www.quindio.gov.co/inicio-planeacion",
+          "detail": "Enlace: Planeación. Portal origen: https://www.quindio.gov.co/. Se verificó la dirección oficial, no que exista una convocatoria abierta.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "quindio-bancos",
+          "department": "Quindío",
+          "layer": "bancos",
+          "status": "hecha",
+          "source": "Enlace de bancos localizado en portal oficial",
+          "url": "https://www.quindio.gov.co/avisos-de-contratacion/avisos-de-convocatorias-publicas",
+          "detail": "Enlace: Avisos de Convocatorias Publicas. Portal origen: https://www.quindio.gov.co/. Se verificó la dirección oficial, no que exista una convocatoria abierta.",
+          "checked": "2026-11-19"
+        }
+      ],
+      "gaps": [],
+      "status": "cubierto",
+      "notes": [],
+      "reviewed": 6
+    },
+    {
+      "department": "Risaralda",
+      "identity": {
+        "slug": "risaralda",
+        "domain_hint": "risaralda.gov.co",
+        "seats": [
+          "Pereira"
+        ],
+        "unified": false
+      },
+      "evidence": [
+        {
+          "id": "risaralda-secop",
+          "department": "Risaralda",
+          "layer": "secop",
+          "status": "hecha",
+          "source": "Colombia Compra Eficiente — SECOP II, dataset p6dx-8zbt",
+          "url": "https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-II-Procesos-de-Contrataci-n/p6dx-8zbt/about_data",
+          "detail": "Consulta temática ejecutada: 11 candidatos (2 directos y 9 solo por intersección). No prueba por sí sola recepción vigente.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "risaralda-gobernacion",
+          "department": "Risaralda",
+          "layer": "gobernacion",
+          "status": "hecha",
+          "source": "Portal oficial de la gobernación",
+          "url": "https://www.risaralda.gov.co/",
+          "detail": "Portal oficial respondió HTTP 200; título: Gobernación de Risaralda; 178 enlaces visibles.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "risaralda-distritos",
+          "department": "Risaralda",
+          "layer": "distritos",
+          "status": "hecha",
+          "source": "Portal oficial de la capital",
+          "url": "https://www.pereira.gov.co/",
+          "detail": "Portal oficial respondió HTTP 200; título: Alcaldía de Pereira; 277 enlaces visibles.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "risaralda-cultura",
+          "department": "Risaralda",
+          "layer": "cultura",
+          "status": "hecha",
+          "source": "Enlace de cultura localizado en portal oficial",
+          "url": "https://www.risaralda.gov.co/documentos/150340/secretaria-de-cultura/",
+          "detail": "Enlace: Secretaría de Cultura. Portal origen: https://www.risaralda.gov.co/. Se verificó la dirección oficial, no que exista una convocatoria abierta.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "risaralda-participacion",
+          "department": "Risaralda",
+          "layer": "participacion",
+          "status": "hecha",
+          "source": "Enlace de participacion localizado en portal oficial",
+          "url": "https://www.risaralda.gov.co/publicaciones/100063/participacion-ciudadana/",
+          "detail": "Enlace: Participación ciudadana. Portal origen: https://www.risaralda.gov.co/. Se verificó la dirección oficial, no que exista una convocatoria abierta.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "risaralda-bancos",
+          "department": "Risaralda",
+          "layer": "bancos",
+          "status": "hecha",
+          "source": "Enlace de bancos localizado en portal oficial",
+          "url": "https://www.risaralda.gov.co/proyectosyregalias/",
+          "detail": "Enlace: Proyectos y Regalías. Portal origen: https://www.risaralda.gov.co/. Se verificó la dirección oficial, no que exista una convocatoria abierta.",
+          "checked": "2026-11-19"
+        }
+      ],
+      "gaps": [],
+      "status": "cubierto",
+      "notes": [],
+      "reviewed": 6
+    },
+    {
+      "department": "San Andrés y Providencia",
+      "identity": {
+        "slug": "san-andres-y-providencia",
+        "domain_hint": "sanandres.gov.co",
+        "seats": [
+          "San Andrés",
+          "San Andres"
+        ],
+        "unified": false
+      },
+      "evidence": [
+        {
+          "id": "san-andres-y-providencia-secop",
+          "department": "San Andrés y Providencia",
+          "layer": "secop",
+          "status": "hecha",
+          "source": "Colombia Compra Eficiente — SECOP II, dataset p6dx-8zbt",
+          "url": "https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-II-Procesos-de-Contrataci-n/p6dx-8zbt/about_data",
+          "detail": "Consulta temática ejecutada: 2 candidatos (1 directos y 1 solo por intersección). No prueba por sí sola recepción vigente.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "san-andres-y-providencia-gobernacion",
+          "department": "San Andrés y Providencia",
+          "layer": "gobernacion",
+          "status": "hecha",
+          "source": "Portal oficial de la gobernación",
+          "url": "https://www.sanandres.gov.co/",
+          "detail": "Portal oficial respondió HTTP 200; título: Gobernacion del Archpielago – Gobernacion del Archpielago de San Andres yProvidencia; 154 enlaces visibles.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "san-andres-y-providencia-distritos",
+          "department": "San Andrés y Providencia",
+          "layer": "distritos",
+          "status": "hecha",
+          "source": "Portal oficial de la capital",
+          "url": "https://www.sanandres.gov.co/",
+          "detail": "Portal oficial respondió HTTP 200; título: Gobernacion del Archpielago – Gobernacion del Archpielago de San Andres yProvidencia; 154 enlaces visibles.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "san-andres-y-providencia-cultura",
+          "department": "San Andrés y Providencia",
+          "layer": "cultura",
+          "status": "hecha",
+          "source": "Enlace de cultura localizado en portal oficial",
+          "url": "https://www.sanandres.gov.co/dependencias/secretaria-de-cultura/",
+          "detail": "Enlace: Secretaría de Cultura. Portal origen: https://www.sanandres.gov.co/. Se verificó la dirección oficial, no que exista una convocatoria abierta.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "san-andres-y-providencia-participacion",
+          "department": "San Andrés y Providencia",
+          "layer": "participacion",
+          "status": "hecha",
+          "source": "Enlace de participacion localizado en portal oficial",
+          "url": "https://www.sanandres.gov.co/dependencias/secretaria-de-planeacion/",
+          "detail": "Enlace: Secretaría de Planeacion. Portal origen: https://www.sanandres.gov.co/. Se verificó la dirección oficial, no que exista una convocatoria abierta.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "san-andres-y-providencia-bancos",
+          "department": "San Andrés y Providencia",
+          "layer": "bancos",
+          "status": "limitada",
+          "source": "Portal oficial sin enlace específico visible",
+          "url": "https://www.sanandres.gov.co/",
+          "detail": "No se localizó enlace explícito de bancos en la navegación inicial; se requiere búsqueda interna o contacto. Cobertura limitada, no oportunidad descartada.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "san-andres-y-providencia-bancos",
+          "department": "San Andrés y Providencia",
+          "layer": "bancos",
+          "status": "hecha",
+          "source": "URL de sección localizada en sitemap XML oficial",
+          "url": "https://www.sanandres.gov.co/convocatoria-para-la-construccion-de-nuevos-marcos-tarifarios/",
+          "detail": "Fuente descubierta en https://www.sanandres.gov.co/sitemap.xml; la vigencia y las convocatorias deben revisarse en la página.",
+          "checked": "2026-11-19"
+        }
+      ],
+      "gaps": [],
+      "status": "cubierto",
+      "notes": [],
+      "reviewed": 6
+    },
+    {
+      "department": "Santander",
+      "identity": {
+        "slug": "santander",
+        "domain_hint": "santander.gov.co",
+        "seats": [
+          "Bucaramanga"
+        ],
+        "unified": false
+      },
+      "evidence": [
+        {
+          "id": "santander-secop",
+          "department": "Santander",
+          "layer": "secop",
+          "status": "hecha",
+          "source": "Colombia Compra Eficiente — SECOP II, dataset p6dx-8zbt",
+          "url": "https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-II-Procesos-de-Contrataci-n/p6dx-8zbt/about_data",
+          "detail": "Consulta temática ejecutada: 11 candidatos (2 directos y 9 solo por intersección). No prueba por sí sola recepción vigente.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "santander-gobernacion",
+          "department": "Santander",
+          "layer": "gobernacion",
+          "status": "hecha",
+          "source": "Portal oficial de la gobernación",
+          "url": "https://santander.gov.co/",
+          "detail": "Portal oficial respondió HTTP 200; título: Sede Electrónica de la Gobernación de Santander; 197 enlaces visibles.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "santander-distritos",
+          "department": "Santander",
+          "layer": "distritos",
+          "status": "hecha",
+          "source": "Portal oficial de la capital",
+          "url": "https://www.bucaramanga.gov.co/",
+          "detail": "Portal oficial respondió HTTP 200; título: (sin título); 127 enlaces visibles.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "santander-cultura",
+          "department": "Santander",
+          "layer": "cultura",
+          "status": "hecha",
+          "source": "Enlace de cultura localizado en portal oficial",
+          "url": "https://santander.gov.co/7508",
+          "detail": "Enlace: Secretaría de Agricultura. Portal origen: https://santander.gov.co/. Se verificó la dirección oficial, no que exista una convocatoria abierta.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "santander-participacion",
+          "department": "Santander",
+          "layer": "participacion",
+          "status": "hecha",
+          "source": "Enlace de participacion localizado en portal oficial",
+          "url": "https://santander.gov.co/publicaciones/7015/4-planeacion-presupuesto-e-informes/",
+          "detail": "Enlace: Informes. Portal origen: https://santander.gov.co/. Se verificó la dirección oficial, no que exista una convocatoria abierta.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "santander-bancos",
+          "department": "Santander",
+          "layer": "bancos",
+          "status": "hecha",
+          "source": "Enlace de bancos localizado en portal oficial",
+          "url": "https://santander.gov.co/publicaciones/7015/4-planeacion-presupuesto-e-informes/",
+          "detail": "Enlace: Informes. Portal origen: https://santander.gov.co/. Se verificó la dirección oficial, no que exista una convocatoria abierta.",
+          "checked": "2026-11-19"
+        }
+      ],
+      "gaps": [],
+      "status": "cubierto",
+      "notes": [],
+      "reviewed": 6
+    },
+    {
+      "department": "Sucre",
+      "identity": {
+        "slug": "sucre",
+        "domain_hint": "sucre.gov.co",
+        "seats": [
+          "Sincelejo"
+        ],
+        "unified": false
+      },
+      "evidence": [
+        {
+          "id": "sucre-secop",
+          "department": "Sucre",
+          "layer": "secop",
+          "status": "hecha",
+          "source": "Colombia Compra Eficiente — SECOP II, dataset p6dx-8zbt",
+          "url": "https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-II-Procesos-de-Contrataci-n/p6dx-8zbt/about_data",
+          "detail": "Consulta temática ejecutada: 7 candidatos (2 directos y 5 solo por intersección). No prueba por sí sola recepción vigente.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "sucre-gobernacion",
+          "department": "Sucre",
+          "layer": "gobernacion",
+          "status": "hecha",
+          "source": "Portal oficial de la gobernación",
+          "url": "https://www.sucre.gov.co/",
+          "detail": "Portal oficial respondió HTTP 200; título: Territoriales; 0 enlaces visibles.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "sucre-distritos",
+          "department": "Sucre",
+          "layer": "distritos",
+          "status": "hecha",
+          "source": "Portal oficial de la capital",
+          "url": "https://www.alcaldiadesincelejo.gov.co/Paginas/default.aspx",
+          "detail": "Portal oficial respondió HTTP 200; título: Alcaldía de Sincelejo; 84 enlaces visibles.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "sucre-participacion",
+          "department": "Sucre",
+          "layer": "participacion",
+          "status": "hecha",
+          "source": "Portal oficial verificado",
+          "url": "https://www.sucre.gov.co/gestion-social/descripcion-general--participacion-ciudadana",
+          "detail": "Participación ciudadana verificada.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "sucre-bancos",
+          "department": "Sucre",
+          "layer": "bancos",
+          "status": "hecha",
+          "source": "Portal oficial verificado",
+          "url": "https://www.sucre.gov.co/tema/contrataciones",
+          "detail": "Contrataciones verificadas.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "sucre-cultura",
+          "department": "Sucre",
+          "layer": "cultura",
+          "status": "sin_hallazgo",
+          "source": "Portal oficial — revisión renderizada",
+          "url": "https://www.sucre.gov.co/",
+          "detail": "Se revisó la navegación renderizada y no se localizó un enlace público de cultura/patrimonio. Resultado: sin hallazgo en la portada, no equivale a inexistencia absoluta.",
+          "checked": "2026-11-19"
+        }
+      ],
+      "gaps": [],
+      "status": "cubierto",
+      "notes": [],
+      "reviewed": 6
+    },
+    {
+      "department": "Tolima",
+      "identity": {
+        "slug": "tolima",
+        "domain_hint": "tolima.gov.co",
+        "seats": [
+          "Ibagué",
+          "Ibague"
+        ],
+        "unified": false
+      },
+      "evidence": [
+        {
+          "id": "tolima-secop",
+          "department": "Tolima",
+          "layer": "secop",
+          "status": "hecha",
+          "source": "Colombia Compra Eficiente — SECOP II, dataset p6dx-8zbt",
+          "url": "https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-II-Procesos-de-Contrataci-n/p6dx-8zbt/about_data",
+          "detail": "Consulta temática ejecutada: 4 candidatos (2 directos y 2 solo por intersección). No prueba por sí sola recepción vigente.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "tolima-gobernacion",
+          "department": "Tolima",
+          "layer": "gobernacion",
+          "status": "hecha",
+          "source": "Portal oficial de la gobernación",
+          "url": "https://tolima.gov.co/",
+          "detail": "Portal oficial respondió HTTP 200; título: Gobernación del Tolima; 168 enlaces visibles.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "tolima-distritos",
+          "department": "Tolima",
+          "layer": "distritos",
+          "status": "hecha",
+          "source": "Portal oficial de la capital",
+          "url": "https://www.ibague.gov.co/portal/index.php",
+          "detail": "Portal oficial respondió HTTP 200; título: Alcaldía Municipal de Ibagué - Ibagué; 142 enlaces visibles.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "tolima-cultura",
+          "department": "Tolima",
+          "layer": "cultura",
+          "status": "hecha",
+          "source": "Enlace de cultura localizado en portal oficial",
+          "url": "https://tolima.gov.co/emisora-cultural-del-tolima",
+          "detail": "Enlace: Emisora Cultural del Tolima. Portal origen: https://tolima.gov.co/. Se verificó la dirección oficial, no que exista una convocatoria abierta.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "tolima-participacion",
+          "department": "Tolima",
+          "layer": "participacion",
+          "status": "hecha",
+          "source": "Enlace de participacion localizado en portal oficial",
+          "url": "https://tolima.gov.co/participa/participacion/foros",
+          "detail": "Enlace: Foros. Portal origen: https://tolima.gov.co/. Se verificó la dirección oficial, no que exista una convocatoria abierta.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "tolima-bancos",
+          "department": "Tolima",
+          "layer": "bancos",
+          "status": "hecha",
+          "source": "Enlace de bancos localizado en portal oficial",
+          "url": "https://tolima.gov.co/tolima/informacion-de-interes/banco-de-proyectos",
+          "detail": "Enlace: Banco de Proyectos. Portal origen: https://tolima.gov.co/. Se verificó la dirección oficial, no que exista una convocatoria abierta.",
+          "checked": "2026-11-19"
+        }
+      ],
+      "gaps": [],
+      "status": "cubierto",
+      "notes": [],
+      "reviewed": 6
+    },
+    {
+      "department": "Valle del Cauca",
+      "identity": {
+        "slug": "valle-del-cauca",
+        "domain_hint": "valledelcauca.gov.co",
+        "seats": [
+          "Cali"
+        ],
+        "unified": false
+      },
+      "evidence": [
+        {
+          "id": "valle-del-cauca-secop",
+          "department": "Valle del Cauca",
+          "layer": "secop",
+          "status": "hecha",
+          "source": "Colombia Compra Eficiente — SECOP II, dataset p6dx-8zbt",
+          "url": "https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-II-Procesos-de-Contrataci-n/p6dx-8zbt/about_data",
+          "detail": "Consulta temática ejecutada: 40 candidatos (19 directos y 21 solo por intersección). No prueba por sí sola recepción vigente.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "valle-del-cauca-gobernacion",
+          "department": "Valle del Cauca",
+          "layer": "gobernacion",
+          "status": "hecha",
+          "source": "Portal oficial de la gobernación",
+          "url": "https://www.valledelcauca.gov.co/",
+          "detail": "Portal oficial respondió HTTP 200; título: Gobernación Valle del Cauca; 179 enlaces visibles.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "valle-del-cauca-distritos",
+          "department": "Valle del Cauca",
+          "layer": "distritos",
+          "status": "hecha",
+          "source": "Portal oficial de la capital",
+          "url": "https://www.cali.gov.co/",
+          "detail": "Portal oficial respondió HTTP 200; título: Alcaldía de Santiago de Cali; 296 enlaces visibles.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "valle-del-cauca-cultura",
+          "department": "Valle del Cauca",
+          "layer": "cultura",
+          "status": "hecha",
+          "source": "Enlace de cultura localizado en portal oficial",
+          "url": "https://www.elvalleestaenvos.com/",
+          "detail": "Enlace: Cultura y turismo. Portal origen: https://www.valledelcauca.gov.co/. Se verificó la dirección oficial, no que exista una convocatoria abierta.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "valle-del-cauca-participacion",
+          "department": "Valle del Cauca",
+          "layer": "participacion",
+          "status": "hecha",
+          "source": "Enlace de participacion localizado en portal oficial",
+          "url": "https://participacionyciudadania.valledelcauca.gov.co/storage/Clientes/Gobernacion/participacionyciudadania/imagenes/INFORME%20T%C3%89CNICO%20NODO%20TERRIOTRIAL%20DEL%20DEPORTE.pdf",
+          "detail": "Enlace: Rendición de Cuentas del Nodo Territorial del Deporte. Portal origen: https://www.valledelcauca.gov.co/. Se verificó la dirección oficial, no que exista una convocatoria abierta.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "valle-del-cauca-bancos",
+          "department": "Valle del Cauca",
+          "layer": "bancos",
+          "status": "hecha",
+          "source": "Enlace de bancos localizado en portal oficial",
+          "url": "https://www.valledelcauca.gov.co/ConvocatoriasProgramas/",
+          "detail": "Enlace: Oferta Institucional. Portal origen: https://www.valledelcauca.gov.co/. Se verificó la dirección oficial, no que exista una convocatoria abierta.",
+          "checked": "2026-11-19"
+        }
+      ],
+      "gaps": [],
+      "status": "cubierto",
+      "notes": [],
+      "reviewed": 6
+    },
+    {
+      "department": "Vaupés",
+      "identity": {
+        "slug": "vaupes",
+        "domain_hint": "vaupes.gov.co",
+        "seats": [
+          "Mitú",
+          "Mitu"
+        ],
+        "unified": false
+      },
+      "evidence": [
+        {
+          "id": "vaupes-secop",
+          "department": "Vaupés",
+          "layer": "secop",
+          "status": "hecha",
+          "source": "Colombia Compra Eficiente — SECOP II, dataset p6dx-8zbt",
+          "url": "https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-II-Procesos-de-Contrataci-n/p6dx-8zbt/about_data",
+          "detail": "Consulta temática ejecutada: 0 candidatos (0 directos y 0 solo por intersección). No prueba por sí sola recepción vigente.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "vaupes-gobernacion",
+          "department": "Vaupés",
+          "layer": "gobernacion",
+          "status": "hecha",
+          "source": "Portal oficial de la gobernación",
+          "url": "https://www.vaupes.gov.co/",
+          "detail": "Portal oficial respondió HTTP 200; título: Territoriales; 0 enlaces visibles.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "vaupes-distritos",
+          "department": "Vaupés",
+          "layer": "distritos",
+          "status": "hecha",
+          "source": "Portal oficial de la capital",
+          "url": "https://www.mitu-vaupes.gov.co/Paginas/Inicio.aspx",
+          "detail": "Portal oficial respondió HTTP 200; título: Inicio; 94 enlaces visibles.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "vaupes-participacion",
+          "department": "Vaupés",
+          "layer": "participacion",
+          "status": "hecha",
+          "source": "Portal oficial verificado",
+          "url": "https://www.vaupes.gov.co/tema/planeacion-presupuesto-participativo",
+          "detail": "Planeación y presupuesto participativo verificado.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "vaupes-bancos",
+          "department": "Vaupés",
+          "layer": "bancos",
+          "status": "hecha",
+          "source": "Portal oficial verificado",
+          "url": "https://www.vaupes.gov.co/tema/planeacion-presupuesto-participativo",
+          "detail": "Planeación y presupuesto participativo verificado.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "vaupes-cultura",
+          "department": "Vaupés",
+          "layer": "cultura",
+          "status": "sin_hallazgo",
+          "source": "Portal oficial — revisión renderizada",
+          "url": "https://www.vaupes.gov.co/",
+          "detail": "Se revisó la navegación renderizada y no se localizó un enlace público de cultura/patrimonio. Resultado: sin hallazgo en la portada, no equivale a inexistencia absoluta.",
+          "checked": "2026-11-19"
+        }
+      ],
+      "gaps": [],
+      "status": "cubierto",
+      "notes": [],
+      "reviewed": 6
+    },
+    {
+      "department": "Vichada",
+      "identity": {
+        "slug": "vichada",
+        "domain_hint": "vichada.gov.co",
+        "seats": [
+          "Puerto Carreño",
+          "Puerto Carreno"
+        ],
+        "unified": false
+      },
+      "evidence": [
+        {
+          "id": "vichada-secop",
+          "department": "Vichada",
+          "layer": "secop",
+          "status": "hecha",
+          "source": "Colombia Compra Eficiente — SECOP II, dataset p6dx-8zbt",
+          "url": "https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-II-Procesos-de-Contrataci-n/p6dx-8zbt/about_data",
+          "detail": "Consulta temática ejecutada: 0 candidatos (0 directos y 0 solo por intersección). No prueba por sí sola recepción vigente.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "vichada-gobernacion",
+          "department": "Vichada",
+          "layer": "gobernacion",
+          "status": "hecha",
+          "source": "Portal oficial de la gobernación",
+          "url": "https://www.vichada.gov.co/",
+          "detail": "Portal oficial respondió HTTP 200; título: Territoriales; 0 enlaces visibles.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "vichada-distritos",
+          "department": "Vichada",
+          "layer": "distritos",
+          "status": "hecha",
+          "source": "Portal oficial de la capital",
+          "url": "https://www.puertocarreno-vichada.gov.co/Paginas/default.aspx",
+          "detail": "Portal oficial respondió HTTP 200; título: Alcaldía de Puerto Carreño - Vichada; 89 enlaces visibles.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "vichada-participacion",
+          "department": "Vichada",
+          "layer": "participacion",
+          "status": "hecha",
+          "source": "Portal oficial verificado",
+          "url": "https://www.vichada.gov.co/tema/participa",
+          "detail": "Sección Participa verificada.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "vichada-bancos",
+          "department": "Vichada",
+          "layer": "bancos",
+          "status": "hecha",
+          "source": "Portal oficial verificado",
+          "url": "https://www.vichada.gov.co/tema/planeacion-presupuesto-participativo",
+          "detail": "Planeación y presupuesto participativo verificados.",
+          "checked": "2026-11-19"
+        },
+        {
+          "id": "vichada-cultura",
+          "department": "Vichada",
+          "layer": "cultura",
+          "status": "sin_hallazgo",
+          "source": "Portal oficial / SGR — revisión renderizada",
+          "url": "https://www.vichada.gov.co/",
+          "detail": "Menú renderizado revisado; no se localizó Secretaría/Instituto de Cultura enlazado. Sin hallazgo en portada.",
+          "checked": "2026-11-19"
+        }
+      ],
+      "gaps": [],
+      "status": "cubierto",
+      "notes": [],
+      "reviewed": 6
+    }
+  ],
+  "notes": [
+    "33 unidades territoriales: 32 departamentos y Bogotá D.C.",
+    "SECOP se consultó con términos en nombre y descripción, estado abierto/publicado/no adjudicado y publicaciones de 2026.",
+    "Un enlace genérico de portal no equivale a convocatoria abierta.",
+    "Los territorios con protección anti-bot quedan como cobertura limitada."
+  ]
+}

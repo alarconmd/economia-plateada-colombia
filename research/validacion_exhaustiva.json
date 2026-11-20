@@ -1,0 +1,47 @@
+{
+  "resultado": "APROBADO",
+  "pdf": {
+    "archivo": "G:\\Mi unidad\\Empresas\\Vistage\\economia-plateada-colombia\\Informe_Economia_Plateada_Colombia_19NOV2026.pdf",
+    "bytes": 1421877,
+    "paginas": 151,
+    "A4": true,
+    "caracteres_minimos_pagina": 541,
+    "secop_ids": 952,
+    "fichas_fuente": 39,
+    "territorios": 33,
+    "enlaces_URI": 1806,
+    "enlaces_unicos": 1150,
+    "fuentes_esperadas": 193
+  },
+  "cobertura": {
+    "departamentos": 33,
+    "completos": 31,
+    "evidencias": 204,
+    "brechas": {
+      "Cesar": [
+        "bancos",
+        "cultura",
+        "participacion"
+      ],
+      "Magdalena": [
+        "bancos",
+        "cultura",
+        "distritos",
+        "gobernacion",
+        "participacion"
+      ]
+    }
+  },
+  "sitio": {
+    "ids_html": 24,
+    "recursos_locales": 8,
+    "dependencias_externas": 0,
+    "registros": 991
+  },
+  "renderes": [
+    "G:\\Mi unidad\\Empresas\\Vistage\\economia-plateada-colombia\\research\\pdf_exhaustivo_pagina_001.png",
+    "G:\\Mi unidad\\Empresas\\Vistage\\economia-plateada-colombia\\research\\pdf_exhaustivo_pagina_002.png",
+    "G:\\Mi unidad\\Empresas\\Vistage\\economia-plateada-colombia\\research\\pdf_exhaustivo_pagina_076.png",
+    "G:\\Mi unidad\\Empresas\\Vistage\\economia-plateada-colombia\\research\\pdf_exhaustivo_pagina_151.png"
+  ]
+}

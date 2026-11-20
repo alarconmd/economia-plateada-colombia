@@ -17,11 +17,17 @@ Economía plateada incluye soluciones para o lideradas por personas mayores; env
 
 ## SECOP II
 
-Fuente oficial: `https://www.datos.gov.co/resource/p6dx-8zbt.json` (dataset SECOP II – Procesos de Contratación, actualización diaria). Se consultaron por separado 24 términos en `nombre_del_procedimiento`, con `estado_de_apertura_del_proceso='Abierto'`, `estado_del_procedimiento='Publicado'` y `adjudicado='No'`.
+Fuente oficial: `https://www.datos.gov.co/resource/p6dx-8zbt.json` (actualización diaria). Universo de trabajo: procesos abiertos, publicados, no adjudicados y con publicación desde 2026. Se consultaron 34 términos en **nombre y descripción** con 68 consultas independientes.
 
-La consulta produjo 1.387 registros brutos. La selección exigió relación explícita, actualización desde el 1 de noviembre de 2026 y fase de presentación de ofertas; se excluyó contratación directa. Resultado: 27 candidatos. Se conservaron mínima cuantía y régimen especial cuando son mecanismos reales de participación, señalando su modalidad. No se suman presupuestos.
+La consulta produjo **12.850 registros candidatos**. El embudo operativo exige fase de oferta/manifestación, exclusión de contratación directa y actualización desde el 1 de octubre de 2026. Quedaron **952 candidatos**: 351 coincidencias directas y 601 intersecciones (cuidado, discapacidad o 60 años) que requieren validación del objeto. Los municipios abiertos entran por esta vía, no por una enumeración manual.
 
-**Limitación crítica:** el dataset no ofrece fecha/hora de cierre. La ficha pública puede solicitar captcha. Los estados abiertos pueden persistir en procesos antiguos; por eso se filtró actualización reciente y se etiqueta cada registro como “confirmar plazo”.
+**Limitación crítica:** el dataset no ofrece fecha/hora de cierre y la ficha pública puede pedir captcha. “Publicado” y “abierto” no prueba recepción vigente. Todo candidato debe abrirse y contrastarse con el pliego.
+
+## Cobertura territorial
+
+Se auditaron 33 unidades: 32 departamentos y Bogotá D.C. Para cada una se revisan seis capas: SECOP II; gobernación; capital/distrito; cultura; participación/planeación; y bancos/regalías/fondos. Las fuentes se buscan en portales oficiales, navegación HTML, renderizado JavaScript y sitemaps XML.
+
+Estados: **Hallazgo** (URL localizada), **Sin hallazgo** (navegación revisada sin canal visible), **Limitada** (bloqueo o menú no disponible) y **Pendiente** (capa no ejecutada). Al corte: **31/33 territorios con seis capas resueltas**; Cesar y Magdalena tienen brechas explícitas. La matriz no interpreta ausencia de enlace como ausencia de oportunidad.
 
 ## Evidencia documental
 
@@ -29,12 +35,12 @@ Se descargaron y extrajeron las bases CAF LIF 2026 (17 páginas), términos OCAD
 
 ## Controles de calidad
 
-- Campos obligatorios y URLs por los 66 registros.
-- IDs únicos y referencias locales existentes.
-- Pruebas de presets, búsqueda, persistencia URL, detalles, tema, móvil y descarga CSV.
-- PDF A4, 87 páginas, sin páginas en blanco, 27 IDs SECOP, 39 títulos base y 84 fuentes esperadas con anotaciones URI.
-- Render visual de portada, resumen, página intermedia y cierre.
+- Campos obligatorios y URLs por los 991 registros.
+- IDs únicos, referencias locales existentes y 33 territorios en la matriz.
+- Pruebas de presets, búsqueda, persistencia URL, paginación, señal directa/intersección, detalles, tema, móvil, CSV y cobertura.
+- PDF A4 de 151 páginas, sin páginas en blanco, 952 IDs SECOP, 39 fichas fuente, 33 territorios y 1.150 enlaces únicos.
+- Render visual de portada, resumen, tabla SECOP y cierre.
 
 ## Actualización
 
-Edite `research/datos_base.py`, actualice y depure SECOP con los scripts, ejecute los generadores y repita las validaciones. No cambie solo el HTML: PDF, sitio y CSV deben proceder de la misma base. Reconfirme todas las fechas con zona horaria, adendas y disponibilidad presupuestal.
+Edite `research/datos_base.py`, actualice y depure SECOP con `consultar_secop_exhaustivo.py`/`seleccionar_secop.py`, reconstruya fuentes y cobertura, ejecute los generadores y repita las validaciones. No cambie solo el HTML: PDF, sitio y CSV deben proceder de la misma base. Reconfirme fechas con zona horaria, adendas y disponibilidad presupuestal.
